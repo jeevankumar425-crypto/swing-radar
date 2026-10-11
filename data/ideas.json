@@ -15,7 +15,25 @@
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 63, volume 1.8x its 20-day average."
+   "why": "Above 50 and 200-day averages, RSI 63, volume 1.8x its 20-day average.",
+   "headlines": [
+    {
+     "title": "Persistent Systems Share Price - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OQXZRQUQ2OUhWQnJnQldBZjZMNkN2TEZFazJEWmUwNDQxVlhjRkRPV1dWZkNJU1MwRWRCZTZ0NWRub01TQ05DOGJESXZjRmVxWi1BdzE2Zkxud0FtNmVtY1RSMGZOdVU1WEpoOGJn?oc=5",
+     "source": "Upstox"
+    },
+    {
+     "title": "Persistent Systems (BSE:533179) Stock Forecast & Analyst Predictions - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTHZBeWpwMlRHSi1xNk5hcnJ0ZlhvVlZqNjFBY0d5Nnhna0l3ZTdVU2hTUXFkb3Awc2NrY1VNc2k1S1h6YU5tdGlycVZQcEFROVNhTDFGVEpLdUdfRlZuYXU2MHRFVVZoZUg0R2pUMnl4QzdGODdYaE1MdFVBWGVUR2pvSTZhbzVzbmhsNQ?oc=5",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Persistent Systems Secures 94.04% Of Nagarro Shares After Takeover Ends - Sahi",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZRbEY0OElySUVwOVB6c1hLdU4wczc4OThBZ2ZIc1p5bFNrWExuMEd6N2U1NnRKd2JmYmlfSWN2d2EtajFqU285TFBPbS1ZUE0zMVhEQ0NzSVN4c3ZYRHEycXB3RkQ3UUREbTNXU1lINDJ5WHEycUNOQ184Q1d6SkxXZC1pS3FmVWVBbjhtZE43WV9ONW5yWmpBWFE?oc=5",
+     "source": "Sahi"
+    }
+   ],
+   "flags": []
   },
   {
    "symbol": "COFORGE",
@@ -31,23 +49,25 @@
    ],
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 57, volume 1.0x its 20-day average."
-  },
-  {
-   "symbol": "ETERNAL",
-   "close": 323.45,
-   "stop": 308.1,
-   "target": 351.47,
-   "score": 53,
-   "parts": [
-    100,
-    21,
-    41,
-    50
+   "why": "Above 50 and 200-day averages, RSI 57, volume 1.0x its 20-day average.",
+   "headlines": [
+    {
+     "title": "COFORGE Share Price Today - Coforge on NSE/BSE - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZa0lSZHA2N3hySDFSYldJbkJFZkRsOHRzbXJuaWgwOUQyeTBsckQyM3FBYkQ1c3F6a1N1M0RJZjkyYWU2c3VNVHpDNHA1Z0Q3?oc=5",
+     "source": "scanx.trade"
+    },
+    {
+     "title": "Coforge Develops Framework To Guide Enterprise AI Agent Decisions - Analytics India Magazine",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGhINU5uOVd1RDdpVXQ1M3pFM1lEM3dyRFp6SnRUbGcxcTJBbVRIRlh3SkVXajVySlVjWGg3dXFvb2ktT0RuMHlRN0xDckpCV3BKa01fR2g0YTU3NjQwUGZGTjRXZjczZ0FROXVHV0Vpcjc3QUoxMnkxSWlTNGt1cVZGc1VmMXhMa2IzSS12djBiLXFhMk9uZVhtbEhicmhJbVMyYnR3?oc=5",
+     "source": "Analytics India Magazine"
+    },
+    {
+     "title": "Coforge Share Price - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9US3I1X0pBV2VvWTdZSE90dWhvY1FES1VvMnZ4b1JITGgzSk5KQUFtalBuX1VqT0F5cGtuRFhsbjRHSHlTR2t5Z3cxQktKRE1yUFREVWhmRVJiU2lwZ1BiZTI0YnY?oc=5",
+     "source": "Upstox"
+    }
    ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 49, volume 0.6x its 20-day average."
+   "flags": []
   },
   {
    "symbol": "PAYTM",
@@ -63,7 +83,59 @@
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 45, volume 1.0x its 20-day average."
+   "why": "Above 50 and 200-day averages, RSI 45, volume 1.0x its 20-day average.",
+   "headlines": [
+    {
+     "title": "One97 Communications (NSEI:PAYTM) Stock Forecast & Analyst Predictions - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW5feERSUmZQb2dYXzctRkZJTFlRT1JxTUJXM1p1am55ZEdJN1RMTHBzTmpMMUNXMzdxMjU1dXk4TDcxRnp5TG5uX2d3Mi1SU3p6Um92eEZ6M2lWTjhvOFM3MmlCbUdsUXBqTnpGOEhWc2VyT3c0ZmdjUzR4Y282NmxTeFZfUWFIZTJvNWhMdkd0YUVJdHY0WFYzUldtYm1j?oc=5",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Paytm Share Price - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10YnFLTkJqaUJ6ajFFc2tOQzFWS055TllhWG1LckQ3bnJyQUZMZnNLczA2SlhXMlBnV3RHY3JDazVRSVZacGY2b2JyV09XaHVudXBnSjRBQldudEZYTEoyOWdlNU9XVG8xWUVhUXJXUTVCZw?oc=5",
+     "source": "Upstox"
+    },
+    {
+     "title": "PAYTM Share Price Today - One 97 Communications on NSE/BSE - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uZ1FGcVRuX2Z1cXp3Q3JuRS1xY1RqWDFLMS1aVnIzWFRJUWViYUtzRy1YamwxdFI5NDdqUmxGcGdmeXVBLXR6U1U3WERfdw?oc=5",
+     "source": "scanx.trade"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 323.45,
+   "stop": 308.1,
+   "target": 351.47,
+   "score": 50,
+   "parts": [
+    100,
+    21,
+    41,
+    38
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 49, volume 0.6x its 20-day average.",
+   "headlines": [
+    {
+     "title": "Broker\u2019s call: Eternal (Buy) - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekdweXJCNHpsN3hQQ3dYeDFqMklQa3RrVVZlWVhOYmV2SEFsVEpBbDNWdkZUZmx3amx0SkhRN1prcVNNeEVvbDNLVEdySGdLUmswNjVoWnVSS1ZhSU91dWZXRzhzZ2xrR1Z5bmhUbTJoNDRtZ0xKeC1RQ3lsX3QwYXVtSDlGd29qQnVndzNkcVMzTXfSAZoBQVVfeXFMT2xVckNfejBCdUdzSUt6U3JkMzJBUXNrOHhTb2tGYWVtam5paFktS3ZORnl5V3YxLWtVMnFlc1lUazVwc0dUSmItNkNpT0IyZ0w3a2NkeUlVdXM4Zkw1cjZpcktueFljTGw3NWhocGNPTmlUZzFnUVJOazVVWE94eG40U2ZOMzdmTmIwa18zVHRPTGprc1VFeUJrdw?oc=5",
+     "source": "BusinessLine"
+    },
+    {
+     "title": "Buy Eternal; target of Rs 425: ICICI Securities - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVlRd1BQRmdxdmhtZ0dqTWNjS3lORWtkQmhIRmtZSjJoLURWWDlpb1F1ZXYwRWRFTTBBLW41V2xoUFJqdlFlT3hESHhaQWlQMFlsNDlsdFZycm9XYWYwbWdHRHpWZ09NWFd0QmhQaUFpcUdTYVhpQUZ5RkhaMmdGcXV3czNJNllsb3ZxYXU3bTFGYy0wM2lNcWlSZFg5anVBU2ZmaGRsSEpRdnl1?oc=5",
+     "source": "TradingView"
+    },
+    {
+     "title": "Eternal\u2019s Zomato and Blinkit launch \"Main Udega\" anthem celebrating delivery partners' dreams - Adgully.com",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd0NPdl9pSjRjOEE2WXZ5TVpyTkQ1OTM0dGRJRUwwbnFPYmpId3ZQRWVoTkhHbXpyVU1IQ2lua3JvSDFxdWJ4VFhEM3loRUM3LWhJamJzOG1XM1JRM3lLOWFvOXNwSURUMHNvekxoeGdLUEJNRFkwUzVlV2k0VGY0WmQ1WUZGdnZWQWpPUjlRUE5IMHdPU1FsUXppZjhWbEhGODN1bmtzak5xUWQ4VDJnVWl4VWZjMjhrQnBCZ3NiZU9PUQ?oc=5",
+     "source": "Adgully.com"
+    }
+   ],
+   "flags": []
   }
  ],
  "etf": [
@@ -115,5 +187,8 @@
    "timeframe": "1-3 months",
    "why": "Weak trend, below 200-day average, RSI 35."
   }
+ ],
+ "notes": [
+  "News: headlines found for 4 of 4 picks (simple keyword check, not a full reading)."
  ]
 }
