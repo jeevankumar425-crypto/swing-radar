@@ -1,0 +1,69 @@
+{
+ "asof": "2026-10-09",
+ "swing": [
+  {
+   "symbol": "PERSISTENT",
+   "close": 5770.0,
+   "stop": 5441.86,
+   "target": 6262.21,
+   "score": 66,
+   "parts": [
+    100,
+    87,
+    25,
+    50
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 63, volume 1.8x its 20-day average."
+  },
+  {
+   "symbol": "COFORGE",
+   "close": 1867.9,
+   "stop": 1752.11,
+   "target": 2041.58,
+   "score": 56,
+   "parts": [
+    100,
+    48,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 57, volume 1.0x its 20-day average."
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 323.45,
+   "stop": 308.1,
+   "target": 351.47,
+   "score": 53,
+   "parts": [
+    100,
+    21,
+    41,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 49, volume 0.6x its 20-day average."
+  },
+  {
+   "symbol": "PAYTM",
+   "close": 1636.0,
+   "stop": 1558.8,
+   "target": 1828.51,
+   "score": 51,
+   "parts": [
+    60,
+    19,
+    75,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 45, volume 1.0x its 20-day average."
+  }
+ ]
+}
