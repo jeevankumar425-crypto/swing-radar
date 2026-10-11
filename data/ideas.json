@@ -65,5 +65,55 @@
    "timeframe": "2-4 weeks",
    "why": "Above 50 and 200-day averages, RSI 45, volume 1.0x its 20-day average."
   }
+ ],
+ "etf": [
+  {
+   "symbol": "JUNIORBEES",
+   "close": 738.11,
+   "stop": 730.12,
+   "target": 786.07,
+   "score": 48,
+   "parts": [
+    30,
+    12,
+    100,
+    50
+   ],
+   "pattern": "Weak trend, below 200-day average",
+   "timeframe": "1-3 months",
+   "why": "Weak trend, below 200-day average, RSI 32."
+  },
+  {
+   "symbol": "ITBEES",
+   "close": 31.84,
+   "stop": 30.7,
+   "target": 34.19,
+   "score": 40,
+   "parts": [
+    0,
+    56,
+    53,
+    50
+   ],
+   "pattern": "Weak trend, below 200-day average",
+   "timeframe": "1-3 months",
+   "why": "Weak trend, below 200-day average, RSI 49."
+  },
+  {
+   "symbol": "NIFTYBEES",
+   "close": 257.35,
+   "stop": 253.37,
+   "target": 269.33,
+   "score": 38,
+   "parts": [
+    0,
+    0,
+    100,
+    50
+   ],
+   "pattern": "Weak trend, below 200-day average",
+   "timeframe": "1-3 months",
+   "why": "Weak trend, below 200-day average, RSI 35."
+  }
  ]
 }
