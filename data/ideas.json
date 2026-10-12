@@ -16,6 +16,7 @@
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
    "why": "Above 50 and 200-day averages, RSI 63, volume 1.8x its 20-day average.",
+   "verified": true,
    "headlines": [
     {
      "title": "Persistent Systems (NSEI:PERSISTENT) Stock Forecast & Analyst Predictions - Simply Wall Street",
@@ -23,14 +24,14 @@
      "source": "Simply Wall Street"
     },
     {
-     "title": "Persistent Systems Share Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OQXZRQUQ2OUhWQnJnQldBZjZMNkN2TEZFazJEWmUwNDQxVlhjRkRPV1dWZkNJU1MwRWRCZTZ0NWRub01TQ05DOGJESXZjRmVxWi1BdzE2Zkxud0FtNmVtY1RSMGZOdVU1WEpoOGJn?oc=5",
-     "source": "Upstox"
-    },
-    {
      "title": "Persistent Systems Secures 94.04% Of Nagarro Shares After Takeover Ends - Sahi",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZRbEY0OElySUVwOVB6c1hLdU4wczc4OThBZ2ZIc1p5bFNrWExuMEd6N2U1NnRKd2JmYmlfSWN2d2EtajFqU285TFBPbS1ZUE0zMVhEQ0NzSVN4c3ZYRHEycXB3RkQ3UUREbTNXU1lINDJ5WHEycUNOQ184Q1d6SkxXZC1pS3FmVWVBbjhtZE43WV9ONW5yWmpBWFE?oc=5",
      "source": "Sahi"
+    },
+    {
+     "title": "PERSISTENT Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03ZTZTYkRWMmhCbHAtaXluVDNJWDJNZEtvSUhHd0ZreDZTTU9yOTVaeDNERHZ1MUV2M29iUWpJbE5KU0NnSXVFLVZfRnpuVzVONzcyYlpiTEVfTkpmZ3NJaWVaN3E0dTNVbkh3M3ln?oc=5",
+     "source": "Equitypandit"
     }
    ],
    "flags": []
@@ -50,6 +51,7 @@
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
    "why": "Above 50 and 200-day averages, RSI 57, volume 1.0x its 20-day average.",
+   "verified": true,
    "headlines": [
     {
      "title": "COFORGE Share Price Today - Coforge on NSE/BSE - scanx.trade",
@@ -70,40 +72,6 @@
    "flags": []
   },
   {
-   "symbol": "ETERNAL",
-   "close": 323.45,
-   "stop": 308.1,
-   "target": 351.47,
-   "score": 53,
-   "parts": [
-    100,
-    21,
-    41,
-    50
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 49, volume 0.6x its 20-day average.",
-   "headlines": [
-    {
-     "title": "Food delivery stock to buy: Eternal shares - 36% returns in 6 months by Zomato parent | 22% more upside ahead? - Livemint",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnB6S3FfVFVQXzRIRk42NTlBN1dfUThFVW14QWpNRlozLWhNQ2FrMUwydG91TF90TXRadnNDVzVLMldnSkprLTZoUFZqUWdMRXZTaXc1Y1RLY1ZZMlRNTEk0TzJGQXhoU1hab0JzeVFCcS1EN1BtTzJnZURlMjZMdVVJcUdnUWp1YVBMMzR6Xy1vVEJCVFhBLVVpS3JMZWN2aVAyRl9QRDd6eTI3cTNDX3VIUnVWZ25PWUYtN0w4ak1yVFhJdG9oTDZtLTdDOWdOeUZiQXVCdTY0aXp0NlNoNUFtTE9TQlBxaVF3YkNXcjBPajZPZG9Ed3Jna0dLZ1dfdUHSAYcCQVVfeXFMTXhCN1hCbVh6ZEVtS0wyb2c2TTNuczU2LTBnWW44ZHFLS2RvUzM2T1kyeDIwd3MzVklPVkUxcEJhT25IeXp6aWw5X1RDa25CZENSWUhCcURxQ2N3YkNxZGUzWmZLWXd2SjVTMTFpbzNNbG43X1g1VUlLUGR5ZHJhdFp1UmVpM1hZb1FDTTQ4b0dBczU0M2VkZkdYYllLcU51bnZyLXExbkZwMFlpeWxtZGJMcXBnNlVBb082SEV1RWczVmdMY3ZXYldtLWtQMWpUeXhld2t3MHdOZXBJVnp0aDdhWkstbmxaYnR5dlRpckdCdkUyQk9jZER5OThvbFNqblE3WEVCYXM?oc=5",
-     "source": "Livemint"
-    },
-    {
-     "title": "Broker\u2019s call: Eternal (Buy) - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekdweXJCNHpsN3hQQ3dYeDFqMklQa3RrVVZlWVhOYmV2SEFsVEpBbDNWdkZUZmx3amx0SkhRN1prcVNNeEVvbDNLVEdySGdLUmswNjVoWnVSS1ZhSU91dWZXRzhzZ2xrR1Z5bmhUbTJoNDRtZ0xKeC1RQ3lsX3QwYXVtSDlGd29qQnVndzNkcVMzTXfSAZoBQVVfeXFMT2xVckNfejBCdUdzSUt6U3JkMzJBUXNrOHhTb2tGYWVtam5paFktS3ZORnl5V3YxLWtVMnFlc1lUazVwc0dUSmItNkNpT0IyZ0w3a2NkeUlVdXM4Zkw1cjZpcktueFljTGw3NWhocGNPTmlUZzFnUVJOazVVWE94eG40U2ZOMzdmTmIwa18zVHRPTGprc1VFeUJrdw?oc=5",
-     "source": "BusinessLine"
-    },
-    {
-     "title": "Buy Eternal; target of Rs 425: ICICI Securities - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVlRd1BQRmdxdmhtZ0dqTWNjS3lORWtkQmhIRmtZSjJoLURWWDlpb1F1ZXYwRWRFTTBBLW41V2xoUFJqdlFlT3hESHhaQWlQMFlsNDlsdFZycm9XYWYwbWdHRHpWZ09NWFd0QmhQaUFpcUdTYVhpQUZ5RkhaMmdGcXV3czNJNllsb3ZxYXU3bTFGYy0wM2lNcWlSZFg5anVBU2ZmaGRsSEpRdnl1?oc=5",
-     "source": "TradingView"
-    }
-   ],
-   "flags": []
-  },
-  {
    "symbol": "PAYTM",
    "close": 1636.0,
    "stop": 1558.8,
@@ -118,6 +86,7 @@
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
    "why": "Above 50 and 200-day averages, RSI 45, volume 1.0x its 20-day average.",
+   "verified": true,
    "headlines": [
     {
      "title": "One97 Communications (NSEI:PAYTM) Stock Forecast & Analyst Predictions - Simply Wall Street",
@@ -153,7 +122,8 @@
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 32."
+   "why": "Weak trend, below 200-day average, RSI 32.",
+   "verified": true
   },
   {
    "symbol": "ITBEES",
@@ -169,7 +139,8 @@
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 49."
+   "why": "Weak trend, below 200-day average, RSI 49.",
+   "verified": true
   },
   {
    "symbol": "NIFTYBEES",
@@ -185,7 +156,8 @@
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 35."
+   "why": "Weak trend, below 200-day average, RSI 35.",
+   "verified": true
   }
  ],
  "long": [
@@ -203,7 +175,8 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 60% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked."
+   "why": "Up 60% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
+   "verified": true
   },
   {
    "symbol": "FEDERALBNK",
@@ -219,7 +192,8 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 20% in 6 months, above its 200-day average, worst fall 15%, volatility 24%. Fundamentals not checked."
+   "why": "Up 20% in 6 months, above its 200-day average, worst fall 15%, volatility 24%. Fundamentals not checked.",
+   "verified": true
   },
   {
    "symbol": "MOTHERSON",
@@ -235,7 +209,8 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 30% in 6 months, above its 200-day average, worst fall 22%, volatility 34%. Fundamentals not checked."
+   "why": "Up 30% in 6 months, above its 200-day average, worst fall 22%, volatility 34%. Fundamentals not checked.",
+   "verified": true
   },
   {
    "symbol": "PAYTM",
@@ -251,23 +226,8 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 59% in 6 months, above its 200-day average, worst fall 29%, volatility 42%. Fundamentals not checked."
-  },
-  {
-   "symbol": "ETERNAL",
-   "close": 323.45,
-   "stop": 269.27,
-   "target": 376.26,
-   "score": 58,
-   "parts": [
-    100,
-    55,
-    29,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 33% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked."
+   "why": "Up 59% in 6 months, above its 200-day average, worst fall 29%, volatility 42%. Fundamentals not checked.",
+   "verified": true
   },
   {
    "symbol": "ADANIPOWER",
@@ -283,7 +243,8 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 12% in 6 months, above its 200-day average, worst fall 24%, volatility 36%. Fundamentals not checked."
+   "why": "Up 12% in 6 months, above its 200-day average, worst fall 24%, volatility 36%. Fundamentals not checked.",
+   "verified": true
   },
   {
    "symbol": "SAIL",
@@ -299,10 +260,12 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 4% in 6 months, above its 200-day average, worst fall 22%, volatility 38%. Fundamentals not checked."
+   "why": "Up 4% in 6 months, above its 200-day average, worst fall 22%, volatility 38%. Fundamentals not checked.",
+   "verified": true
   }
  ],
  "notes": [
-  "News: headlines found for 4 of 4 picks (simple keyword check, not a full reading)."
+  "Checked against BSE: 12 match, 0 not checked, 2 removed (ETERNAL, ETERNAL).",
+  "News: headlines found for 3 of 3 picks (simple keyword check, not a full reading)."
  ]
 }
