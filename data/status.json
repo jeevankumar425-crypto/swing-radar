@@ -1,0 +1,11 @@
+{
+ "ok": true,
+ "time": "2026-10-12T11:20+05:30",
+ "asof": "2026-10-09",
+ "notes": [
+  "Checked against BSE: 12 match, 2 not tagged, 0 removed.",
+  "Kept without tag: ETERNAL on 08 Oct: NSE 319.05 vs BSE 323.00, 1.2% apart",
+  "News: headlines found for 4 of 4 picks (simple keyword check, not a full reading)."
+ ],
+ "error": null
+}
