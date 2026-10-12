@@ -72,6 +72,41 @@
    "flags": []
   },
   {
+   "symbol": "ETERNAL",
+   "close": 323.45,
+   "stop": 308.1,
+   "target": 351.47,
+   "score": 53,
+   "parts": [
+    100,
+    21,
+    41,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 49, volume 0.6x its 20-day average.",
+   "verified": null,
+   "headlines": [
+    {
+     "title": "Food delivery stock to buy: Eternal shares - 36% returns in 6 months by Zomato parent | 22% more upside ahead? - Livemint",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnB6S3FfVFVQXzRIRk42NTlBN1dfUThFVW14QWpNRlozLWhNQ2FrMUwydG91TF90TXRadnNDVzVLMldnSkprLTZoUFZqUWdMRXZTaXc1Y1RLY1ZZMlRNTEk0TzJGQXhoU1hab0JzeVFCcS1EN1BtTzJnZURlMjZMdVVJcUdnUWp1YVBMMzR6Xy1vVEJCVFhBLVVpS3JMZWN2aVAyRl9QRDd6eTI3cTNDX3VIUnVWZ25PWUYtN0w4ak1yVFhJdG9oTDZtLTdDOWdOeUZiQXVCdTY0aXp0NlNoNUFtTE9TQlBxaVF3YkNXcjBPajZPZG9Ed3Jna0dLZ1dfdUHSAYcCQVVfeXFMTXhCN1hCbVh6ZEVtS0wyb2c2TTNuczU2LTBnWW44ZHFLS2RvUzM2T1kyeDIwd3MzVklPVkUxcEJhT25IeXp6aWw5X1RDa25CZENSWUhCcURxQ2N3YkNxZGUzWmZLWXd2SjVTMTFpbzNNbG43X1g1VUlLUGR5ZHJhdFp1UmVpM1hZb1FDTTQ4b0dBczU0M2VkZkdYYllLcU51bnZyLXExbkZwMFlpeWxtZGJMcXBnNlVBb082SEV1RWczVmdMY3ZXYldtLWtQMWpUeXhld2t3MHdOZXBJVnp0aDdhWkstbmxaYnR5dlRpckdCdkUyQk9jZER5OThvbFNqblE3WEVCYXM?oc=5",
+     "source": "Livemint"
+    },
+    {
+     "title": "Broker\u2019s call: Eternal (Buy) - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekdweXJCNHpsN3hQQ3dYeDFqMklQa3RrVVZlWVhOYmV2SEFsVEpBbDNWdkZUZmx3amx0SkhRN1prcVNNeEVvbDNLVEdySGdLUmswNjVoWnVSS1ZhSU91dWZXRzhzZ2xrR1Z5bmhUbTJoNDRtZ0xKeC1RQ3lsX3QwYXVtSDlGd29qQnVndzNkcVMzTXfSAZoBQVVfeXFMT2xVckNfejBCdUdzSUt6U3JkMzJBUXNrOHhTb2tGYWVtam5paFktS3ZORnl5V3YxLWtVMnFlc1lUazVwc0dUSmItNkNpT0IyZ0w3a2NkeUlVdXM4Zkw1cjZpcktueFljTGw3NWhocGNPTmlUZzFnUVJOazVVWE94eG40U2ZOMzdmTmIwa18zVHRPTGprc1VFeUJrdw?oc=5",
+     "source": "BusinessLine"
+    },
+    {
+     "title": "Buy Eternal; target of Rs 425: ICICI Securities - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVlRd1BQRmdxdmhtZ0dqTWNjS3lORWtkQmhIRmtZSjJoLURWWDlpb1F1ZXYwRWRFTTBBLW41V2xoUFJqdlFlT3hESHhaQWlQMFlsNDlsdFZycm9XYWYwbWdHRHpWZ09NWFd0QmhQaUFpcUdTYVhpQUZ5RkhaMmdGcXV3czNJNllsb3ZxYXU3bTFGYy0wM2lNcWlSZFg5anVBU2ZmaGRsSEpRdnl1?oc=5",
+     "source": "TradingView"
+    }
+   ],
+   "flags": []
+  },
+  {
    "symbol": "PAYTM",
    "close": 1636.0,
    "stop": 1558.8,
@@ -230,6 +265,23 @@
    "verified": true
   },
   {
+   "symbol": "ETERNAL",
+   "close": 323.45,
+   "stop": 269.27,
+   "target": 376.26,
+   "score": 58,
+   "parts": [
+    100,
+    55,
+    29,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 33% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
+   "verified": null
+  },
+  {
    "symbol": "ADANIPOWER",
    "close": 189.0,
    "stop": 170.1,
@@ -265,8 +317,8 @@
   }
  ],
  "notes": [
-  "Checked against BSE: 12 match, 0 not checked, 2 removed.",
-  "Removed: ETERNAL on 08 Oct: NSE 319.05 vs BSE 323.00, 1.2% apart",
-  "News: headlines found for 3 of 3 picks (simple keyword check, not a full reading)."
+  "Checked against BSE: 12 match, 2 not tagged, 0 removed.",
+  "Kept without tag: ETERNAL on 08 Oct: NSE 319.05 vs BSE 323.00, 1.2% apart",
+  "News: headlines found for 4 of 4 picks (simple keyword check, not a full reading)."
  ]
 }
