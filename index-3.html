@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Swing Radar</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;700&display=swap">
+<style>
+:root{--bg:#fff;--card:#f6f8f6;color-scheme:light;--ink:#14211c;--mut:#5d6b64;--line:#dde3dd;--acc:#0e6b5c;--accbg:#dff0ea;--up:#1b7f4b;--dn:#b3372f;--dnbg:#fbe9e7;--warn:#8a5a0b;--warnbg:#fbf0d9;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+
+
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.5 Figtree,system-ui,sans-serif;-webkit-tap-highlight-color:transparent}
+#app{max-width:480px;margin:0 auto;padding:14px 14px 90px}
+header{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+h1{font-size:19px;margin:0;font-weight:700}
+h2{font-size:16px;margin:20px 0 8px;font-weight:700}
+button{font:inherit;color:inherit;cursor:pointer}
+.ic{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:7px 12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:10px}
+.tap{width:100%;text-align:left;display:block}
+.row{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.big{font-size:34px;font-weight:700;letter-spacing:-.5px;line-height:1.1}
+.mut{color:var(--mut);font-size:13px}
+.up{color:var(--up)}.dn{color:var(--dn)}
+.bar{height:8px;background:var(--line);border-radius:4px;overflow:hidden;margin:8px 0 4px}
+.bar i{display:block;height:100%;background:var(--acc)}
+.pill{font-size:12px;font-weight:500;padding:2px 9px;border-radius:99px;background:var(--accbg);color:var(--acc)}
+.alert{background:var(--warnbg);border-color:var(--warn)}
+.alert b{color:var(--warn)}
+.btns{display:flex;gap:8px;margin-top:10px}
+.btn{flex:1;padding:10px;border-radius:10px;border:1px solid var(--line);background:var(--card);font-weight:500}
+.btn.p{background:var(--acc);border-color:var(--acc);color:var(--bg)}
+.btn.d{background:var(--dn);border-color:var(--dn);color:#fff}
+nav{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--line);display:flex;padding:6px 8px calc(6px + env(safe-area-inset-bottom,0px))}
+nav button{flex:1;background:none;border:0;padding:8px;font-weight:500;color:var(--mut);border-radius:10px}
+nav button.on{color:var(--acc);background:var(--accbg)}
+.sheet{position:fixed;inset:0;background:rgba(0,0,0,.45);display:flex;align-items:flex-end;justify-content:center;z-index:5}
+.sheet>div{background:var(--bg);width:100%;max-width:480px;max-height:88%;overflow:auto;border-radius:18px 18px 0 0;padding:16px 16px calc(18px + env(safe-area-inset-bottom,0px))}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:10px 0}
+.grid div{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px}
+.grid b{display:block;font-size:16px}
+svg{width:100%;height:auto;display:block}
+label.set{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
+input[type=number]{width:96px;padding:7px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;text-align:right}
+input[type=checkbox]{width:22px;height:22px;accent-color:var(--acc)}
+#toast{position:fixed;left:50%;transform:translateX(-50%);bottom:84px;background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:99px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:9;max-width:90%;text-align:center}
+#toast.on{opacity:1}
+.note{background:var(--accbg);color:var(--acc);border-radius:10px;padding:8px 12px;font-size:13px;margin-bottom:10px}
+</style>
+</head>
+<body>
+<div id="app"></div>
+<nav id="nav"></nav>
+<div id="sheet"></div>
+<div id="toast" role="status"></div>
+<script>
+var D={INFY:{n:'Infosys',p:1402,v:1482},RELIANCE:{n:'Reliance Industries',p:1322,v:1315},
+TATASTEEL:{n:'Tata Steel',p:168.4,v:166.9,t:'s',pat:'Bull flag breakout',sc:86,sl:161.2,tg:182,why:'Price broke above a tight flag on rising volume. Stop sits under the flag low.',nw:'Sample: steel demand outlook upgraded by analysts'},
+SBIN:{n:'State Bank of India',p:812,v:809,t:'s',pat:'Pullback to 50-day average',sc:82,sl:785,tg:868,why:'Uptrend intact; price bounced off its 50-day average with momentum turning up.',nw:'Sample: loan growth steady in latest update'},
+BHARTIARTL:{n:'Bharti Airtel',p:1655,v:1641,t:'s',pat:'Base breakout, volume surge',sc:79,sl:1598,tg:1760,why:'Cleared a 6-week base with volume well above average.',nw:'Sample: tariff revision chatter in sector news'},
+ITC:{n:'ITC',p:421,v:420,t:'s',pat:'Double bottom neckline',sc:74,sl:408,tg:447,why:'Two equal lows and now testing the neckline. Needs a close above to confirm.',nw:'Sample: no major company news this week'},
+LT:{n:'Larsen & Toubro',p:3590,v:3571,t:'s',pat:'Higher lows, RSI turning up',sc:71,sl:3470,tg:3830,why:'Series of higher lows; RSI recovering from the 40s.',nw:'Sample: new order wins announced'},
+TCS:{n:'Tata Consultancy',p:3920,v:3905,t:'l',pat:'Steady earnings, low debt',sc:88,sl:3500,tg:4700,why:'Consistent profit growth, almost no debt, strong cash generation.',nw:'Sample: quarterly results due soon'},
+HDFCBANK:{n:'HDFC Bank',p:1725,v:1718,t:'l',pat:'Quality bank, fair valuation',sc:84,sl:1560,tg:2050,why:'Large deposit base, stable margins, valuation near its own average.',nw:'Sample: merger integration on track'},
+ASIANPAINT:{n:'Asian Paints',p:2480,v:2466,t:'l',pat:'Market leader, recovering demand',sc:78,sl:2230,tg:2900,why:'Leader in its category with improving volume trend.',nw:'Sample: raw material costs easing'},
+TITAN:{n:'Titan Company',p:3410,v:3398,t:'l',pat:'Strong brand, steady growth',sc:76,sl:3050,tg:4000,why:'Steady revenue growth and expanding store network.',nw:'Sample: festive season demand outlook'},
+NESTLEIND:{n:'Nestle India',p:2390,v:2384,t:'l',pat:'Defensive, consistent dividends',sc:72,sl:2150,tg:2750,why:'Stable earnings and low volatility; a calmer holding.',nw:'Sample: input costs stable'}};
+var S0={cash:28750,hold:[{s:'INFY',q:10,avg:1480,sl:1420,tg:1600},{s:'RELIANCE',q:5,avg:1290,sl:1255,tg:1400}],log:['Paper wallet started with ₹50,000'],cfg:{risk:750,cap:5000,auto:true,pause:false},done:false};
+var st=null;try{st=JSON.parse(localStorage.getItem('swingradar')||'null')}catch(e){}
+if(!st)st=JSON.parse(JSON.stringify(S0));
+var tab='home',left=600,tm=null;
+function save(){try{localStorage.setItem('swingradar',JSON.stringify(st))}catch(e){}}
+function inr(n){return(n<0?'-':'')+'₹'+Math.abs(Math.round(n)).toLocaleString('en-IN')}
+function pc(n){return(n>=0?'+':'')+n.toFixed(1)+'%'}
+function val(){return st.cash+st.hold.reduce(function(a,h){return a+h.q*D[h.s].p},0)}
+function today(){return st.hold.reduce(function(a,h){return a+h.q*(D[h.s].p-D[h.s].v)},0)}
+function $(i){return document.getElementById(i)}
+function toast(m){var t=$('toast');t.textContent=m;t.className='on';setTimeout(function(){t.className=''},2400)}
+function log(m){st.log.unshift(m);st.log=st.log.slice(0,6)}
+function qtyFor(s){var d=D[s],r=d.p-d.sl,q=Math.floor(st.cfg.risk/r);return Math.max(0,Math.min(q,Math.floor(st.cash/d.p)))}
+function buy(s){var d=D[s],q=Math.floor(+($('qty')||{}).value||0),mx=Math.floor(st.cash/d.p);if(q<1){toast('Enter a quantity of at least 1');return}if(q>mx){toast('Not enough cash. Max '+mx+' shares');return}
+var h=st.hold.filter(function(x){return x.s===s})[0];
+if(h){h.avg=(h.avg*h.q+d.p*q)/(h.q+q);h.q+=q;h.sl=d.sl;h.tg=d.tg}else st.hold.push({s:s,q:q,avg:d.p,sl:d.sl,tg:d.tg});
+st.cash-=q*d.p;log('Paper bought '+q+' '+s+' at '+inr(d.p)+', stop '+inr(d.sl));save();closeSheet();toast('Paper trade placed: '+q+' '+s);render()}
+function sell(s,how){var i=-1;st.hold.forEach(function(h,k){if(h.s===s)i=k});if(i<0)return;var h=st.hold[i],d=D[s];
+st.cash+=h.q*d.p;log((how==='auto'?'Auto-sold ':'Sold ')+h.q+' '+s+' at '+inr(d.p)+' ('+inr((d.p-h.avg)*h.q)+')');st.hold.splice(i,1);
+if(s==='INFY')st.done=true;save();closeSheet();toast(how==='auto'?'Protective sell executed':'Sold '+s);render()}
+function chart(s,h){var d=D[s],seed=0;for(var i=0;i<s.length;i++)seed+=s.charCodeAt(i);
+function rnd(){seed=(seed*9301+49297)%233280;return seed/233280}
+var pts=[d.p],x=d.p;for(i=0;i<44;i++){x=x*(1+(rnd()-.5)*.03+(d.t==='l'?-.002:-.004));pts.unshift(x)}
+var ex=[d.p,d.sl||h.sl,d.tg||h.tg],all=pts.concat(ex),mn=Math.min.apply(0,all)*.995,mx=Math.max.apply(0,all)*1.005;
+function Y(v){return 8+(1-(v-mn)/(mx-mn))*124}
+var line=pts.map(function(v,k){return(k?'L':'M')+(k*320/44).toFixed(1)+' '+Y(v).toFixed(1)}).join('');
+function ref(v,c,t){return'<line x1="0" x2="320" y1="'+Y(v)+'" y2="'+Y(v)+'" stroke="'+c+'" stroke-dasharray="4 3" stroke-width="1"/><text x="4" y="'+(Y(v)-3)+'" font-size="10" fill="'+c+'">'+t+' '+inr(v)+'</text>'}
+return'<svg viewBox="0 0 320 140" role="img" aria-label="Sample price chart"><path d="'+line+'" fill="none" stroke="var(--ink)" stroke-width="1.6"/>'+ref(d.tg||h.tg,'var(--up)','Target')+ref(d.sl||h.sl,'var(--dn)','Stop')+'</svg>'}
+function openIdea(s){var d=D[s],q=qtyFor(s),sh=$('sheet');
+sh.innerHTML='<div class="sheet" onclick="if(event.target===this)closeSheet()"><div><div class="row"><h1>'+s+'</h1><span class="pill">Score '+d.sc+'</span></div><div class="mut">'+d.n+' · '+d.pat+'</div>'+chart(s,{})+
+'<div class="grid"><div><span class="mut">Entry</span><b>'+inr(d.p)+'</b></div><div><span class="mut">Stop</span><b class="dn">'+inr(d.sl)+'</b></div><div><span class="mut">Target</span><b class="up">'+inr(d.tg)+'</b></div></div>'+
+'<div class="card"><b>Why it is here</b><div>'+d.why+'</div><div class="mut" style="margin-top:6px">'+d.nw+'</div></div>'+
+'<div class="card"><b>Quantity</b><div class="mut">Suggested: '+q+' shares, sized so a stop hit costs about '+inr(st.cfg.risk)+'</div><div class="row" style="margin:10px 0;justify-content:center"><button class="btn" style="flex:0 0 48px" onclick="stepQ(-1,\''+s+'\')" aria-label="Decrease quantity">-</button><input type="number" id="qty" min="1" value="'+Math.max(1,q)+'" oninput="updQ(\''+s+'\')" style="width:90px;font-size:20px" aria-label="Quantity"><button class="btn" style="flex:0 0 48px" onclick="stepQ(1,\''+s+'\')" aria-label="Increase quantity">+</button></div><div id="qinfo"></div></div>'+
+'<div class="btns"><button class="btn" onclick="closeSheet()">Close</button><button class="btn p" onclick="buy(\''+s+'\')">Paper buy</button></div></div></div>';updQ(s)}
+function updQ(s){var d=D[s],q=Math.floor(+$('qty').value||0),mx=Math.floor(st.cash/d.p),ls=q*(d.p-d.sl),m='Cost '+inr(q*d.p)+' · Loss if stop hits '+inr(ls)+' · Cash left '+inr(st.cash-q*d.p);if(q>mx)m='<span class="dn">More than your cash allows. Max '+mx+' shares.</span>';else if(ls>st.cfg.risk*1.05)m+='<div class="dn">Above your '+inr(st.cfg.risk)+' risk per trade.</div>';$('qinfo').innerHTML='<div class="mut" style="text-align:center">'+m+'</div>'}
+function stepQ(n,s){var i=$('qty');i.value=Math.max(1,(Math.floor(+i.value)||0)+n);updQ(s)}
+function openHold(s){var h=st.hold.filter(function(x){return x.s===s})[0],d=D[s],pl=(d.p-h.avg)*h.q,sh=$('sheet');
+sh.innerHTML='<div class="sheet" onclick="if(event.target===this)closeSheet()"><div><div class="row"><h1>'+s+'</h1><b class="'+(pl>=0?'up':'dn')+'">'+inr(pl)+'</b></div><div class="mut">'+d.n+' · '+h.q+' shares, avg '+inr(h.avg)+'</div>'+chart(s,h)+
+'<div class="grid"><div><span class="mut">Price</span><b>'+inr(d.p)+'</b></div><div><span class="mut">Stop</span><b class="dn">'+inr(h.sl)+'</b></div><div><span class="mut">Target</span><b class="up">'+inr(h.tg)+'</b></div></div>'+
+'<div class="btns"><button class="btn" onclick="closeSheet()">Close</button><button class="btn d" onclick="sell(\''+s+'\')">Sell all</button></div></div></div>'}
+function openSet(){var c=st.cfg;$('sheet').innerHTML='<div class="sheet" onclick="if(event.target===this)closeSheet()"><div><h1>Settings</h1>'+
+'<label class="set">Risk per trade (₹)<input type="number" id="r" min="100" step="50" value="'+c.risk+'"></label>'+
+'<label class="set">Total loss limit (₹)<input type="number" id="c" min="500" step="500" value="'+c.cap+'"></label>'+
+'<label class="set">Auto-sell when risk is heavy<input type="checkbox" id="a"'+(c.auto?' checked':'')+'></label>'+
+'<label class="set">Pause all automation<input type="checkbox" id="p"'+(c.pause?' checked':'')+'></label>'+
+'<div class="set mut" style="display:flex;padding:10px 0">Auto-buy is off during paper trading.</div>'+
+'<div class="btns"><button class="btn" onclick="if(confirm(\'Reset the paper wallet to ₹50,000?\')){st=JSON.parse(JSON.stringify(S0));save();closeSheet();left=600;render()}">Reset wallet</button><button class="btn p" onclick="saveSet()">Save</button></div></div></div>'}
+function saveSet(){var r=+$('r').value,c=+$('c').value;if(!(r>=100)||!(c>=500)){toast('Enter valid amounts');return}st.cfg={risk:r,cap:c,auto:$('a').checked,pause:$('p').checked};save();closeSheet();render()}
+function closeSheet(){$('sheet').innerHTML=''}
+function setTab(t){tab=t;render();window.scrollTo(0,0)}
+function ideaCard(s){var d=D[s];return'<button class="card tap" onclick="openIdea(\''+s+'\')"><div class="row"><b>'+s+'</b><span class="pill">Score '+d.sc+'</span></div><div class="mut">'+d.pat+'</div><div class="row" style="margin-top:6px"><span>'+inr(d.p)+'</span><span class="mut">Stop '+inr(d.sl)+' · Target '+inr(d.tg)+'</span></div></button>'}
+function home(){var v=val(),t=today(),lost=Math.max(0,50000-v),pct=Math.min(100,lost/st.cfg.cap*100),h='';
+h+='<div class="card"><div class="mut">Paper portfolio</div><div class="big">'+inr(v)+'</div><div class="'+(t>=0?'up':'dn')+'">'+inr(t)+' today</div>';
+h+='<div class="bar"><i style="width:'+pct+'%;background:'+(pct>70?'var(--dn)':'var(--acc)')+'"></i></div><div class="mut">'+inr(lost)+' of '+inr(st.cfg.cap)+' loss limit used · Cash '+inr(st.cash)+'</div></div>';
+var inf=st.hold.filter(function(x){return x.s==='INFY'})[0];
+if(inf&&!st.done){var auto=st.cfg.auto&&!st.cfg.pause;h+='<div class="card alert"><b>Action needed: INFY</b><div>Gapped down 5.4% and broke your stop at '+inr(inf.sl)+'. Proposed: sell all '+inf.q+' shares.</div><div class="mut" id="cd">'+(auto?'Auto-sell in '+fmt(left):'Auto-sell is off. Waiting for you.')+'</div>'+
+'<div class="btns"><button class="btn" onclick="st.done=true;save();render();toast(\'Holding INFY\')">Hold</button><button class="btn d" onclick="sell(\'INFY\')">Sell now</button></div>'+(auto?'<div class="mut" style="margin-top:8px"><a href="#" onclick="left=5;return false" style="color:var(--acc)">Demo: skip ahead</a></div>':'')+'</div>'}
+h+='<h2>Ideas to review</h2>'+['TATASTEEL','TCS'].map(ideaCard).join('')+'<h2>Recent activity</h2><div class="card">'+st.log.map(function(l){return'<div class="mut" style="padding:3px 0">'+l+'</div>'}).join('')+'</div>';return h}
+function ideas(){return'<h2 style="margin-top:6px">Top 5 swing trades</h2>'+Object.keys(D).filter(function(k){return D[k].t==='s'}).map(ideaCard).join('')+'<h2>Top 5 long-term</h2>'+Object.keys(D).filter(function(k){return D[k].t==='l'}).map(ideaCard).join('')}
+function port(){if(!st.hold.length)return'<div class="card">No holdings yet. Open Ideas and place a paper trade.</div>';return'<h2 style="margin-top:6px">Holdings</h2>'+st.hold.map(function(h){var d=D[h.s],pl=(d.p-h.avg)*h.q;return'<button class="card tap" onclick="openHold(\''+h.s+'\')"><div class="row"><b>'+h.s+'</b><b class="'+(pl>=0?'up':'dn')+'">'+inr(pl)+'</b></div><div class="mut">'+h.q+' shares · avg '+inr(h.avg)+' · now '+inr(d.p)+' ('+pc((d.p/h.avg-1)*100)+')</div><div class="mut">Stop '+inr(h.sl)+' · Target '+inr(h.tg)+'</div></button>'}).join('')}
+function fmt(s){return Math.floor(s/60)+':'+('0'+s%60).slice(-2)}
+function render(){var t={home:'Today',ideas:'Ideas',port:'Portfolio'}[tab];
+$('app').innerHTML='<header><h1>'+t+'</h1><button class="ic" onclick="openSet()" aria-label="Settings">Settings</button></header><div class="note">'+(LIVE?'Swing picks are live from your daily scan (last close). '+(LIVEE?'ETFs are live too. ':'')+(LIVEL?'Long-term picks are price-based only (fundamentals not checked). ':'Long-term picks are sample data. ')+'Home market numbers and notifications are still sample data.':'Prototype with sample data. Prices and picks are not real.')+'</div>'+(tab==='home'?home():tab==='ideas'?ideas():port());
+$('nav').innerHTML=[['home','Home'],['ideas','Ideas'],['port','Portfolio']].map(function(x){return'<button class="'+(tab===x[0]?'on':'')+'" onclick="setTab(\''+x[0]+'\')">'+x[1]+'</button>'}).join('')}
+function px(n){return'₹'+n.toLocaleString('en-IN',{minimumFractionDigits:2,maximumFractionDigits:2})}
+var HI={INFY:{w:['Down about 5% today after a gap down at the open.','It fell below your stop of ₹1,420 and sits under your average buy price.'],u:['Sample: IT stocks sold off on weak global tech spending signals','Sample: investors waiting for management comments on new deals'],f:['It could bounce if the wider IT sector recovers, or slide further if selling continues.']},RELIANCE:{w:['Slightly above your buy price in a steady uptrend with higher lows.'],u:['Sample: retail and telecom units reported steady growth'],f:['Near a past resistance zone around ₹1,350, where it may pause before moving higher.']}};
+function port(){if(!st.hold.length)return'<div class="card">No holdings yet. Open Ideas and place a paper trade.</div>';var inv=0,cur=0;st.hold.forEach(function(x){inv+=x.avg*x.q;cur+=D[x.s].p*x.q});var tp=cur-inv;
+var h='<div class="card"><div class="row"><div><div class="mut">Invested</div><b>'+inr(inv)+'</b></div><div><div class="mut">Current value</div><b>'+inr(cur)+'</b></div><div style="text-align:right"><div class="mut">Total profit/loss</div><b class="'+(tp>=0?'up':'dn')+'">'+inr(tp)+' ('+pc(tp/inv*100)+')</b></div></div></div><h2>Your stocks</h2>';
+return h+st.hold.map(function(x){var d=D[x.s],pl=(d.p-x.avg)*x.q;return'<button class="card tap" onclick="openHold(\''+x.s+'\')"><div class="row"><b>'+x.s+' <span class="mut">'+x.q+' shares</span></b><b class="'+(pl>=0?'up':'dn')+'">'+inr(pl)+' ('+pc((d.p/x.avg-1)*100)+')</b></div><div class="grid"><div><span class="mut">Bought at</span><b>'+px(x.avg)+'</b></div><div><span class="mut">Current</span><b>'+px(d.p)+'</b></div><div><span class="mut">Today</span><b class="'+(d.p>=d.v?'up':'dn')+'">'+pc((d.p/d.v-1)*100)+'</b></div></div></button>'}).join('')}
+function openHold(s){var h=st.hold.filter(function(x){return x.s===s})[0];if(!h)return;var d=D[s],pl=(d.p-h.avg)*h.q,up=pl>=0,x=HI[s]||{},
+why=x.w||[(up?'Trading above':'Trading below')+' your average buy price of '+px(h.avg)+'.','You bought on: '+d.pat+'.'],
+upd=x.u||[d.nw||'Sample: no major news'],
+fut=['If it holds above your stop ('+px(h.sl)+'), it could move toward the target ('+px(h.tg)+'): about '+inr((h.tg-h.avg)*h.q)+' gain.','If it falls to the stop, you '+(h.sl>=h.avg?'would still lock in about '+inr((h.sl-h.avg)*h.q):'would lose about '+inr((h.avg-h.sl)*h.q))+'.'].concat(x.f||[]);
+function ul(a){return'<ul style="margin:6px 0 0;padding-left:18px">'+a.map(function(t){return'<li>'+t+'</li>'}).join('')+'</ul>'}
+$('sheet').innerHTML='<div class="sheet" onclick="if(event.target===this)closeSheet()"><div><div class="row"><h1>'+s+'</h1><b class="'+(up?'up':'dn')+'">'+inr(pl)+' ('+pc((d.p/h.avg-1)*100)+')</b></div><div class="mut">'+d.n+'</div>'+chart(s,h)+
+'<div class="grid"><div><span class="mut">Bought at</span><b>'+px(h.avg)+'</b></div><div><span class="mut">Current</span><b>'+px(d.p)+'</b></div><div><span class="mut">Shares</span><b>'+h.q+'</b></div></div>'+
+'<div class="card"><b>Why it is '+(up?'up':'down')+'</b>'+ul(why)+'</div><div class="card"><b>Latest updates</b>'+ul(upd)+'</div><div class="card"><b>What could happen next</b>'+ul(fut)+'<div class="mut" style="margin-top:8px">Scenarios, not predictions. Sample text until live data is connected.</div></div>'+
+'<div class="btns"><button class="btn" onclick="closeSheet()">Close</button><button class="btn d" onclick="sell(\''+s+'\')">Sell all</button></div></div></div>'}
+Object.assign(D,{
+ICICIBANK:{n:'ICICI Bank',p:1262,v:1255,t:'s',pat:'Breakout from consolidation',sl:1215,tg:1345,why:'Price cleared a 5-week range on above-average volume, and banks are leading the market.',nw:'Sample: steady loan growth in latest update'},
+MARUTI:{n:'Maruti Suzuki',p:12450,v:12390,t:'s',pat:'Rising channel, volume pickup',sl:12000,tg:13300,why:'Higher highs and higher lows inside a rising channel, with buying volume increasing.',nw:'Sample: festive season bookings reported strong'},
+SUNPHARMA:{n:'Sun Pharma',p:1760,v:1752,t:'s',pat:'Cup and handle forming',sl:1700,tg:1860,why:'A rounded base is forming with a small pullback. A move above the handle high would confirm it.',nw:'Sample: new product approval expected'},
+AXISBANK:{n:'Axis Bank',p:1148,v:1141,t:'s',pat:'Support bounce with volume',sl:1105,tg:1225,why:'Bounced from a support level that held twice before, with volume rising on the bounce.',nw:'Sample: no major news this week'},
+HINDALCO:{n:'Hindalco',p:705,v:699,t:'s',pat:'Ascending triangle',sl:678,tg:750,why:'Flat resistance with rising lows. A close above the flat line would trigger the breakout.',nw:'Sample: metal prices firm globally'},
+HINDUNILVR:{n:'Hindustan Unilever',p:2540,v:2531,t:'l',pat:'Defensive leader, steady cash flow',sl:2300,tg:2950,why:'Everyday products with steady demand and strong cash generation.',nw:'Sample: rural demand recovering'},
+MAHINDRA:{n:'Mahindra & Mahindra',p:3150,v:3128,t:'l',pat:'Growing SUV and tractor sales',sl:2800,tg:3800,why:'Strong growth in vehicles and tractors with improving profit margins.',nw:'Sample: new SUV launches planned'},
+ULTRACEMCO:{n:'UltraTech Cement',p:11800,v:11760,t:'l',pat:'Cement leader, capacity expansion',sl:10600,tg:14000,why:'Largest cement maker, adding capacity as infrastructure spending grows.',nw:'Sample: cement prices stable'},
+POWERGRID:{n:'Power Grid Corp',p:305,v:304,t:'l',pat:'Stable returns, regular dividends',sl:270,tg:380,why:'Regulated returns and regular dividends make it a calmer holding.',nw:'Sample: new transmission projects awarded'},
+COALINDIA:{n:'Coal India',p:392,v:390,t:'l',pat:'High dividends, cheap valuation',sl:350,tg:480,why:'Cheap compared with its earnings and pays high dividends, but growth is slow.',nw:'Sample: power demand keeps coal volumes up'},
+GOLD:{n:'Gold',u:'per 10 g',p:128400,v:127900,t:'c',pat:'Steady uptrend, safe-haven demand',sl:123500,tg:136000,why:'Rising trend with buyers stepping in on dips. Often rises when markets feel uncertain.',nw:'Sample: central banks keep buying gold'},
+SILVER:{n:'Silver',u:'per kg',p:162000,v:160500,t:'c',pat:'Breakout above recent high',sl:154000,tg:175000,why:'Broke above its recent high with industrial and investment demand. Moves more sharply than gold.',nw:'Sample: solar and electronics demand strong'},
+COPPER:{n:'Copper',u:'per kg',p:905,v:901,t:'c',pat:'Higher lows, demand recovering',sl:872,tg:960,why:'Higher lows as demand from power and EV industries improves.',nw:'Sample: global factory demand picking up'},
+CRUDE:{n:'Crude oil',u:'per barrel',p:5420,v:5465,t:'c',pat:'Range-bound, support holding',sl:5150,tg:5800,why:'Trading in a range with support holding. Very sensitive to global news.',nw:'Sample: supply decisions awaited'},
+NATGAS:{n:'Natural gas',u:'per mmBtu',p:265,v:261,t:'c',pat:'Early recovery from low',sl:245,tg:295,why:'Bouncing from a low, but swings are large and fast.',nw:'Sample: weather forecasts driving prices'}});
+var EX={TATASTEEL:['2-4 weeks',[88,86,84,86]],SBIN:['2-3 weeks',[84,80,84,80]],BHARTIARTL:['3-5 weeks',[78,84,76,78]],ITC:['3-4 weeks',[74,70,78,74]],LT:['4-6 weeks',[72,70,72,70]],ICICIBANK:['2-4 weeks',[78,76,78,76]],MARUTI:['3-5 weeks',[76,74,78,76]],SUNPHARMA:['3-4 weeks',[74,72,74,72]],AXISBANK:['2-3 weeks',[72,70,74,72]],HINDALCO:['3-5 weeks',[70,72,68,70]],TCS:['2-3 years',[90,86,86,90]],HDFCBANK:['2-3 years',[86,82,84,84]],ASIANPAINT:['1-3 years',[82,76,74,80]],TITAN:['2-4 years',[80,80,70,74]],NESTLEIND:['2-3 years',[78,66,66,78]],HINDUNILVR:['2-3 years',[80,70,72,78]],MAHINDRA:['2-4 years',[74,80,70,72]],ULTRACEMCO:['2-3 years',[72,74,68,70]],POWERGRID:['1-3 years',[70,66,72,68]],COALINDIA:['1-2 years',[66,62,74,66]],GOLD:['2-3 months',[82,80,80,82]],SILVER:['1-3 months',[78,76,74,76]],COPPER:['1-2 months',[72,74,70,72]],CRUDE:['3-6 weeks',[66,64,70,66]],NATGAS:['2-4 weeks',[60,62,64,60]]};
+Object.keys(EX).forEach(function(k){D[k].tf=EX[k][0];D[k].b=EX[k][1];D[k].sc=Math.round(EX[k][1].reduce(function(a,c){return a+c},0)/4)});
+function pr(d){return d.t==='c'?inr(d.p)+' '+d.u:px(d.p)}
+function bars(d){var L={s:['Trend','Momentum and volume','Risk vs reward','News and sentiment'],l:['Business quality','Growth','Valuation','Risk level'],c:['Trend','Demand and supply','Risk vs reward','News and events']}[d.t];if(d.t==='l'&&d.live)L=['Trend strength','Returns','Stability','Fundamentals (not checked)'];return d.b.map(function(v,i){return'<div style="margin:8px 0"><div class="row"><span>'+L[i]+'</span><b>'+v+'</b></div><div class="bar" style="margin:3px 0"><i style="width:'+v+'%"></i></div></div>'}).join('')}
+function ideaCard(s){var d=D[s];return'<button class="card tap" onclick="openIdea(\''+s+'\')"><div class="row"><b>'+d.n+'</b><span class="pill">Score '+d.sc+'</span></div><div class="mut">'+d.pat+'</div><div class="row" style="margin-top:6px"><span>'+pr(d)+'</span><span class="mut">Target '+(d.t==='c'?inr(d.tg):px(d.tg))+' · '+d.tf+'</span></div></button>'}
+function lst(t){return Object.keys(D).filter(function(k){return D[k].t===t&&(!(t==='s'?LIVE:t==='e'?LIVEE:LIVEL)||D[k].live)}).sort(function(a,b){return D[b].sc-D[a].sc}).map(ideaCard).join('')}
+function ideas(){return'<h2 style="margin-top:6px">'+(LIVE?'Swing picks from your scan, '+ASOF:'Top 10 swing trades (sample)')+'</h2>'+(LIVE&&!lst('s')?'<div class="card">No stocks met the setup rules in this scan.</div>':lst('s'))+'<h2>'+(LIVEL?'Long-term list (price-based, fundamentals not checked)':'Top 10 long-term (sample)')+'</h2>'+lst('l')+'<h2>Commodities to watch</h2>'+lst('c')}
+function openIdea(s){var d=D[s],c=d.t==='c',q=c?0:qtyFor(s),g=(d.tg/d.p-1)*100,rr=(d.tg-d.p)/(d.p-d.sl),f=c?inr:px;
+$('sheet').innerHTML='<div class="sheet" onclick="if(event.target===this)closeSheet()"><div><div class="row"><h1>'+d.n+'</h1><span class="pill">Score '+d.sc+'</span></div><div class="mut">'+(c?d.u:s)+' · '+d.pat+'</div>'+chart(s,{})+
+'<div class="grid"><div><span class="mut">'+(c?'Price':'Entry')+'</span><b>'+f(d.p)+'</b></div><div><span class="mut">Stop</span><b class="dn">'+f(d.sl)+'</b></div><div><span class="mut">Target</span><b class="up">'+f(d.tg)+'</b></div></div>'+
+'<div class="grid"><div><span class="mut">Possible gain</span><b class="up">'+pc(g)+'</b></div><div><span class="mut">Time frame</span><b>'+d.tf+'</b></div><div><span class="mut">Risk vs reward</span><b>1 : '+rr.toFixed(1)+'</b></div></div>'+
+'<div class="card"><b>Why the score is '+d.sc+'</b><div class="mut">Average of four parts, each out of 100</div>'+bars(d)+'<div style="margin-top:8px">'+d.why+'</div><div class="mut" style="margin-top:6px">'+d.nw+'</div></div>'+
+(c?'<div class="card"><b>Investing with a small account</b><div>MCX futures need large margins and big lot sizes, which is risky for a ₹50,000 account. Gold and silver ETFs are the simpler route. For crude, copper and gas, watching related stocks is easier. Paper buying here is for stocks only.</div></div>':'<div class="card"><b>Quantity</b><div class="mut">Suggested: '+q+' shares, sized so a stop hit costs about '+inr(st.cfg.risk)+'</div><div class="row" style="margin:10px 0;justify-content:center"><button class="btn" style="flex:0 0 48px" onclick="stepQ(-1,\''+s+'\')" aria-label="Decrease quantity">-</button><input type="number" id="qty" min="1" value="'+Math.max(1,q)+'" oninput="updQ(\''+s+'\')" style="width:90px;font-size:20px" aria-label="Quantity"><button class="btn" style="flex:0 0 48px" onclick="stepQ(1,\''+s+'\')" aria-label="Increase quantity">+</button></div><div id="qinfo"></div></div>')+
+'<div class="mut" style="margin-bottom:10px">The target is a possible outcome within the time frame, not a promise. Sample data.</div>'+
+'<div class="btns"><button class="btn" onclick="closeSheet()">Close</button>'+(c?'':'<button class="btn p" onclick="buy(\''+s+'\')">Paper buy</button>')+'</div></div></div>';if(!c)updQ(s)}
+['GOLD','SILVER','COPPER','CRUDE','NATGAS'].forEach(function(k){delete D[k]});
+Object.assign(D,{
+GOLDBEES:{n:'Gold ETF (Gold BeES)',p:95.4,v:94.9,t:'e',pat:'Steady uptrend, safe-haven demand',sl:91.5,tg:101,tf:'2-3 months',b:[82,80,82,84],why:'Tracks the gold price, so it moves with gold. Often rises when markets feel uncertain.',nw:'Sample: central banks keep buying gold'},
+SILVERBEES:{n:'Silver ETF',p:118.6,v:117.4,t:'e',pat:'Breakout above recent high',sl:112.5,tg:128,tf:'1-3 months',b:[78,76,74,72],why:'Tracks silver, which moves more sharply than gold, so expect bigger swings.',nw:'Sample: solar and electronics demand strong'},
+NIFTYBEES:{n:'Nifty 50 ETF (Nifty BeES)',p:271.8,v:270.9,t:'e',pat:'Steady uptrend, low cost',sl:258,tg:292,tf:'6-12 months',b:[76,72,74,88],why:'Holds the 50 largest Indian companies in a single buy, with very low cost and easy trading.',nw:'Sample: market breadth improving'},
+BANKBEES:{n:'Bank Nifty ETF (Bank BeES)',p:604.2,v:600.8,t:'e',pat:'Pullback to support',sl:575,tg:650,tf:'1-3 months',b:[74,70,76,80],why:'Tracks the largest banks, so it swings more than the Nifty 50 ETF.',nw:'Sample: bank credit growth steady'},
+ITBEES:{n:'Nifty IT ETF',p:41.6,v:42.3,t:'e',pat:'Down-trend, watching for a base',sl:39.5,tg:45,tf:'1-3 months',b:[60,58,66,74],why:'IT stocks have been weak lately. It may recover if selling slows, but the trend is still down.',nw:'Sample: global tech spending worries'}});
+Object.keys(D).forEach(function(k){var d=D[k];if(d.t==='e')d.sc=Math.round(d.b.reduce(function(a,c){return a+c},0)/4)});
+function bars(d){var L={s:['Trend','Momentum and volume','Risk vs reward','News and sentiment'],l:['Business quality','Growth','Valuation','Risk level'],e:['Trend','Momentum and volume','Risk vs reward','Fund quality and cost']}[d.t];if(d.t==='l'&&d.live)L=['Trend strength','Returns','Stability','Fundamentals (not checked)'];return d.b.map(function(v,i){return'<div style="margin:8px 0"><div class="row"><span>'+L[i]+'</span><b>'+v+'</b></div><div class="bar" style="margin:3px 0"><i style="width:'+v+'%"></i></div></div>'}).join('')}
+function ideas(){return'<h2 style="margin-top:6px">'+(LIVE?'Swing picks from your scan, '+ASOF:'Top 10 swing trades (sample)')+'</h2>'+(LIVE&&!lst('s')?'<div class="card">No stocks met the setup rules in this scan.</div>':lst('s'))+'<h2>'+(LIVEL?'Long-term list (price-based, fundamentals not checked)':'Top 10 long-term (sample)')+'</h2>'+lst('l')+'<h2>'+(LIVEE?'ETFs from your scan':'Top 5 ETFs (sample)')+'</h2>'+lst('e')}
+var HR='1M',NF=[{t:'Today, 9:16 am',a:1,k:'Alert',m:'INFY gapped down 5.4% at the open and broke your stop of ₹1,420. A decision is waiting for you.'},{t:'Today, 8:45 am',a:1,k:'News',m:'Sample: IT stocks fall on weak global tech spending signals. This affects INFY.'},{t:'Yesterday, 2:10 pm',a:1,k:'Action taken',m:'While you were away, the app raised your RELIANCE stop to ₹1,255 as the price moved up.'},{t:'Yesterday, 11:30 am',a:1,k:'Idea',m:'TATASTEEL moved into your top swing picks with a score of 86.'},{t:'Yesterday, 9:30 am',a:0,k:'Event',m:'Sample: Reliance results are due next week.'}];
+function unread(){return st.unread==null?NF.length:st.unread}
+function openNF(){$('sheet').innerHTML='<div class="sheet" onclick="if(event.target===this)closeSheet()"><div><h1>Notifications</h1><div class="mut" style="margin-bottom:8px">Includes what happened while you were away.</div>'+NF.map(function(n){return'<div class="card"><div class="row"><span class="pill">'+n.k+'</span><span class="mut">'+n.t+'</span></div><div style="margin-top:6px">'+n.m+'</div></div>'}).join('')+'<div class="btns"><button class="btn p" onclick="closeSheet()">Close</button></div></div></div>';st.unread=0;save();render()}
+function pulse(){var o=false;try{var z=new Date(new Date().toLocaleString('en-US',{timeZone:'Asia/Kolkata'})),w=z.getDay(),m=z.getHours()*60+z.getMinutes();o=w>0&&w<6&&m>=555&&m<930}catch(e){}return'<div class="card row" style="padding:10px 14px"><span><i style="display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:'+(o?'var(--up)':'var(--mut)')+'"></i>'+(o?'Market open':'Market closed')+'</span><span class="mut">Nifty 25,840 <b class="up">+0.4%</b> · Sensex 84,420 <b class="up">+0.4%</b></span></div>'}
+function eq(){var c=val(),a=[],sd=7,i,n;for(i=0;i<40;i++){sd=(sd*9301+49297)%233280;n=(sd/233280-.5)*900;a.push(50000+(c-50000)*i/39+(i>0&&i<39?n:0))}a[39]=c;return a}
+function setR(r){HR=r;render()}
+function eqChart(){var a=eq().slice(-{'1W':7,'1M':22,All:40}[HR]),mn=Math.min.apply(0,a.concat(50000)),mx=Math.max.apply(0,a.concat(50000)),pd=(mx-mn)*.1||1;mn-=pd;mx+=pd;function Y(v){return 6+(1-(v-mn)/(mx-mn))*92}
+var p=a.map(function(v,i){return(i?'L':'M')+(i*320/(a.length-1)).toFixed(1)+' '+Y(v).toFixed(1)}).join(''),up=a[a.length-1]>=a[0];
+return'<svg viewBox="0 0 320 104" role="img" aria-label="Portfolio value over time, sample history" style="margin-top:8px"><line x1="0" x2="320" y1="'+Y(50000)+'" y2="'+Y(50000)+'" stroke="var(--line)" stroke-dasharray="4 3"/><path d="'+p+'" fill="none" stroke="'+(up?'var(--up)':'var(--dn)')+'" stroke-width="2"/></svg><div class="btns" style="margin:4px 0 6px">'+['1W','1M','All'].map(function(r){return'<button class="btn'+(HR===r?' p':'')+'" style="padding:5px" onclick="setR(\''+r+'\')">'+r+'</button>'}).join('')+'</div><div class="mut">Dashed line is your ₹50,000 start. History is sample data.</div>'}
+function focus(){var al=st.hold.some(function(x){return x.s==='INFY'})&&!st.done,ni=Object.keys(D).filter(function(k){return D[k].t==='s'&&D[k].sc>=80}).length;
+function r(t,a){return'<button class="tap" style="background:none;border:0;border-top:1px solid var(--line);padding:9px 0" onclick="'+a+'"><div class="row"><span>'+t+'</span><span class="mut">View</span></div></button>'}
+return'<div class="card"><b>Focus for today</b>'+(al?r('1 alert needs your decision','var e=$(\'al\');if(e)e.scrollIntoView()'):'')+r(ni+' strong swing ideas to review','setTab(\'ideas\')')+r('Results due next week for a stock you hold','setTab(\'port\')')+'</div>'}
+function risk(){var o=st.hold.reduce(function(a,h){return a+h.q*Math.max(0,D[h.s].p-h.sl)},0),rem=Math.max(0,st.cfg.cap-Math.max(0,50000-val()));
+return'<div class="card"><div class="row"><b>Open risk</b><b>'+inr(o)+'</b></div><div class="mut">If every stop hits from here, you would lose about this much more. Left before your loss limit: '+inr(rem)+'.</div><div class="bar"><i style="width:'+Math.min(100,rem?o/rem*100:100)+'%;background:'+(o>rem*.6?'var(--dn)':'var(--acc)')+'"></i></div></div>'}
+function board(){var c=st.closed||[],w=c.filter(function(x){return x.pl>0}).length,tot=c.length+st.hold.length,pl=c.map(function(x){return x.pl});function f(l,v){return'<div><span class="mut">'+l+'</span><b>'+v+'</b></div>'}
+return'<div class="card"><b>Paper-trading scoreboard</b><div class="grid" style="grid-template-columns:repeat(2,1fr)">'+f('Closed trades',c.length)+f('Win rate',c.length?Math.round(w/c.length*100)+'%':'-')+f('Best trade',c.length?inr(Math.max.apply(0,pl)):'-')+f('Worst trade',c.length?inr(Math.min.apply(0,pl)):'-')+'</div><div class="mut">Trades toward the 20-trade check: '+Math.min(tot,20)+' of 20</div><div class="bar"><i style="width:'+Math.min(100,tot*5)+'%"></i></div></div>'}
+function sell(s,how){var i=-1;st.hold.forEach(function(h,k){if(h.s===s)i=k});if(i<0)return;var h=st.hold[i],d=D[s];st.cash+=h.q*d.p;(st.closed=st.closed||[]).push({s:s,pl:(d.p-h.avg)*h.q});log((how==='auto'?'Auto-sold ':'Sold ')+h.q+' '+s+' at '+inr(d.p)+' ('+inr((d.p-h.avg)*h.q)+')');st.hold.splice(i,1);if(s==='INFY')st.done=true;save();closeSheet();toast(how==='auto'?'Protective sell executed':'Sold '+s);render()}
+function home(){var v=val(),t=today(),lost=Math.max(0,50000-v),pct=Math.min(100,lost/st.cfg.cap*100),h=pulse()+banner(),u=unread(),aw=NF.filter(function(n){return n.a}).length,ac=NF.filter(function(n){return n.k==='Action taken'}).length;
+h+='<div class="card"><div class="mut">Paper portfolio</div><div class="big">'+inr(v)+'</div><div class="'+(t>=0?'up':'dn')+'">'+inr(t)+' today</div>'+eqChart()+'<div class="bar"><i style="width:'+pct+'%;background:'+(pct>70?'var(--dn)':'var(--acc)')+'"></i></div><div class="mut">'+inr(lost)+' of '+inr(st.cfg.cap)+' loss limit used · Cash '+inr(st.cash)+'</div></div>';
+var inf=st.hold.filter(function(x){return x.s==='INFY'})[0];
+if(inf&&!st.done){var auto=st.cfg.auto&&!st.cfg.pause;h+='<div class="card alert" id="al"><b>Action needed: INFY</b><div>Gapped down 5.4% and broke your stop at '+inr(inf.sl)+'. Proposed: sell all '+inf.q+' shares.</div><div class="mut" id="cd">'+(auto?'Auto-sell in '+fmt(left):'Auto-sell is off. Waiting for you.')+'</div><div class="btns"><button class="btn" onclick="st.done=true;save();render();toast(\'Holding INFY\')">Hold</button><button class="btn d" onclick="sell(\'INFY\')">Sell now</button></div>'+(auto?'<div class="mut" style="margin-top:8px"><a href="#" onclick="left=5;return false" style="color:var(--acc)">Demo: skip ahead</a></div>':'')+'</div>'}
+if(u>0)h+='<button class="card tap alert" onclick="openNF()"><b>While you were away</b><div>'+aw+' updates since you last opened the app, including '+ac+' action the app took for you. Tap to review.</div></button>';
+h+=health()+focus()+risk()+board()+'<h2>Recent activity</h2><div class="card">'+st.log.map(function(l){return'<div class="mut" style="padding:3px 0">'+l+'</div>'}).join('')+'</div>';return h}
+function render(){var t={home:'Today',ideas:'Ideas',port:'Portfolio'}[tab],u=unread();
+$('app').innerHTML='<header><h1>'+t+'</h1><div><button class="ic" onclick="openNF()" aria-label="Notifications">Alerts'+(u?' <b class="dn">'+u+'</b>':'')+'</button> <button class="ic" onclick="openSet()" aria-label="Settings">Settings</button></div></header><div class="note">'+(LIVE?'Swing picks are live from your daily scan (last close). '+(LIVEE?'ETFs are live too. ':'')+(LIVEL?'Long-term picks are price-based only (fundamentals not checked). ':'Long-term picks are sample data. ')+'Home market numbers and notifications are still sample data.':'Prototype with sample data. Prices and picks are not real.')+'</div>'+(tab==='home'?home():tab==='ideas'?ideas():port());
+$('nav').innerHTML=[['home','Home'],['ideas','Ideas'],['port','Portfolio']].map(function(x){return'<button class="'+(tab===x[0]?'on':'')+'" onclick="setTab(\''+x[0]+'\')">'+x[1]+'</button>'}).join('')}
+NF.splice(0,0,{t:'Today, 9:18 am',a:1,f:1,k:'Failed order',m:'Sample: your INFY sell order was rejected by the exchange because the price was outside the allowed range. Nothing was sold. Use Retry in System status.'});
+NF.splice(3,0,{t:'Today, 6:02 am',a:1,f:1,k:'Connection',m:'Sample: your Zerodha Kite login expired overnight. Log in once so the app can place stop-loss and sell orders.'});
+NF.splice(4,0,{t:'Yesterday, 3:45 pm',a:1,f:1,k:'Technical',m:'Sample: price data was delayed for 6 minutes. The app made no decisions while data was stale.'});
+function unread(){return Math.max(0,NF.length-(st.seen||0))}
+function openNF(){$('sheet').innerHTML='<div class="sheet" onclick="if(event.target===this)closeSheet()"><div><h1>Notifications</h1><div class="mut" style="margin-bottom:8px">Includes what happened while you were away, and anything that failed.</div>'+NF.map(function(n){return'<div class="card"'+(n.f?' style="border-color:var(--dn)"':'')+'><div class="row"><span class="pill"'+(n.f?' style="background:var(--dnbg);color:var(--dn)"':'')+'>'+n.k+'</span><span class="mut">'+n.t+'</span></div><div style="margin-top:6px">'+n.m+'</div></div>'}).join('')+'<div class="btns"><button class="btn p" onclick="closeSheet()">Close</button></div></div></div>';st.seen=NF.length;save();render()}
+function conn(){st.kok=true;log('Connected to Zerodha Kite (demo)');save();toast('Connected (demo)');render()}
+function retryO(){if(!st.kok){toast('Log in to Zerodha first');return}st.ofail=false;save();sell('INFY')}
+function banner(){return st.kok?'':'<div class="card" style="border-color:var(--dn);background:var(--dnbg)"><b class="dn">Not connected to Zerodha</b><div>Stop-loss and sell orders cannot be placed until you log in.</div><div class="btns"><button class="btn p" onclick="conn()">Log in (demo)</button></div></div>'}
+function health(){var k=!!st.kok,f=st.ofail==null?true:st.ofail,inf=st.hold.some(function(x){return x.s==='INFY'});
+function row(n,s,ok,b){return'<div class="row" style="padding:8px 0;border-top:1px solid var(--line)"><span>'+n+'<div class="mut" style="color:'+(ok?'var(--up)':'var(--dn)')+'">'+s+'</div></span>'+(b||'')+'</div>'}
+return'<div class="card"><b>System status</b>'+row('Zerodha Kite',k?'Connected':'Login needed',k,k?'':'<button class="btn p" style="flex:0 0 auto;padding:7px 14px" onclick="conn()">Log in</button>')+row('Market data','Sample: live, updated just now',1)+row('Alert delivery','Sample: working',1)+(inf&&f?row('Last order','INFY sell was rejected',0,'<button class="btn d" style="flex:0 0 auto;padding:7px 14px" onclick="retryO()">Retry</button>'):row('Last order','No failed orders',1))+'<div class="mut" style="margin-top:6px">Demo statuses. Real ones appear once the live connection is built.</div></div>'}
+tm=setInterval(function(){var inf=st.hold.some(function(x){return x.s==='INFY'});if(!inf||st.done||!st.cfg.auto||st.cfg.pause)return;left--;var c=$('cd');if(c)c.textContent='Auto-sell in '+fmt(Math.max(left,0));if(left<=0){if(st.kok)sell('INFY','auto');else{left=600;st.ofail=true;log('Auto-sell for INFY failed: Zerodha is not connected');NF.unshift({t:'Just now',a:1,f:1,k:'Failed order',m:'Auto-sell for INFY failed because Zerodha is not connected. Nothing was sold. Log in and retry.'});save();toast('Auto-sell failed: not connected to Zerodha');render()}}},1000);
+var LIVE=false,LIVEE=false,LIVEL=false,ASOF='';
+function esc(t){return String(t).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function newsHtml(p){var hl=p.headlines||[],o='';if(!hl.length)return'No recent headlines found, so the news score stays neutral.';
+o='<b>Recent headlines</b> (simple keyword check, not a full reading)<ul style="margin:6px 0 0;padding-left:18px">'+hl.map(function(x){var u=/^https:\/\//.test(x.link)?x.link:'';return'<li>'+(u?'<a href="'+esc(u)+'" target="_blank" rel="noopener" style="color:var(--acc)">'+esc(x.title)+'</a>':esc(x.title))+'</li>'}).join('')+'</ul>';
+if((p.flags||[]).length)o='<div class="dn"><b>Watch out:</b> a headline mentions a serious term. Read it before trading.</div>'+o;return o}
+function loadLive(){fetch('data/ideas.json?'+Date.now()).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){
+Object.keys(D).forEach(function(k){delete D[k].live});
+(j.swing||[]).forEach(function(p){var d=D[p.symbol]||(D[p.symbol]={n:p.symbol,v:p.close});
+Object.assign(d,{p:p.close,t:'s',pat:p.pattern,sl:p.stop,tg:p.target,tf:p.timeframe,b:p.parts,sc:p.score,why:p.why+(p.verified?' Prices match BSE data.':''),nw:newsHtml(p),live:1});if(d.v==null)d.v=p.close});
+(j.etf||[]).forEach(function(p){var d=D[p.symbol]||(D[p.symbol]={n:p.symbol,v:p.close});Object.assign(d,{p:p.close,t:'e',pat:p.pattern,sl:p.stop,tg:p.target,tf:p.timeframe,b:p.parts,sc:p.score,why:p.why+(p.verified?' Prices match BSE data.':''),nw:'Fund quality score is not connected yet (neutral 50).',live:1});if(d.v==null)d.v=p.close});
+(j.long||[]).forEach(function(p){var d=D[p.symbol]||(D[p.symbol]={n:p.symbol,v:p.close});Object.assign(d,{p:p.close,t:'l',pat:p.pattern,sl:p.stop,tg:p.target,tf:p.timeframe,b:p.parts,sc:p.score,why:p.why,nw:'Price-based list only. Read the company results, profits and debt before buying.',live:1});if(d.v==null)d.v=p.close});
+LIVE=true;LIVEE=!!j.etf;LIVEL=!!j.long;ASOF=j.asof;render()}).catch(function(){})}
+render();
+loadLive();
+</script>
+</body>
+</html>
