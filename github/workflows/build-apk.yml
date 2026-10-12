@@ -1,0 +1,49 @@
+name: Build APK
+
+on:
+  workflow_dispatch:
+
+jobs:
+  apk:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - name: Prepare Android tools
+        run: |
+          yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platforms;android-36" "build-tools;36.0.0"
+      - name: Create the app project
+        run: |
+          OWNER=$(echo "${{ github.repository_owner }}" | tr 'A-Z' 'a-z')
+          REPO="${{ github.event.repository.name }}"
+          URL="https://${OWNER}.github.io/${REPO}/"
+          echo "The app will open: $URL"
+          npm init -y
+          npm install @capacitor/core@8 @capacitor/cli@8 @capacitor/android@8
+          mkdir -p www
+          echo '<!doctype html><title>Swing Radar</title><p>Loading Swing Radar...</p>' > www/index.html
+          cat > capacitor.config.json <<JSON
+          {
+            "appId": "com.swingradar.app",
+            "appName": "Swing Radar",
+            "webDir": "www",
+            "server": { "url": "${URL}", "cleartext": false },
+            "android": { "adjustMarginsForEdgeToEdge": "auto" }
+          }
+          JSON
+          npx cap add android
+          npx cap sync android
+      - name: Build debug APK
+        run: |
+          cd android
+          ./gradlew assembleDebug
+      - uses: actions/upload-artifact@v4
+        with:
+          name: swing-radar-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
