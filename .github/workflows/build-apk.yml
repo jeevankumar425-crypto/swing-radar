@@ -7,10 +7,11 @@ jobs:
   apk:
     runs-on: ubuntu-24.04
     steps:
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - uses: actions/setup-java@v4
+      - uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: 21
@@ -39,6 +40,16 @@ jobs:
           JSON
           npx cap add android
           npx cap sync android
+      - name: Add the app icon
+        run: |
+          if [ -f icon.png ]; then
+            mkdir -p assets
+            cp icon.png assets/icon.png
+            npm install --save-dev @capacitor/assets
+            npx capacitor-assets generate --android --iconBackgroundColor '#0e6b5c' --iconBackgroundColorDark '#0e6b5c'
+          else
+            echo "No icon.png found, using the default icon"
+          fi
       - name: Build debug APK
         run: |
           cd android
