@@ -1,161 +1,91 @@
 {
- "asof": "2026-10-12",
+ "asof": "2026-10-13",
  "swing": [
   {
-   "symbol": "PERSISTENT",
-   "close": 5787.0,
-   "stop": 5456.5,
-   "target": 6282.75,
-   "score": 55,
+   "symbol": "DIVISLAB",
+   "close": 9285.0,
+   "stop": 9078.0,
+   "target": 9948.96,
+   "score": 69,
    "parts": [
     100,
-    46,
     25,
+    100,
     50
    ],
-   "pattern": "Near 20-day high",
+   "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 64, volume 0.8x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 50, volume 0.9x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Persistent Systems (NSEI:PERSISTENT) Stock Forecast & Analyst Predictions - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3lIS3ZPVnhqcVRMdDlKaS13UGZfQjRHQ2JyOTdMSDBYRWVNTUo2ZDFBR2lzUUMyWWh6TVlCVldJNFN4dW4tc2xQR1RpZDlpcl9pRk9tMGhLZHoxbXpfbTNvQ2YxWC05X2ctZ05DNmQ1NGdIczFQaFlhSXBiQUJMR0UyOVBVcm5DdUZsNTNvTEI5QQ?oc=5",
-     "source": "Simply Wall Street"
-    },
-    {
-     "title": "Persistent Systems Secures 94.04% Of Nagarro Shares After Takeover Ends - Sahi",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcGZRbEY0OElySUVwOVB6c1hLdU4wczc4OThBZ2ZIc1p5bFNrWExuMEd6N2U1NnRKd2JmYmlfSWN2d2EtajFqU285TFBPbS1ZUE0zMVhEQ0NzSVN4c3ZYRHEycXB3RkQ3UUREbTNXU1lINDJ5WHEycUNOQ184Q1d6SkxXZC1pS3FmVWVBbjhtZE43WV9ONW5yWmpBWFE?oc=5",
-     "source": "Sahi"
-    },
-    {
-     "title": "PERSISTENT Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03ZTZTYkRWMmhCbHAtaXluVDNJWDJNZEtvSUhHd0ZreDZTTU9yOTVaeDNERHZ1MUV2M29iUWpJbE5KU0NnSXVFLVZfRnpuVzVONzcyYlpiTEVfTkpmZ3NJaWVaN3E0dTNVbkh3M3ln?oc=5",
+     "title": "DIVISLAB Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZmszR2lvV2t2S2dES3Z6Uy1PenR6SkRHUmp2QmRiS0U2ZHJWWERCQ0hKRTNKV2hiMUhGQzAwTFp6dVZXbE5JT0UzSy1BdEhwanpYd0FEd3ZTRy1vZi1va1ZOUkU1UnI5YU04?oc=5",
      "source": "Equitypandit"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "ETERNAL",
-   "close": 323.0,
-   "stop": 308.1,
-   "target": 350.17,
-   "score": 53,
-   "parts": [
-    100,
-    20,
-    41,
-    50
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 49, volume 0.6x its 20-day average.",
-   "verified": null,
-   "headlines": [
-    {
-     "title": "Food delivery stock to buy: Eternal shares - 36% returns in 6 months by Zomato parent | 22% more upside ahead? - Livemint",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnB6S3FfVFVQXzRIRk42NTlBN1dfUThFVW14QWpNRlozLWhNQ2FrMUwydG91TF90TXRadnNDVzVLMldnSkprLTZoUFZqUWdMRXZTaXc1Y1RLY1ZZMlRNTEk0TzJGQXhoU1hab0JzeVFCcS1EN1BtTzJnZURlMjZMdVVJcUdnUWp1YVBMMzR6Xy1vVEJCVFhBLVVpS3JMZWN2aVAyRl9QRDd6eTI3cTNDX3VIUnVWZ25PWUYtN0w4ak1yVFhJdG9oTDZtLTdDOWdOeUZiQXVCdTY0aXp0NlNoNUFtTE9TQlBxaVF3YkNXcjBPajZPZG9Ed3Jna0dLZ1dfdUHSAYcCQVVfeXFMTXhCN1hCbVh6ZEVtS0wyb2c2TTNuczU2LTBnWW44ZHFLS2RvUzM2T1kyeDIwd3MzVklPVkUxcEJhT25IeXp6aWw5X1RDa25CZENSWUhCcURxQ2N3YkNxZGUzWmZLWXd2SjVTMTFpbzNNbG43X1g1VUlLUGR5ZHJhdFp1UmVpM1hZb1FDTTQ4b0dBczU0M2VkZkdYYllLcU51bnZyLXExbkZwMFlpeWxtZGJMcXBnNlVBb082SEV1RWczVmdMY3ZXYldtLWtQMWpUeXhld2t3MHdOZXBJVnp0aDdhWkstbmxaYnR5dlRpckdCdkUyQk9jZER5OThvbFNqblE3WEVCYXM?oc=5",
-     "source": "Livemint"
     },
     {
-     "title": "Broker\u2019s call: Eternal (Buy) - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekdweXJCNHpsN3hQQ3dYeDFqMklQa3RrVVZlWVhOYmV2SEFsVEpBbDNWdkZUZmx3amx0SkhRN1prcVNNeEVvbDNLVEdySGdLUmswNjVoWnVSS1ZhSU91dWZXRzhzZ2xrR1Z5bmhUbTJoNDRtZ0xKeC1RQ3lsX3QwYXVtSDlGd29qQnVndzNkcVMzTXfSAZoBQVVfeXFMT2xVckNfejBCdUdzSUt6U3JkMzJBUXNrOHhTb2tGYWVtam5paFktS3ZORnl5V3YxLWtVMnFlc1lUazVwc0dUSmItNkNpT0IyZ0w3a2NkeUlVdXM4Zkw1cjZpcktueFljTGw3NWhocGNPTmlUZzFnUVJOazVVWE94eG40U2ZOMzdmTmIwa18zVHRPTGprc1VFeUJrdw?oc=5",
-     "source": "BusinessLine"
-    },
-    {
-     "title": "Eternal Q4 Results FY26: Zomato's Profit Jumps 71%, Revenue Nearly Triples on Food Delivery & Blinkit Growth - Goodreturns",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTGJtSEVpaW5ZUkNwUW1OVDZQdkVwQ0g5bU9RcmE3T2Itcll6ZXNvLVlLR2lrcG11amIyYWZLMVZGZ2dDVXlTenBtYnJlY292NkllMVFFQVF1eGhQYVBXSzB0eko1b0ZwSzZwb09VUUptV2phdi05YmtRR2U5ZlFLcl81NmRwbTV3NFREMTJiTUdOWmVpU00yY1ROSGhzX2ZKQlhmSTROaUZEdm5CLU5UMk1ZcVpHZF9sZElSd0ZoRTNQNnM4X1BJQlN5eDVfRS1OUWhVYTN1SmR3Zw?oc=5",
-     "source": "Goodreturns"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "CUPID",
-   "close": 361.8,
-   "stop": 326.39,
-   "target": 414.91,
-   "score": 51,
-   "parts": [
-    100,
-    18,
-    13,
-    74
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 76, volume 0.7x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Why Cupid Share Price is Rising - Equitymaster",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2JmdmViWkxRRjR5NGhtb1R4anlrLS1EdDlUc1I1aFVUTHdXRzZlLXViUDhOWmxSUmpIWDVBdzYyblh5LUZnR2t2alNCdjExMlQ4QWNhRGNjZFNSTU5Rd1ZoYVJOVWtKY08yQUljOXVLLURGX2JFMDdGcVNWN01zZmRNWkR1dmRBWnpNckhfbnd6UW9UVmpNTXh2VVRzVXFEbU1F?oc=5",
-     "source": "Equitymaster"
-    },
-    {
-     "title": "Up 15,400% in 5 years, multibagger stock Cupid hits record high - What's fuelling the rally? Check outlook, stop loss - Livemint",
-     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQM01TTlQxcnpFaTZPazUzdnBoU094MkVqQ3luWTFWOTNTU3ZOc1N4ZDlYM1FUVk5aLTlMNVVoWmxYSlpyQnJkYTdjZ0tfaUhiV1BYdXRwQ0NvT0xXWWxnM0JodzVhZkJGQTN3X1FXeUEycHAyM0hmdklxaDBGRURsdDVDVUl3RS1DcmNGOU9fQ2k5Z0FsdG5jNWRidVVsOS14R2l2V1FLbzNBMUw0RG1YZmZ0bkVOd2E2dUotWXpycmVfVFItTGpLUW8yeGgyYlVCekdqbjhDVnZqVU93LU4zRjdPX3hJUlpJaUt0dC1Nc2RILVJ4NmlLX3VtcnBYRWF1QVBvYU9UZC04b29q0gGSAkFVX3lxTFBUdWxqMGQycjJ3YUdMY25xY05jUUlOMWVGZTlKZWtRMnJTTFZyekZTam1YUDlneEtYUGdaOWZmLS05YmZjXzdjaG5haEZWajE1bHhZanM2QjdoUlI4ekR0R3dIWm1TSUxHUHpMT1dHcXZTam5RM2lBVUp6X2E1WnFnVUlFeVFERWtHMlNGZFpVQzlYUEZWc1Q5dHU4R0M5NHlfMkp2OGpqRmZoU01iNGhuNkRteUhHaFBWN3dJQjVqV2ZXNnJ4RW8tTFdiSkRmM3dzbnZCUF9ZeUtQOWhCN0RfUUhRczJveURXbXUyY1E1YzVWcjhJZTdwUnVlakM2LS1tTGU4U3pzOUVRcU1YcHZlUVE?oc=5",
-     "source": "Livemint"
-    },
-    {
-     "title": "Cupid Share Price Today: Stock Hits Record High After Nifty Smallcap 250 Inclusion; $10 Million Inflow Seen - India Infoline",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTGdGa1dHVC1yRXZQbXpHQ2ZHSlBCLTRDaHk1OUtGRWFDSXplakNSNGFBMW85XzUzbWVrLVpfVV84QXJpQWdZTm93M2ZIOE1mbWxwWHVOUUxLc05HTEJjTHd2Q2NxTndFRUliN0JJQjRENEhpWURsMEVJaElJdUt5WVhDQXdqMTFBdUYwYm91blUzNjZTaFNrZ1VsclNRVHRkQzlBak1sWGl2NnFKU3NhX1pJM2E5MmNrSEprdjhpV2NyWE9FWWJaZTVReFpxNl8tVjZocWlRRjJ4akJHNExOUC1pZw?oc=5",
-     "source": "India Infoline"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "PAYTM",
-   "close": 1690.0,
-   "stop": 1562.21,
-   "target": 1881.68,
-   "score": 50,
-   "parts": [
-    100,
-    25,
-    25,
-    50
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 51, volume 0.4x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "One97 Communications (NSEI:PAYTM) Stock Forecast & Analyst Predictions - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW5feERSUmZQb2dYXzctRkZJTFlRT1JxTUJXM1p1am55ZEdJN1RMTHBzTmpMMUNXMzdxMjU1dXk4TDcxRnp5TG5uX2d3Mi1SU3p6Um92eEZ6M2lWTjhvOFM3MmlCbUdsUXBqTnpGOEhWc2VyT3c0ZmdjUzR4Y282NmxTeFZfUWFIZTJvNWhMdkd0YUVJdHY0WFYzUldtYm1j?oc=5",
+     "title": "Divi's Laboratories (NSEI:DIVISLAB) Stock Forecast & Analyst Predictions - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkJ2NE9zT2FLY3JwdlNoQWJCNXpfMXB4QU5YbE9pWEtNaE9RUlJsbThWRzUtVHNiQkNtcEVpakQ3eUJUc3lncWFFNkZyUVRqY3kxeThPVzNzRXJxT1RmczBlaXZIbW9uYU15ZUF3WHJ5QllHQXBtTGpxX2VEV1k0VjRFYm13UFQxRWF6MGxUUFBCeG1XRVNLVFZNWmlPdElzSDlv?oc=5",
      "source": "Simply Wall Street"
     },
     {
-     "title": "ONE 97 COMMUNICATIONS LTD Option Chain - Live ONE 97 COMMUNICATIONS LTD Option Chain Data, OI & Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16T0NhU3pueFNZbkFCaHpqOEtnVnhIa2hsT3Rlc0c0OTUwdmR3anhpSWhDTlZQMVBRUFFlWk9IRXJZcHhUVTFjVzZKLTFjUDg5RGE2S0hmVi1CRlgxeEhzREEzOFpPV1FvNWc?oc=5",
-     "source": "Upstox"
+     "title": "DRREDDY Share Price Today - Dr Reddys Laboratories on NSE/BSE - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03S3NFMG8zNnRMb1VRMlUzLVRLQXJvN2NWLTNiaGdfV1dpRDhFVmQ4THlNdGNiZkZPTFEzQWtDbENQNU03bnlrUlRjLVFXWk1VWC15aXRXMlZ0cU05d1dvdk9kMW4?oc=5",
+     "source": "scanx.trade"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "PERSISTENT",
+   "close": 5988.0,
+   "stop": 5640.71,
+   "target": 6508.93,
+   "score": 65,
+   "parts": [
+    100,
+    84,
+    25,
+    50
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 69, volume 2.2x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "PERSISTENT Stock Price and Chart \u2014 NSE:PERSISTENT - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01VG4tR1ZHRnF6bF9CZzh6bHlySkh2MFd6bGJKUVhycUhNQkh2R2syeXEzOG9tLVpSTmNrcUEtOUVWZm45QUE1ZTB1VXFYSEc0LUI0akZJc3NQTDE5SHh0cg?oc=5",
+     "source": "TradingView"
     },
     {
-     "title": "Paytm Shares Tumble 10%, One Mobikwik Dives Over 8% Amid Reports of UPI MDR Delay - HDFC Sky",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHJSVXBGYTlOb2RzZ01fbFdkNHV6dVRZTWZtRnFjYnVLVEdpWE5KamVLam1pVWlYZVhvTVpmUGJyLVJBR2NXNkQxSnA0RXhRZ1RUemxDeFRTeHJqZXhUQ2t1SjJqZENQNFZ6V3pxdlI5Z2NGbGpBbmtHZ2xjbWF6SnNBeWdoVFhSMll0dXUzbEtNcXBveUFjMHhEN3BReWZ2cXM3azRLbFA3YUc4WWc?oc=5",
-     "source": "HDFC Sky"
+     "title": "Persistent Systems Adds Hyderabad Facility for BFSI Clients - Analytics India Magazine",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGFGeS1qbFlFN0NIcS1Kbno1QUxDS1FKQzFSeWVGZC1YYlFqNUQ3NTMwSGt0MnBIcTJtTU1SWExPa2RhUGlFaHlaeFFNMUVmcmc0SHoxdlgyOTNCelp5ZXVnNERPR2RtVFFYYUZzQ1NRTWkzcm41WEx4cDVWa1IyY2l1UlEyVzZVdFVCVXJGSlNueWQwV3ozN3B2S3FQdw?oc=5",
+     "source": "Analytics India Magazine"
+    },
+    {
+     "title": "Persistent Systems Opens Third Facility In Hyderabad To Boost AI Services - Sahi",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjYwQmZKUlRlbTJkajRwdFF6cDIyR0ZJXzBSMk5nVUpOalNSbFNjbGttUXZ5V1ZxWkRuOTNBak5sSDg1UUNybFNvM3d3Vkt3Zm1qempiallsSnd1cmV1LU5PYnI0eUQyc1RTSUl6TFlTZ2RrNWtPaHhrdjhkUEV0VzlnZzRzX1pjWFNRMFpCTjZiNjZFbU90TXlUeFo4dFhQ?oc=5",
+     "source": "Sahi"
     }
    ],
    "flags": []
   },
   {
    "symbol": "COFORGE",
-   "close": 1846.6,
-   "stop": 1731.14,
-   "target": 2019.79,
-   "score": 48,
+   "close": 1929.0,
+   "stop": 1804.5,
+   "target": 2115.75,
+   "score": 63,
    "parts": [
     100,
-    31,
+    89,
     25,
     38
    ],
-   "pattern": "Pullback to 50-day average",
+   "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 53, volume 0.6x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 62, volume 1.7x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -175,169 +105,204 @@
     }
    ],
    "flags": []
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 320.45,
+   "stop": 308.1,
+   "target": 348.32,
+   "score": 51,
+   "parts": [
+    60,
+    18,
+    63,
+    62
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 47, volume 0.9x its 20-day average.",
+   "verified": null,
+   "headlines": [
+    {
+     "title": "Eternal (NSEI:ETERNAL) Stock Forecast & Analyst Predictions - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlFfcnQ0SldFSlN6bi1fcjBlZ24xNE50YmdfY3VPdEh4aEkyd3U4a21RdGI4SEVLa0dheWV5Ni01N0JFM3dpc0N3NzR2dndBTWo1Wi12RDEyYk5OcVZYb1J6RV9rUUdNS2FKQWhkaXFCdzU3TWtPdUg3T21xU1lLbnp4V1lqS3dQRkpv?oc=5",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Zomato founder and Eternal Vice Chairman Deepinder Goyal said the company could turn to drones if it faced a shortage of delivery partners in the future. His remarks came in response to an X user named Shariq, who suggested that everyone might become - Instagram",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vSGIzNU54a2o3bXpHc1czNGVmTnNYeTg4ZmF6RnlsdEttbUlrMVpwY1lmbFhVTk44YURaZ1lSVVI5S0gzVkRWaExuTU1ia3dJcTA2TmtR?oc=5",
+     "source": "Instagram"
+    },
+    {
+     "title": "Broker\u2019s call: Eternal (Buy) - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekdweXJCNHpsN3hQQ3dYeDFqMklQa3RrVVZlWVhOYmV2SEFsVEpBbDNWdkZUZmx3amx0SkhRN1prcVNNeEVvbDNLVEdySGdLUmswNjVoWnVSS1ZhSU91dWZXRzhzZ2xrR1Z5bmhUbTJoNDRtZ0xKeC1RQ3lsX3QwYXVtSDlGd29qQnVndzNkcVMzTXfSAZoBQVVfeXFMT2xVckNfejBCdUdzSUt6U3JkMzJBUXNrOHhTb2tGYWVtam5paFktS3ZORnl5V3YxLWtVMnFlc1lUazVwc0dUSmItNkNpT0IyZ0w3a2NkeUlVdXM4Zkw1cjZpcktueFljTGw3NWhocGNPTmlUZzFnUVJOazVVWE94eG40U2ZOMzdmTmIwa18zVHRPTGprc1VFeUJrdw?oc=5",
+     "source": "BusinessLine"
+    }
+   ],
+   "flags": []
   }
  ],
  "etf": [
   {
-   "symbol": "JUNIORBEES",
-   "close": 741.23,
-   "stop": 730.25,
-   "target": 788.87,
-   "score": 45,
+   "symbol": "ITBEES",
+   "close": 33.06,
+   "stop": 31.32,
+   "target": 35.68,
+   "score": 42,
    "parts": [
-    30,
     0,
-    100,
+    95,
+    25,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 34.",
+   "why": "Weak trend, below 200-day average, RSI 60.",
+   "verified": true
+  },
+  {
+   "symbol": "JUNIORBEES",
+   "close": 745.14,
+   "stop": 726.41,
+   "target": 795.21,
+   "score": 41,
+   "parts": [
+    30,
+    0,
+    84,
+    50
+   ],
+   "pattern": "Weak trend, below 200-day average",
+   "timeframe": "1-3 months",
+   "why": "Weak trend, below 200-day average, RSI 37.",
    "verified": true
   },
   {
    "symbol": "NIFTYBEES",
-   "close": 254.66,
-   "stop": 252.6,
-   "target": 267.03,
-   "score": 41,
+   "close": 259.2,
+   "stop": 253.37,
+   "target": 272.1,
+   "score": 30,
    "parts": [
     0,
-    14,
-    100,
+    9,
+    61,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 31.",
-   "verified": true
-  },
-  {
-   "symbol": "ITBEES",
-   "close": 31.46,
-   "stop": 30.7,
-   "target": 33.89,
-   "score": 40,
-   "parts": [
-    0,
-    10,
-    100,
-    50
-   ],
-   "pattern": "Weak trend, below 200-day average",
-   "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 45.",
+   "why": "Weak trend, below 200-day average, RSI 43.",
    "verified": true
   }
  ],
  "long": [
   {
    "symbol": "DIVISLAB",
-   "close": 9426.0,
-   "stop": 7729.32,
-   "target": 12253.8,
+   "close": 9285.0,
+   "stop": 7613.7,
+   "target": 12070.5,
    "score": 74,
    "parts": [
     100,
-    90,
+    88,
     57,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 60% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
+   "why": "Up 56% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "MOTHERSON",
-   "close": 156.99,
-   "stop": 132.99,
-   "target": 201.16,
+   "close": 160.0,
+   "stop": 133.2,
+   "target": 208.0,
    "score": 62,
    "parts": [
     100,
-    66,
-    34,
+    65,
+    35,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 34% in 6 months, above its 200-day average, worst fall 22%, volatility 34%. Fundamentals not checked.",
+   "why": "Up 31% in 6 months, above its 200-day average, worst fall 22%, volatility 33%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 328.2,
-   "stop": 296.19,
-   "target": 403.28,
+   "close": 329.5,
+   "stop": 296.51,
+   "target": 407.78,
    "score": 61,
    "parts": [
     100,
-    38,
+    40,
     55,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 15% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
+   "why": "Up 16% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "PAYTM",
-   "close": 1690.0,
-   "stop": 1385.8,
-   "target": 2197.0,
+   "close": 1715.0,
+   "stop": 1406.3,
+   "target": 2229.5,
    "score": 61,
    "parts": [
     100,
-    75,
+    77,
     18,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 52% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
+   "why": "Up 56% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "ETERNAL",
-   "close": 323.0,
-   "stop": 269.45,
-   "target": 367.61,
-   "score": 59,
+   "close": 320.45,
+   "stop": 269.63,
+   "target": 361.39,
+   "score": 58,
    "parts": [
     100,
-    56,
+    52,
     29,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 36% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
+   "why": "Up 33% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
    "verified": null
   },
   {
    "symbol": "GVT&D",
-   "close": 4254.0,
-   "stop": 3969.54,
-   "target": 5530.2,
-   "score": 52,
+   "close": 4191.2,
+   "stop": 3975.98,
+   "target": 5448.56,
+   "score": 50,
    "parts": [
     100,
-    40,
+    33,
     17,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 9% in 6 months, above its 200-day average, worst fall 27%, volatility 45%. Fundamentals not checked.",
+   "why": "Up 3% in 6 months, above its 200-day average, worst fall 27%, volatility 44%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "SAIL",
-   "close": 171.0,
-   "stop": 153.9,
-   "target": 196.98,
+   "close": 172.77,
+   "stop": 155.49,
+   "target": 202.41,
    "score": 50,
    "parts": [
     100,
@@ -347,13 +312,13 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 5% in 6 months, above its 200-day average, worst fall 22%, volatility 38%. Fundamentals not checked.",
+   "why": "Up 4% in 6 months, above its 200-day average, worst fall 22%, volatility 38%. Fundamentals not checked.",
    "verified": true
   }
  ],
  "notes": [
-  "Checked against BSE: 13 match, 2 not tagged, 0 removed.",
+  "Checked against BSE: 12 match, 2 not tagged, 0 removed.",
   "Kept without tag: ETERNAL on 08 Oct: NSE 319.05 vs BSE 323.00, 1.2% apart",
-  "News: headlines found for 5 of 5 picks (simple keyword check, not a full reading)."
+  "News: headlines found for 4 of 4 picks (simple keyword check, not a full reading)."
  ]
 }
