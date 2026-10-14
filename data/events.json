@@ -1,5 +1,35 @@
 [
  {
+  "t": "2026-10-14T23:12+05:30",
+  "d": "2026-10-14",
+  "k": "New pick",
+  "m": "TECHM entered your swing picks (score 71, Breakout with volume)."
+ },
+ {
+  "t": "2026-10-14T23:12+05:30",
+  "d": "2026-10-14",
+  "k": "New pick",
+  "m": "LIQUIDBEES entered your swing picks (score 59, Near 20-day high)."
+ },
+ {
+  "t": "2026-10-14T23:12+05:30",
+  "d": "2026-10-14",
+  "k": "Data check",
+  "m": "Checked against BSE: 14 match, 1 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-10-14T23:12+05:30",
+  "d": "2026-10-14",
+  "k": "Data check",
+  "m": "Kept without tag: ETERNAL on 08 Oct: NSE 319.05 vs BSE 323.00, 1.2% apart"
+ },
+ {
+  "t": "2026-10-14T23:12+05:30",
+  "d": "2026-10-14",
+  "k": "News",
+  "m": "News: headlines found for 3 of 4 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-10-14T01:11+05:30",
   "d": "2026-10-13",
   "k": "New pick",
