@@ -1,86 +1,110 @@
 {
- "asof": "2026-10-14",
+ "asof": "2026-10-15",
  "swing": [
   {
    "symbol": "TECHM",
-   "close": 1575.2,
-   "stop": 1487.03,
-   "target": 1707.46,
-   "score": 71,
+   "close": 1650.0,
+   "stop": 1555.89,
+   "target": 1791.17,
+   "score": 77,
    "parts": [
     100,
-    72,
+    92,
     25,
-    86
+    90
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 56, volume 1.6x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 65, volume 3.3x its 20-day average.",
    "verified": true,
    "headlines": [
+    {
+     "title": "India's Tech Mahindra maintains fiscal 2027 margin target after large deals drive revenue beat - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcENEQnNWQk9pZFFBQU5LTXMwRF9GeGhRWHJuWU1sS3BDcllMLUU3anpvSXJKaEplbzBCZlZxNFpSbDI1TnpoYVEwTVdURU1taGtGMnoxMmxWeWFRNDNsOGt4SHZPTi1uNlA0UHZUbFM0Q3dodEZGUkJFd05Da3lhY1FqZVZmR24wclBzVjRiNEt3WGNUNExpNDB1TnlTVUhsTGoydDJVcXhSUQ?oc=5",
+     "source": "Reuters"
+    },
     {
      "title": "Tech Mahindra shares see sharpest fall among IT peers: What is behind the slide? - Upstox",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTGdIdlVjOFZTR2FfOFpqblJGQUhyZXVkT1hrTmlFVGVMcDRKR2o5RVNacjFhNVVkRkpJMkt3Tk5pVUZSUmoxTXlUZVJ0X1VhSWY3RF9xaENwNzlRazVsOW53MEt1MEN5eWh3LWFsQkpfamhVV1daVExDQmZJdk5WcGgzRjRtcVFSS29CMlpPZkN6VC1ORERqTW1Cc0NmdVAzdEJVZG15YTNJTlJHWTlpX2RDZmpUd1BoQ1JRUnhNaHQzY2thV1lBcFN0V0dwUVhub2hZ?oc=5",
      "source": "Upstox"
     },
     {
-     "title": "Tech Mahindra shares fall ahead of board meet to consider Q2 results, bonus - CNBC TV18 - LinkedIn",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEhXYXhuZTNtRFY1NHlONTZUOUJNOGZRQU9RSjc5TUVZS2syWG9lQW9wQ1FpVVcxSlBzaHVOSS1nb1pmYmR4c3RNRkJIUVRTVHhXeFR6STlDbi1RNDlMd00yWXFSR0F1T3I5MTl3ZGlGbUEtTVBMUG9ySE5UX3lLTVZFS3owMlM4cDN1ZjBRQTMxRnRwamFOX0dERm5hUzJ3MGw4a2xoV0thNmluNHRFYmwzVzgwQQ?oc=5",
-     "source": "LinkedIn"
-    },
-    {
-     "title": "From middling to fastest-growing large IT firm: How Mohit Joshi turned around Tech Mahindra - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNU3V6UFFReFVKWE1fdXBuWjJ6ZHh5c2N6ZmViT3d1MEJBVUJUOFFHMFN0ZGVWREctNkJHRUtSODhUZ2NYTkR6Q3VPNGFPUlhCeC1vdU5WbjVzcGFKbWJUUXVocDBpU2Z5dFZYMG53U0Zib0pJT2VtNEVoNlJNdF9HSGFJTnFxVFFKaFdsNWU4RXZMcTZ0S3VkUXY5d0l3TGxNcHZ5MHJkWnRvcWpUOEdxZ0FDM0dBbWpOYTBiQzdGaE4yR1BEaEdOLUxpY2Z3b2NJSXBfUm1QM3A1VzNFamRjWHNPMFY0TGxKOEplRUxzOF9uWnhFbUY2blZteWpxajjSAYQCQVVfeXFMT1JxdHJzdTItcmY5bzZPVENxdDdtaDk0aEZiRVZnWjZoVlEyaGtybWhEeFFQVVhxQmg4OVNlTmJfbjlXX3UzVF90X0ktY2otNEQ1Yl9KNVFTU05Db2xJaDI3S044eHI5RF8zOEE4ZExYazBMSG5GMTBCTUQ3RUJKUWJzM3pOX1VZTmdrTnZDTkxwaUxJeTJjYlNiRXdCNWR4OHVRcVZUTmlsc3AzRUh1Wl9wV3ZwY0dqS0JsWVZVM3ZfaGtMOVFLQUpTTVZZSy1xQ2J4dFNqVGZRZ3gyVktWZDFKMkVQcjdyQUxGcXZ2czRQYXV6UjZUYlRkWXAwWmJ0TUJUWU4?oc=5",
+     "title": "Tech Mahindra Q2 results: Net profit rises 32% YoY to Rs 1,586 cr, IT firm declares Rs 15 dividend - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQmh6N25DUnExV0hLYjk0UTRaSWJEdjBxdmpxYXdja1NvRHkwWHlZSlVRaVpEUElzU1FaOFRGTXlzNnNuazVaZGNmbWU2clQ2WDQtRXRoQmNVZFVIM2lXSlE3SFVVdFN3RjRCXzlDRlppUVMzdzhzMWUta0JrZ0hzVUtiS2RDRWdnLW15SDR2WHpzMkRuOVJhbXBOMGdPWmROdnBkTGdLbXl0TG13Umh6ZHp2S0pyTWYybnFzdmJHNGljN09iamhYdlpDc0JmWG5qUXFlVlQwNDNLbkNCZHpCRXQzVzYtREVJVHZ4eVdua1Nrdlg1bDh3bVV30gH_AUFVX3lxTE9zZVFFSjRlYnFtRGRra2JCYWhqUTFtRldOeU1ic3haOUJNWXBtU3ZMRHBUUnQzZEZBTTFqNEpESDF1VHQzOHd0VHA1LU9xQWNjeHJpV0F5b3p0eVpSVGtQTkpKZlpTT2hfV040MXhYeWloei1qWTlETkJwZWNaNVFoM1JrU21xMkVLbm12OWEza21lU2I5a0k5LWJlbVQ3clRXLW5sRmpaRGlHVWxlanFKVnpxaTFqZ2lxOGloT2d6dUlETHdKdngwM214amllNVY3V1d3cEt4OXREWjNvSmZjWG9pWWJFbl9KN1JHeFNxNlQ2ZEVHaVk2OV9vWTMyVQ?oc=5",
      "source": "Moneycontrol.com"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "DIVISLAB",
-   "close": 9023.0,
-   "stop": 8909.98,
-   "target": 9701.11,
-   "score": 66,
+   "symbol": "LIQUIDBEES",
+   "close": 1000.0,
+   "stop": 999.3,
+   "target": 1001.97,
+   "score": 64,
    "parts": [
-    60,
-    52,
-    100,
+    70,
+    44,
+    91,
     50
    ],
-   "pattern": "Pullback to 50-day average",
+   "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 43, volume 1.9x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 55, volume 1.0x its 20-day average.",
+   "verified": true,
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "ICICIBANK",
+   "close": 1389.4,
+   "stop": 1334.79,
+   "target": 1471.32,
+   "score": 61,
+   "parts": [
+    100,
+    81,
+    25,
+    38
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 58, volume 1.8x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "DIVISLAB Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZmszR2lvV2t2S2dES3Z6Uy1PenR6SkRHUmp2QmRiS0U2ZHJWWERCQ0hKRTNKV2hiMUhGQzAwTFp6dVZXbE5JT0UzSy1BdEhwanpYd0FEd3ZTRy1vZi1va1ZOUkU1UnI5YU04?oc=5",
+     "title": "Which bank stock should you buy ahead of Q2 results - HDFC Bank, ICICI Bank, Yes Bank or Axis Bank? - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdUtXSTZkOG5mSTJBRUZDSm1ucEhqY0hIMUZiaUlFajBkbm5PcmtRMC1hVExscXV2YXFyNG5MUE9OY1d6NlJ4RGhSQXVIenZJelM0UUZMQXNyUmU4NnItUXdyMjdRNnJ3SU5HR2twRFhWZVVqa0Z4Q3ZpS1NYU3l1b09md093eFJQaHVIM29Uc2ZpeVhSLWkwNlFTcUJsb1o5d3poeVQwZUFSVUw5b0oxYW1XbDJQc1NBYXI0T1o3Z2k1ZHp3dnphbkVrWHJDUy1PV05ReUNMdzMtZVpaaWd6ejlPVk9WSUVTZkNXWU9yRkgzSFBXc0Fzbk16djPSAYICQVVfeXFMTVBablRYeUEtVXRxQml5M0VacnJIczlmQk1RYjN3cXJHSTlWb2Rtci1qaTVxbkF4aTk3akVtY2l0RHhuWVlSaWxDTVFqZTBCZEQtekRjaHpyNGlqajB4WnZWWGdyQ2pvQVN3S2pSdnpPQm9UbDFWVDVLY3hVbEFIUjRpNy1CSUVua1o2d0hSVjcybzZuSmxQcUYzd3dfQ1k5S3VESkZrcFBpRXFIbjc0emh0S3VDRmtXcXgyMVlKVE5tUFRHX1FTSkVEMGc5UWZRTmk2S0hlX25hRW56V01wWDhRb3A2Si1OME12dGxDNEZmRHBkRmItNVo3WkVBdG5YeEpR?oc=5",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "ICICIBANK Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYVhJNHdOWnMwcEkwMTVPZ0lMSm52Nzg0SlZEVHpBc2tNV2VkelBkcU95NnRLck13OGVLRlpHc0U2d1FQZ2tSTm1rM2U2SV9Na05SNS13RlNIOS1LZUstQk9vQlhDZlhVY0lhVw?oc=5",
      "source": "Equitypandit"
     },
     {
-     "title": "Is Divi's Laboratories the Best Stock in Its Sector? A Look at the Numbers - Univest",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oYkgxc2VPZEZpb2Vqdzg5Y0tyR2VLY0l1ZWVqQmpZVnVPaWZPaEswcVJkQTYycFFSd0dyMDRsalZWdXVacTUtQm9HQ2pRQy00R2NxRnZNUTA1cE92bFVpSFhOR1hyeFJXM2c?oc=5",
-     "source": "Univest"
+     "title": "Zee Business. . Stock Insights Pharma Stocks \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u092c\u0926\u0932\u0947\u0917\u093e \u092e\u093e\u0930\u094d\u091c\u093f\u0928 \u0915\u093e \u0916\u0947\u0932? ICICI Bank \u092e\u0947\u0902 \u0928\u0908 \u0924\u0947\u091c\u0940 \u0906\u090f\u0917\u0940 \u092f\u093e \u0926\u092c\u093e\u0935 \u092c\u0922\u093c\u0947\u0917\u093e? \u091c\u093e\u0928\u093f\u090f \u0905\u0928\u093f\u0932 \u0938\u093f\u0902\u0918\u0935\u0940 \u0938\u0947 #StockInsights #PharmaStocks #HospitalStocks #ICICIBank - Facebook",
+     "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxNZk5ya0JmakZNV0szeTRxcURJSWxaaGppS0xTTTAxQ3E0Mk5pYjUyaEo1UzFTWXVJaXBZUkZQbE9VajdXbmhvTzRaMHNkbFNnUGVZbGpoUkNvTlgtd3pWUTdfdS1RUGpzYUZBd1I1eGVJYnJFZmJncTNHZHBlOWgtejhtZks0QjNSRGdTREFCQ3lSNVNiODhTY1QxZ01WTVVZYXRaNDg3ZWRHTFo5M1NlVElxM29HZTBYZmczWjVpSmpZcGtVQzFKU1pNd21Zd25hUXZxbmh4NE9XcDQ1Qk5WazVuRTY0THdZNWFLekFGMWMzQ1duU290LW9RLWN0a3FNZHNWZTVrX1hiQmtNakxOTmVxSzRLVVFJemdjYWFxd0JwbnZydlB4aDVBODAwQ1VxX1NvX3NjZUMtNWxXNEpxR3pQWFFRbEtTaXozSVM0d2hPZzR1QVV6Z1hzenI4WkxKbE4wMzdva3c2VDJZRGpQWHhfdnpQa3Y5bmVZOGg1NUdwUWktak45U0x3OXhWb3dScGVZNTVHRnhQLTluUDViMzhJTE9icVFBNG9wemoxeVJIQUhUX1JadnpLUHB1Zk1EcVRIY1dYdkJEZE5XSFR6VW5tOGVUNTUyQk5XbTVLVWwzeWpXeDFoOUFoa1NHSjJ2MFg1czZWdEh2c1BvRGRzQkFqbGVoNTJsTWViR1U0d1BkWU95dnZlTzRodUxKUWJTaVlZN21FU21lOGVmN1M4SGFrdVd0Y1F1bjU2a3JUTThJcEFiQzF0eFJLTF8?oc=5",
+     "source": "Facebook"
     }
    ],
    "flags": []
   },
   {
    "symbol": "COFORGE",
-   "close": 1928.0,
-   "stop": 1802.94,
-   "target": 2115.59,
-   "score": 62,
+   "close": 1934.3,
+   "stop": 1809.24,
+   "target": 2121.89,
+   "score": 61,
    "parts": [
     100,
-    71,
+    68,
     25,
     50
    ],
-   "pattern": "Breakout with volume",
+   "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 62, volume 1.3x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 63, volume 1.3x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -102,135 +126,256 @@
    "flags": []
   },
   {
-   "symbol": "LIQUIDBEES",
-   "close": 1000.0,
-   "stop": 999.3,
-   "target": 1001.84,
+   "symbol": "DIVISLAB",
+   "close": 9030.0,
+   "stop": 8917.89,
+   "target": 9702.64,
    "score": 59,
    "parts": [
-    70,
-    35,
-    81,
+    60,
+    26,
+    100,
     50
    ],
-   "pattern": "Near 20-day high",
+   "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 55, volume 0.8x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 43, volume 1.3x its 20-day average.",
    "verified": true,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "DIVISLAB Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZmszR2lvV2t2S2dES3Z6Uy1PenR6SkRHUmp2QmRiS0U2ZHJWWERCQ0hKRTNKV2hiMUhGQzAwTFp6dVZXbE5JT0UzSy1BdEhwanpYd0FEd3ZTRy1vZi1va1ZOUkU1UnI5YU04?oc=5",
+     "source": "Equitypandit"
+    },
+    {
+     "title": "Divi's Laboratories (NSEI:DIVISLAB) Stock Forecast & Analyst Predictions - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkJ2NE9zT2FLY3JwdlNoQWJCNXpfMXB4QU5YbE9pWEtNaE9RUlJsbThWRzUtVHNiQkNtcEVpakQ3eUJUc3lncWFFNkZyUVRqY3kxeThPVzNzRXJxT1RmczBlaXZIbW9uYU15ZUF3WHJ5QllHQXBtTGpxX2VEV1k0VjRFYm13UFQxRWF6MGxUUFBCeG1XRVNLVFZNWmlPdElzSDlv?oc=5",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Is Divi's Laboratories the Best Stock in Its Sector? A Look at the Numbers - Univest",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oYkgxc2VPZEZpb2Vqdzg5Y0tyR2VLY0l1ZWVqQmpZVnVPaWZPaEswcVJkQTYycFFSd0dyMDRsalZWdXVacTUtQm9HQ2pRQy00R2NxRnZNUTA1cE92bFVpSFhOR1hyeFJXM2c?oc=5",
+     "source": "Univest"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "HCLTECH",
+   "close": 1360.0,
+   "stop": 1280.11,
+   "target": 1479.83,
+   "score": 57,
+   "parts": [
+    70,
+    84,
+    25,
+    50
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 67, volume 1.9x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "HCL Tech Q2 results 2026 today | Is this a stock to buy ahead of quarterly earnings? Experts' view - Livemint",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNmQ3N1g4RGUxaW5FMGFnOUNXQlBpQVRITnlsdzc1Q0xkQmFyeUVFbFdxUGZ6SHFYSXczODZ1V1dRRGtmRk9qXzdQUXVsdmFMSzNSUGR2Z2JtOWQyUXkyWGE5WUNkTXNuRWhKUmNSaTlvQnlfYmc5aEI5N29abXFDS3dReHBrUXNubWVKcVRYZVVaVjZNa1pHM1ZIQTFrTU1JVUJacjBXOWk0UUpULWpQR2FlUHlwSDFCdGRpS2dKWVdWM1pWTGh3U2lFTk9LR0FORGtKN0xaVS1vSEM2SjVsd3kyQl9VQ1lGSV9XeHpOcXl6UVdBcDVr0gH8AUFVX3lxTE5YbXV0QjQzeTBpRmRLc1EzTTk2YmszU3ZBdEdwU1NqMC1qaHFfQVNSR1hLek1ZX0RPY2ZmaHkwNlIwaDFrcWFKeUk0LVY0ZmFGRVpoX085TnpJaGFsVWhzQkdKLVpUSFF1bm9UQ0VNYVU1NFBHamh4MVJNNUxzb2Z5OTF2UldJZGtOSmtoUUI3LVpPZ1NxZ2pqcmRxQndHWmZyOEZBZFhwb1hNWHQtUkFqOGlDVUlvRl9jeUZSLUlodVI0bi1kRm5YX2VPREY0WVI4VHY4T3VDVTFIWWpZSEl5THJKLTZXNmptTzdJRUQ5R1BESTEzSzVEWDBsQQ?oc=5",
+     "source": "Livemint"
+    },
+    {
+     "title": "Worry not about visa headlines: Former CEO of HCL Technologies Vineet Nayar says Green Card ban on 8 comp - The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQN29qeTVCRkhfWG9TQk9BWjFrQ2N1R3ByRmZQb003Szc0M0hfVEhRYldpbVRDNTdkb2ozS2xwS1pPSWlvTVhsUjlwQXBVY2RLZm1HRXUtNlFJb1NWSUhybE45TkgxM2ZsbG8wMWJYVkNwcWYtUTJ5cENvRkpmeXdpVnR5Zm5BOUZINDJ5YjBETFEwbnNUdm1vVC0zMzEyS183S2xDdVAxVjBUbWVHUTVvRUFEUHRnN0tUWnpGNGJuSzVNX1oyQWllcXpzWHU3THdFSS1SelRFSjF5MWhNaXBMaHJGeHZrRElOUlU5YVNQdmM0QzFydjQxemZmODZtTE5jSnZxZF9ESkdCbHNRNHhpMFU1YUdoYW84dGg3ZDZJa9IBpAJBVV95cUxQTkZaVlJRS3hYaTBEcDd5VDQ1ZHRScGRqUTRRT1hXNm9FT2ZMU25oVXZ4NUxHUEpJX2lJWm4tbjRLUUh2Y0I1RWZBcFNyR2d6NUlRV0VFb3NNSzNGaGoxRFYzdDVwaDJZdWJkcjNiUk1McTNZZTZFR1pXOG1pM19pN2daZkVTQW5qeUJ2MXRqLWJkZmo5UEx6Nk1ZcWQ1TnB2a2NwZVQtQ3YxY2hGTlZ6NFVyUHZnbXFmZ0FYaWE5TnNkUDhOYnVkZVNsX3k0c09qQTVLaE9NUnFVcFhibVd5eVRIVVVOaE9sY1ctclU0eWdOOWV3S29uRk94d2tCb20xd1Exb3dieGpIaGpsWFBUUkVEMFBmQk05MDNNQUo4WFNENEth?oc=5",
+     "source": "The Times of India"
+    },
+    {
+     "title": "Reduce HCL Technologies; target of Rs 1090: ICICI Securities - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1hMcjdUdElrUnV4WkNuY0xVSC1VdTI5ODYxYzJlazU4VTBDM2ZMVUFJYzJvcDA1VFUtZGxIaGhLVE9xdDRxX3k4SU1uSDJZbnk5YkpzZWFzclc1RVJ4Qm43R0RmZmMzb2FqYjJxajJFSE1zNkk2UTlURGJ1aXRKUjF5OFVpZ2haRkFnakxRbUNObVF4aXNaNE0xUjU2QTU5UE10bENKSTl0VEMzZDk0TFFENDlZaHVUVTB0c3JXTdIBxAFBVV95cUxQTDF5V0NyaEpXU0MwdEV1b0VhNWxvVm9qb3NLQnB0VnRYb3p4ZUlxS1BWamdDVElWeWhjMWNsYUJraTNDVjNxTGgtcUtqVDJIbExVZ0tjdERlMlhEdVNOOVYxMVI1QmIwNVJqZFZjZ3EyTDNqU0pFUExZTC1RbTBEZXNtUGRhbDhnOFZNdmloS1dtRFo0aC1VM2h4ZmRVN3JCcllCQXktNFhjbVhUUHB6a1BEWTM2SEY4bTIxVVZMVjQ1aHct?oc=5",
+     "source": "Moneycontrol.com"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "PAYTM",
+   "close": 1712.3,
+   "stop": 1573.36,
+   "target": 1920.71,
+   "score": 48,
+   "parts": [
+    100,
+    29,
+    12,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 53, volume 0.6x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "One 97 Communications First Games GST Demand Reduced From \u20b95,712 Cr To \u20b9703.66 Cr - Sahi",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZDRyUnk1aVk1Z1djNnFQSzJZREdKN08tSlREY3E2RkNQRk15SXp0cWhyai1vSWU1QmUwaXZraWpNUGlzR3AwSE10SG94eWhxRzVXdDRCdjNPQ1djVTZaYUlSbHRBOGVDdEVzRjNpNkYxMkNPdDZpdDJKQ212dE0zUzg0dkxBbVVaeGtLT1d4clM2ckVVS214WUZlRlJhZkYwV2M2VGRjQnU?oc=5",
+     "source": "Sahi"
+    },
+    {
+     "title": "One 97 Communications Ltd. Key Financial Ratios \u2013 Valuation, Profitability & More - Value Research",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXBvMzhZMEJncm5BdGxPTnBCb19pTTlMZ285dHptSXRrczRKTml1NUNyeWdmUXdQSnlvYWp5SDg3cHUwVURfWDVaVjE3SGdKMzNlcmNLdnd0RV8wMlBDTHdCOWJHdHIwMk9Dc3RtX0kyOUNnQmhZTzRfc21DN2oyYy1KQjdDSWpoR3ZmV0drdlM?oc=5",
+     "source": "Value Research"
+    },
+    {
+     "title": "One 97 Communications sees GST demand on subsidiary cut to \u20b9703.66 crore - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGdvRXdfR21TTnVBbmR5STdMY0x6SFJXZDJXOWU3Qmh0LTEtUmdjU2pSV01vS0FHdlY4ZjhVUkt0LXFQMHh6WVlrNTM3VGk0Q0FmWlNmYXN0MGFjS0FOa0E5aV9teEdiRFZSQzJHaHdpTDNkMWFaNllPSnZLcGpUVXctTk1sR2VxenJCTVFTeHBjVzhZNmxmUXNheFNDS1VEVVlwYzc5NmE3LWIweWhCbmhpdGVyalpMbEZHOExvUQ?oc=5",
+     "source": "scanx.trade"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 323.0,
+   "stop": 308.1,
+   "target": 351.36,
+   "score": 45,
+   "parts": [
+    60,
+    24,
+    45,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 50, volume 0.8x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Zomato founder and Eternal Vice Chairman Deepinder Goyal said the company could turn to drones if it faced a shortage of delivery partners in the future. His remarks came in response to an X user named Shariq, who suggested that everyone might become - Instagram",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BbHFUeDlLTDk4SEdoYkpRRmJScHVLLWJqdFJUZnptd1BKZ0JCMmhaZlJRZGxlU2tZclhWLWJiMVI4Mm5WSlR2TmNqU2ZoZFByS3c?oc=5",
+     "source": "Instagram"
+    },
+    {
+     "title": "Food delivery stock to buy: Eternal shares - 36% returns in 6 months by Zomato parent | 22% more upside ahead? - Livemint",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnB6S3FfVFVQXzRIRk42NTlBN1dfUThFVW14QWpNRlozLWhNQ2FrMUwydG91TF90TXRadnNDVzVLMldnSkprLTZoUFZqUWdMRXZTaXc1Y1RLY1ZZMlRNTEk0TzJGQXhoU1hab0JzeVFCcS1EN1BtTzJnZURlMjZMdVVJcUdnUWp1YVBMMzR6Xy1vVEJCVFhBLVVpS3JMZWN2aVAyRl9QRDd6eTI3cTNDX3VIUnVWZ25PWUYtN0w4ak1yVFhJdG9oTDZtLTdDOWdOeUZiQXVCdTY0aXp0NlNoNUFtTE9TQlBxaVF3YkNXcjBPajZPZG9Ed3Jna0dLZ1dfdUHSAYcCQVVfeXFMTXhCN1hCbVh6ZEVtS0wyb2c2TTNuczU2LTBnWW44ZHFLS2RvUzM2T1kyeDIwd3MzVklPVkUxcEJhT25IeXp6aWw5X1RDa25CZENSWUhCcURxQ2N3YkNxZGUzWmZLWXd2SjVTMTFpbzNNbG43X1g1VUlLUGR5ZHJhdFp1UmVpM1hZb1FDTTQ4b0dBczU0M2VkZkdYYllLcU51bnZyLXExbkZwMFlpeWxtZGJMcXBnNlVBb082SEV1RWczVmdMY3ZXYldtLWtQMWpUeXhld2t3MHdOZXBJVnp0aDdhWkstbmxaYnR5dlRpckdCdkUyQk9jZER5OThvbFNqblE3WEVCYXM?oc=5",
+     "source": "Livemint"
+    },
+    {
+     "title": "Eternal Q2 Results: Date, Time, Earnings Schedule, Share Price History And More - NDTV Profit",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzgzV2J1Z2lkcTZNYjZsUTgwT1NjVnhEOGltYmQ5Y0dlZFpHLVc0YkR3WlBQTk0zRTNXNzdyeC1mblJ3XzFndUpjNHZJWXVrQU1feUgzaXZIVmNFOHgzaGtUcnhjMnFvM0l3WWphbnNGNHBBOUpnbGoxdUxyNmtCTkJ6VVlHZEh4QVpLekhZN2ExUzJhUmkzZFJRYTR4aFFYRkYyWGlhSFhuVWNTanVFV3B6LXB0Z2NQXzBseNIBxAFBVV95cUxOZnd5d3pONDZ2MWxxdkZIUllJcmdBci1IYmFoRUtJS3FmUDBGQ1lBaW92cS1ZN2JQNVBTOTI2aFQwd0JucHBRSlVya2VaSHNnYWIyeU9iVXhRQVNEV1o1a3VqRzMweURsQ2ZSeVVSWUFSTXpsa0NMOHVGTkFybkpCdnB5SXBlWXZrbXUyYTVySEdmMFA4NHBqcVRYMVlDQXBMWlpjd1R4SWstRlc1NVVyd1poYmlVelJYZnF2QWpWcExRVWha?oc=5",
+     "source": "NDTV Profit"
+    }
+   ],
    "flags": []
   }
  ],
  "etf": [
   {
    "symbol": "ITBEES",
-   "close": 33.58,
-   "stop": 31.76,
-   "target": 36.31,
-   "score": 48,
+   "close": 34.12,
+   "stop": 32.32,
+   "target": 36.82,
+   "score": 51,
    "parts": [
     40,
-    75,
+    90,
     25,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 63.",
+   "why": "Weak trend, below 200-day average, RSI 67.",
    "verified": true
   },
   {
    "symbol": "JUNIORBEES",
-   "close": 745.18,
+   "close": 743.18,
    "stop": 726.41,
-   "target": 797.22,
+   "target": 794.72,
    "score": 46,
    "parts": [
     30,
-    16,
-    89,
+    2,
+    100,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 37.",
+   "why": "Weak trend, below 200-day average, RSI 36.",
    "verified": true
   },
   {
    "symbol": "NIFTYBEES",
-   "close": 257.78,
-   "stop": 253.37,
-   "target": 270.81,
-   "score": 37,
+   "close": 261.51,
+   "stop": 253.65,
+   "target": 273.3,
+   "score": 28,
    "parts": [
     0,
-    1,
-    98,
+    37,
+    25,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 40.",
+   "why": "Weak trend, below 200-day average, RSI 48.",
    "verified": true
   }
  ],
  "long": [
   {
    "symbol": "DIVISLAB",
-   "close": 9023.0,
-   "stop": 7398.86,
-   "target": 11729.9,
+   "close": 9030.0,
+   "stop": 7404.6,
+   "target": 11739.0,
    "score": 73,
    "parts": [
     100,
-    84,
+    85,
     57,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 48% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "MOTHERSON",
-   "close": 159.8,
-   "stop": 133.39,
-   "target": 207.74,
-   "score": 64,
-   "parts": [
-    100,
-    69,
-    35,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 34% in 6 months, above its 200-day average, worst fall 22%, volatility 33%. Fundamentals not checked.",
+   "why": "Up 49% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 330.0,
-   "stop": 296.82,
-   "target": 407.94,
-   "score": 60,
+   "close": 335.0,
+   "stop": 297.15,
+   "target": 425.5,
+   "score": 62,
    "parts": [
     100,
-    36,
+    43,
     55,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 13% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
+   "why": "Up 16% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "MOTHERSON",
+   "close": 160.66,
+   "stop": 133.58,
+   "target": 208.86,
+   "score": 62,
+   "parts": [
+    100,
+    65,
+    35,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 30% in 6 months, above its 200-day average, worst fall 22%, volatility 33%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "PAYTM",
-   "close": 1712.4,
-   "stop": 1404.17,
-   "target": 2187.31,
+   "close": 1712.3,
+   "stop": 1404.09,
+   "target": 2187.88,
    "score": 60,
    "parts": [
     100,
@@ -240,31 +385,31 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 52% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
+   "why": "Up 55% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "ETERNAL",
-   "close": 316.0,
-   "stop": 269.77,
-   "target": 354.35,
+   "close": 323.0,
+   "stop": 269.95,
+   "target": 373.87,
    "score": 58,
    "parts": [
     100,
     52,
-    29,
+    30,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 34% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
-   "verified": null
+   "why": "Up 31% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
+   "verified": true
   },
   {
    "symbol": "ADANIPOWER",
-   "close": 195.15,
-   "stop": 183.5,
-   "target": 253.7,
+   "close": 196.5,
+   "stop": 183.76,
+   "target": 255.45,
    "score": 54,
    "parts": [
     100,
@@ -274,47 +419,29 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 8% in 6 months, above its 200-day average, worst fall 25%, volatility 36%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "GVT&D",
-   "close": 4190.0,
-   "stop": 3771.0,
-   "target": 5447.0,
-   "score": 50,
-   "parts": [
-    100,
-    33,
-    17,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 2% in 6 months, above its 200-day average, worst fall 27%, volatility 44%. Fundamentals not checked.",
+   "why": "Up 7% in 6 months, above its 200-day average, worst fall 25%, volatility 36%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "SAIL",
-   "close": 170.0,
-   "stop": 153.0,
-   "target": 191.58,
-   "score": 48,
+   "close": 170.29,
+   "stop": 153.26,
+   "target": 198.02,
+   "score": 49,
    "parts": [
     100,
-    12,
+    16,
     31,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 1% in 6 months, above its 200-day average, worst fall 22%, volatility 38%. Fundamentals not checked.",
+   "why": "Up 2% in 6 months, above its 200-day average, worst fall 22%, volatility 38%. Fundamentals not checked.",
    "verified": true
   }
  ],
  "notes": [
-  "Checked against BSE: 14 match, 1 not tagged, 0 removed.",
-  "Kept without tag: ETERNAL on 08 Oct: NSE 319.05 vs BSE 323.00, 1.2% apart",
-  "News: headlines found for 3 of 4 picks (simple keyword check, not a full reading)."
+  "Checked against BSE: 18 match, 0 not tagged, 0 removed.",
+  "News: headlines found for 7 of 8 picks (simple keyword check, not a full reading)."
  ]
 }
