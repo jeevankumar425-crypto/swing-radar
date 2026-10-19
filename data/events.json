@@ -1,5 +1,23 @@
 [
  {
+  "t": "2026-10-20T00:26+05:30",
+  "d": "2026-10-19",
+  "k": "New pick",
+  "m": "PERSISTENT entered your swing picks (score 75, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-10-20T00:26+05:30",
+  "d": "2026-10-19",
+  "k": "Data check",
+  "m": "Checked against BSE: 15 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-10-20T00:26+05:30",
+  "d": "2026-10-19",
+  "k": "News",
+  "m": "News: headlines found for 7 of 7 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-10-16T22:38+05:30",
   "d": "2026-10-16",
   "k": "New pick",
