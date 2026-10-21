@@ -1,56 +1,121 @@
 {
- "asof": "2026-10-19",
+ "asof": "2026-10-21",
  "swing": [
   {
-   "symbol": "PERSISTENT",
-   "close": 5690.0,
-   "stop": 5430.0,
-   "target": 6303.5,
-   "score": 75,
+   "symbol": "DIVISLAB",
+   "close": 9190.0,
+   "stop": 8937.5,
+   "target": 9914.71,
+   "score": 74,
    "parts": [
     100,
-    83,
-    68,
-    50
+    41,
+    94,
+    62
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 54, volume 2.0x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 49, volume 1.3x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "India's Persistent Systems plans debut rupee debt sale to fund acquisition, bankers say - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcERlU2MzZ3lfNS1ZaFBEaWlxWGhDMWFmMW91a0JUMDE0eHNfVV83aVBjT05OVzhqeVJwSWVUVk9Ga1RjSE9rZmZzc1RvSk1mSVA5VlQ3Z2w4WFFuWkEzVUZaWXJ4Y1M5LWljQkJEbk1sVE5nTTlDNEpTN0pIaHBqZGM0Z1BuZWpKN0VfaUdBdnJXSHdEMWFPMURIYnpzdS1FdVVSbXBieUlDRFhGYzZNem9OWkJZQk5jWW1pTk94ZnFxcWlV?oc=5",
+     "title": "DIVISLAB Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZmszR2lvV2t2S2dES3Z6Uy1PenR6SkRHUmp2QmRiS0U2ZHJWWERCQ0hKRTNKV2hiMUhGQzAwTFp6dVZXbE5JT0UzSy1BdEhwanpYd0FEd3ZTRy1vZi1va1ZOUkU1UnI5YU04?oc=5",
+     "source": "Equitypandit"
+    },
+    {
+     "title": "1500% Dividend Bonanza! Pharma Stock In Spotlight After Mega Payout; Record Date Announced - Goodreturns",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDV4YlY0czJkejE4Y2VsSm1vRm50b2RQV0FuYXNJVHAwZW9rWTVGT2hXQ1BEN3hCZVRWaDRqUkVNX3JGX2FKaUk1TE8wU3lMMUF6X2R6NXJueFZ4SWJrczR2YjJzSHpic1RFVTNNY0Q1WUFlYUVTcXkxUE55OC0tWlExUERGa1JmQkFqU3lGTVpkZENEdjVRNG9fTnRFSjhHNWpiVHJvQ0ZuTkUxRVEzSWJCM0xYa0NZZmphZDFZSm45TzlHTGRua2VlMTU?oc=5",
+     "source": "Goodreturns"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "ICICIBANK",
+   "close": 1385.0,
+   "stop": 1329.4,
+   "target": 1469.49,
+   "score": 70,
+   "parts": [
+    100,
+    65,
+    26,
+    90
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 56, volume 1.5x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "India's ICICI Bank Q2 profit rises 20.1%, beats estimates - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZhRWR2N2tXZjhxd25pa0VOTTJqTE1VV3RZeU5yMVBIamd2VWxIUk1lcjlLU2JReVFwdzJHUHN5NE9SbjJlazY1X1dIV1ZWeUlIaFFPZlh0cVZfY0NKN3h6cC1WbDkzajd1OTY3U0RxaDh2TGJ4enM5UnRJRXF4alpPMEJfSm41ekxUUlNWb2ppbDZ0NFI5SHhaMElwU2hHQktF?oc=5",
      "source": "Reuters"
     },
     {
-     "title": "Persistent Systems Q2 Results: Profit rises 5% to \u20b9495 crore, excluding Nagarro deal costs - CNBC TV18",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaURHbGtqa3NWbTlwS21Hd0JOUG10ZWRXRk0yeVYxaC1wclJxT2RwcHhkcnZwSUhvdkgyZWJ5WHlSeDdWNWpHeXVkbFZRQW5UWFhlb19hREZUdzRLX09SWDUzM2hMTkJoOHpzeVlFc0tWbXF1Q21GSTFSdUVHZEFNdVFFRHZtaGMxZWg1QWlCZEFlSlZSOUQ0S01zbHp6V2RDQXREYVkwVy1mWmkwRGpqWVFxYlRjZ1BvdUVHS0JrUGJSdk9ndURtMGd4QnF1SGlDTFFWZllQZ2lyUdIB3wFBVV95cUxOTnNmWDBjZW5vRFh5a2JzYmVCQ0d3dEVqa19WLUE3M3hPZ29MNGk1LVYyOGtRZGFOczhDZENhdDNBZnpvZVZxT0lQM3dtdmQxRjMtMDdxN3F5aDFUMTItSWw0VUYwWkRZQzQ4dm5PZDRabUVPMHM5NVVrWWtTZmoxTWE0SjY1dDRNSXViX0lnSXcyNlpIRG9YU0JlMnBLSWx6d091MGtwRk1jRkxtVGlkTWJTeVlwV0Y0LWxfU2dKWDc4YnU1bnlzQnk2TGk2bHBDaWZPdURENU1QRjA0eU1v?oc=5",
+     "title": "ICICI Bank Q2 net rises 20% to \u20b914,843 crore as provisions fall - Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSGZSWjZ4MmxMcV9NSkJ2OFZzdGljblo1dno5eU55NmhCTWJLaDl5Tlk5clc1ai1aY3RaNGFTVE1JRktSbURKUDlQeExfSGM0bWwxSzJUS3l5eG1oVlQwcGZDZXdZVTk3T0RueVR5NnpTOU41eUtzNEsxOWR3RWNlSXN1QmlDZGJPMUNzRUFXYnBVTUxuYS15M1dCN1RtOVhPdVFYaTY0Zi1sOFcybmNubXFuc25hanlqNVR0Z044UHY3S2F0WTJzUm9wQUh1Ny1EZEdNcExyODVpQjdjaVHSAeMBQVVfeXFMTnAzNHB3aEs3NWdzSjV1cTVtVVczNGpKT1hwZjZldmhnN21pZU9VcF90Vk9uVWlmUmZBcjVKYlVRZ21CUW5XdmJsRlEwOUJidjR1UW9EZ2Zqa3JNcDdWVDN2dVlwMkRRUF9CeFNyUUJ1eTAtUTA1a3FjdUFCLWs4Z2xTbUtzNTVMTWJ4Nm1qai1ZY0lhb3B6bm56VGNaWl83S2wwVlhMSkNwUktzamxucy1URzZuN1FBM1B1bDNtN1dNY1VkNFpTYTFWMFZiRlhXcWJPdWRSUzhDbEJqSzNHc2xObEk?oc=5",
+     "source": "Business Standard"
+    },
+    {
+     "title": "ICICI Bank\u2019s Sandeep Batra says bank has strong internal succession bench, wishes Bagchi 'the very best'... - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOFZzajhHd2R1TS1xZC1hYXdiZHhwVVZvMU93aTVyTVpLMVZvTDdTU2FmYUFLbmxLUGNER2JhU0JhOXg1SFZzOUFvc1ZkRUFCdkV6YjEzY2R3OHp5cXhEN2dBN1BHNjdhcWRIT1FZWVhjS1dGeWRXT2hBZzA1SnZuMy12Uk05bENydzlmRzI2WjNDZ2o0eE1OamNUdjdXeTNJNy00cFBLdDZ1WFFMbTkyRkNXMGRCck83RWJGUnBtU3ZBUFVkeXJEcUZBbldGNXhoZnNRUUVXNW5FdS1TOFJxZk1wdDNVLTVhN3FzcWlyOEU4endMU3pNOWhPdElVWDdL0gGGAkFVX3lxTE9hYl9wNTNkZjZJS21GS2htYkZQVXZVcHgwUlktX29GNkZOMVp6RE9mLXRaQm1zWEt4c05TUTRTZTJuejRkRHNrcXV6eG5BWERmT2RHX0E4WVJJZjVkcDhVOWI3a3NCMHB1bDZmazZaaDdjejZUdTRyRXgtbzhDdWlaNV9tRkViZjhPSWJnM052SXNuN20wTUJBQmZwRk9HeG0xTU0yNGhDN1dIQnVPWVljbjBscmt3N3V2Q1h6T3hVM1ltOXltdGVDVV9HME9qVFVDTm9VdG5RTlVnanpKSnBnT2RYRXdXLUMyd3NnUU9ZbXBMbDdacWlZRkIxd3dMamk0bEd3Snc?oc=5",
+     "source": "Moneycontrol.com"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "TECHM",
+   "close": 1834.7,
+   "stop": 1720.5,
+   "target": 2006.0,
+   "score": 64,
+   "parts": [
+    100,
+    43,
+    25,
+    90
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 77, volume 1.4x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Tech Mahindra Hits Base Target; Pick of the Week Delivers 8% - HDFC Sky",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VZnBWcFZVYWs1akVlNm9WZEdfLXJkbk1sOXgtMzlRYTRESDQzSnRuVm5yZXFOZ2dnenBSZXhvTXNtbG9kMnBYTGI5NHByM0ZZV3dYSXkxbnNyRW1HS19obXFObVNFUThnRTdRd0VieV9aUQ?oc=5",
+     "source": "HDFC Sky"
+    },
+    {
+     "title": "Tech Mahindra Q2 Results: Margin moves closer to 15% target; Board approves bonus, dividend - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXlWbkpnU1kxQ0FSSW12NG9pd1NQWFNobmtmR2lPSGY4WUxrV2VwYUZETzNkUWdlRGcxWjJNUE40SnBPMnAwYTZoMUdlY3hwQlRZSExRbUk4MlpQaG9WRlVIUVhmTGI2Rml4OE1nNXFMQ3JBVUpxOGxsTG5odzgxdl9QOUp3RDdFQ21fSTVia3FIZHphdzVTUUpjNWVZWEhmRTZsWnJEWG9oS3pzMTdhSzRTcnFBZkxD0gG-AUFVX3lxTE5KVC1PenpuNnc1UTBsZWlicjRGUXdqRU9wVGt5RXVfdEhydmtmVUlEaG5KY3g1Y2N4dHN6ZXd2RFlqMTB4RWtPLUVFSzctNDV3VkNTNVI5NHNMWS1veXNwbjF0WnRfVW44QWVMUzVoMlpBU0Z0NGlzaFo3TGI0UGRqZTA0bkJ3SFRDOEQtcVJHdjZxcDhoYW5lNzZ1UDhpdjFqVWxvWkd5TXhJam9QVFUtSkpKb3JSWjRxSlRCSXc?oc=5",
      "source": "CNBC TV18"
     },
     {
-     "title": "Persistent Systems Q2: Net Profit Falls 27% Even As Revenue Sees A Rise - NDTV Profit",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnBZT3RNUm92Z0VjWDFUTFczT1dLa2dZd09mSUtvQnl1Y19vc0Vla3AxVmtMUlRBUjVrdHFnWDhIc18xQWpOeUQ0b3lOY3VxbHRMbmtNYVNJRVh0eWppZTFrNjVtNWhRUUU4V1hmR29RSjE5Q1IzdHBnekxVY0F0M3VDMENodlpoUVY1S21ReDVOeUl6RFd0N1ZYSFlweFYzdXZrY1pqLTcxSHZnVjJsV2dLa9IBuwFBVV95cUxOUC1URDhJSDh5NnVlcjhFMG85S3d3aDFYVVNqdEh2UGxnVGttZjIxZnJjUkowN1AtZk1QMVZRSUtwUUlscjhLdUxsVDhnaTYxT2JtODhOWlR2VWN1ZEtILTNwb3VkUlRZZlpRVjJ2NmxUaUplXzZfQ3JDQm52UEdnNi03N2dyOHB1VEZYZEZBOFFmN0NkOWFqQklpUWhqdDhBcHJOalprY0NvSDYtSzVaNFJaSDBRbXJ2NF9R?oc=5",
-     "source": "NDTV Profit"
+     "title": "Tech Mahindra Q2 profit jumps 33% - The Hindu",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDVWTVlRc2VmX2QtSlZBbkJVWnMtZ1Z5MjNEc2JmakhyaHM4UmN1dU1lZzRpZ0V2b3FhMHYtcUlKU0l3anlwUTNuR1hGU3UwSS1jR0lPdUhFQkV0VC1tUDVjS1FYdHdaT3llb0dORGFfbGJUaFJhT1NYQWtIU0xJV2tEd2c3S3c2X0Vmb3hKdm9KbGVDVjFwUDFCSdIBogFBVV95cUxPbE16amVVa1RJVGF3Z3Z1cUdtNlRLS0dkc3pjbm9lc2xMMGFnTDE4QkRTLVJYN1J4dXIwVVBRelg4MVV5NGk4XzZZaUgtZjBBMlZwckhPQUs4RzVCekF1cWZxdE92cmduVE5mWGtqREk4UjE2NEstemFvekVBakdsMGRfTk5uZGZoeGJlSkgwaXZOa1Nld2hFYU5oakoyaEFYZHc?oc=5",
+     "source": "The Hindu"
     }
    ],
    "flags": []
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 348.85,
-   "stop": 328.28,
-   "target": 379.71,
-   "score": 70,
+   "close": 344.0,
+   "stop": 322.91,
+   "target": 375.63,
+   "score": 61,
    "parts": [
     100,
-    94,
+    44,
     25,
-    62
+    74
    ],
-   "pattern": "Breakout with volume",
+   "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 64, volume 3.5x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 59, volume 0.7x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -64,184 +129,114 @@
      "source": "The Hindu"
     },
     {
-     "title": "Federal Bank appoints Cognizant\u2019s Rajesh Varrier as independent director - The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdjNnVzZMXzNvR2U5Ny03aUo4Qmt3OF8xdWxjdm9NdzFXS2kyVHJNWlBOZWN1emhhQ1N4STg4WHJUMVJmNHl4TFROc1VRSC0xM1M0M3NGNEJWOXl1aTZucGtaRTEwZnlKOVN3QVdaYklKd21sRjBnQ0JmbVVmZUdURHAyaFp6ODVjWnQyS1I5QjI5anpGaGZ3Y0NyQTFXRHFVbWVDQjFVNWlFOUZTTXIxUTJBTmNramFLOXVhcURiM040TG9hMjRzOTdMbkczZ25DYXppd05sWWtSRnBPQkVZbkllT1NTOVVTMUJmZHRWc9IB9AFBVV95cUxQbEJTZ0I1MC01N2x3dHQ3bHdEeFBSVksyRzduMW9DSmR2cnM2WF9CMm8wa2RoSFdyZnE0NHpCdDhGUkpTUjVUcy1QY2kxM1ZNQ3FmbVJLYkhjVVZiSXE1bnM2S2NXOGY0THQ0TmtOU2ZRaW5YQzlHdDBVVjNnZnh4VldkM0hKdm9ua2o1enlXZ2ZfdEMzNXNnbE4xN1pPcGxBRHpxaXRMcVl3SGFCelJLeDdsSGZvYmx6cUN6Qi1JM2l3SGx3UW1mZldsMXdHZlZFVVJMLXdCdXppN2dWNVVxaHVRblNtd3hWTVJrYm1GSzZJalBl?oc=5",
-     "source": "The Economic Times"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "ICICIBANK",
-   "close": 1381.0,
-   "stop": 1327.9,
-   "target": 1462.3,
-   "score": 64,
-   "parts": [
-    60,
-    84,
-    27,
-    86
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 55, volume 2.3x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "India's ICICI Bank Q2 profit rises 20.1%, beats estimates - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZhRWR2N2tXZjhxd25pa0VOTTJqTE1VV3RZeU5yMVBIamd2VWxIUk1lcjlLU2JReVFwdzJHUHN5NE9SbjJlazY1X1dIV1ZWeUlIaFFPZlh0cVZfY0NKN3h6cC1WbDkzajd1OTY3U0RxaDh2TGJ4enM5UnRJRXF4alpPMEJfSm41ekxUUlNWb2ppbDZ0NFI5SHhaMElwU2hHQktF?oc=5",
-     "source": "Reuters"
-    },
-    {
-     "title": "ICICI Bank\u2019s Sandeep Batra says bank has strong internal succession bench, wishes Bagchi 'the very best'... - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOFZzajhHd2R1TS1xZC1hYXdiZHhwVVZvMU93aTVyTVpLMVZvTDdTU2FmYUFLbmxLUGNER2JhU0JhOXg1SFZzOUFvc1ZkRUFCdkV6YjEzY2R3OHp5cXhEN2dBN1BHNjdhcWRIT1FZWVhjS1dGeWRXT2hBZzA1SnZuMy12Uk05bENydzlmRzI2WjNDZ2o0eE1OamNUdjdXeTNJNy00cFBLdDZ1WFFMbTkyRkNXMGRCck83RWJGUnBtU3ZBUFVkeXJEcUZBbldGNXhoZnNRUUVXNW5FdS1TOFJxZk1wdDNVLTVhN3FzcWlyOEU4endMU3pNOWhPdElVWDdL0gGGAkFVX3lxTE9hYl9wNTNkZjZJS21GS2htYkZQVXZVcHgwUlktX29GNkZOMVp6RE9mLXRaQm1zWEt4c05TUTRTZTJuejRkRHNrcXV6eG5BWERmT2RHX0E4WVJJZjVkcDhVOWI3a3NCMHB1bDZmazZaaDdjejZUdTRyRXgtbzhDdWlaNV9tRkViZjhPSWJnM052SXNuN20wTUJBQmZwRk9HeG0xTU0yNGhDN1dIQnVPWVljbjBscmt3N3V2Q1h6T3hVM1ltOXltdGVDVV9HME9qVFVDTm9VdG5RTlVnanpKSnBnT2RYRXdXLUMyd3NnUU9ZbXBMbDdacWlZRkIxd3dMamk0bEd3Snc?oc=5",
+     "title": "Jana SFB shares fall 13% to hit 6-month low as Federal Bank says no plan to buy stake - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdkRZdG15QllmVWNPTHhLWjdJUDV4XzB3SV9FdXAzYWlXN3ZOQ0t2SUhLQi1HN0FlWXdjeWh0d1ZxRWx2elBXb2JvYnpwcGUtb0tzbmVYQnpWQzJyNWpTbV9xWlllVE91bW1nS3dSYW1IZ0RDdGd3WGNxei1jOHc3bU50SnBBTDhXTy1IX3NPbE5YcnVfN1JkOFhqekxkRkEydlRlV29nSnFjc2Q5RTNOdXFucmZHc1l5SmZCMDN2enktUUd6bTdpSkVqc1ZKbVMzR19SMjNzek9JRFBOYloyWmxoMNIB6AFBVV95cUxPQThrVjJsSHR1d18tNGc5SzE5MEx1REhVWmo0cGxPb19jTnFFUXo0TlpiSkFQdlF2c2RKY19STXU0VHdmN0lGYUt6TkdkeHo2NjdSejMwQy1UOXFEbnhUMUdrYmRDNGxBeWRkTHR0U1hCVTdpeXpCUXlncElRNXd4Q1ZOa2hDWGRkYm1TRGxnWlZ3cU9uYWE5ZERHSnZ0M2NoWWRoZDZGMzdxVWNwVGdfS1BzVlh3Vm1IMEN1cE1fZkJxekNLS1ZYOVFIZXBhVklzXzNEZkx1bjV4LWxlOTRZVXcwZGFRcFJ5?oc=5",
      "source": "Moneycontrol.com"
-    },
-    {
-     "title": "ICICI Bank Q2 Results: Net Profit Rises 20% To Rs 14,843 Crore; NIM Dips To 4.18% - NDTV Profit",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWc3OUtOVUU2Vy1pUGUwb0JpQzRGS1JJTDc5MzZKRFJYalNNdnJNQWx4UlZHZ0dSNW5nZ3BFY181SEk4X2NuSnN5YXdhZnVjMGJrRmhpU1VCQVoyYkJsTzBtY3RxSzlTczRnV0kzVU5mTGk5N0lINFM3Y2FoaV9jQ2o4bDZiRWtYUkJleWRRckJFeTYyNkRzbTItcFJXMF9wYUlRMWs1eGwxeFdzS2lZTkE4Smw2ZXpEdEZtUVl30gHGAUFVX3lxTE1hNDlCRHo1ZzlWczBZRGhXM0tvSTVyVERBMTg5SmhUSWVid0xCYUxjUXhfSzk0c0FuVU4yMkxVSFFQX3ROWmcxQlRtWnQxb2VyOXBpQ1JNVWpYUk1mQnRYc01ka0ZrRFlrU2Vhd011QUFaWk5BTWg1UDIxbUs3TUZyWkRubEJIMHV3cWFsdFBXc19HQWRMcHMyQXI1ejlLYS1FZWZmQzhITGgySWk5cDU2THJqUFRLak9CeG5pZ1J2VHQ5QkUzQQ?oc=5",
-     "source": "NDTV Profit"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "TECHM",
-   "close": 1779.1,
-   "stop": 1666.13,
-   "target": 1948.56,
-   "score": 63,
+   "symbol": "COFORGE",
+   "close": 1951.0,
+   "stop": 1824.97,
+   "target": 2140.04,
+   "score": 58,
    "parts": [
     100,
-    37,
+    57,
     25,
-    90
+    50
    ],
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 74, volume 1.1x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 63, volume 1.0x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "India's Tech Mahindra maintains fiscal 2027 margin target after large deals drive revenue beat - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcENEQnNWQk9pZFFBQU5LTXMwRF9GeGhRWHJuWU1sS3BDcllMLUU3anpvSXJKaEplbzBCZlZxNFpSbDI1TnpoYVEwTVdURU1taGtGMnoxMmxWeWFRNDNsOGt4SHZPTi1uNlA0UHZUbFM0Q3dodEZGUkJFd05Da3lhY1FqZVZmR24wclBzVjRiNEt3WGNUNExpNDB1TnlTVUhsTGoydDJVcXhSUQ?oc=5",
-     "source": "Reuters"
+     "title": "Coforge (NSEI:COFORGE) Stock Price - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UUExSU1VIMmlVc3ZIakFqMXVlQ0NwYzF0Q3o3aXpfY2JJM2hSVTJqeV9vdjBHbi1pVmMxTGFLOWRBX01vblFac2JVR1dwSkRPUWc?oc=5",
+     "source": "Simply Wall Street"
     },
     {
-     "title": "Tech Mahindra Q2 results: Net profit rises 32% YoY to Rs 1,586 cr, IT firm declares Rs 15 dividend - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQmh6N25DUnExV0hLYjk0UTRaSWJEdjBxdmpxYXdja1NvRHkwWHlZSlVRaVpEUElzU1FaOFRGTXlzNnNuazVaZGNmbWU2clQ2WDQtRXRoQmNVZFVIM2lXSlE3SFVVdFN3RjRCXzlDRlppUVMzdzhzMWUta0JrZ0hzVUtiS2RDRWdnLW15SDR2WHpzMkRuOVJhbXBOMGdPWmROdnBkTGdLbXl0TG13Umh6ZHp2S0pyTWYybnFzdmJHNGljN09iamhYdlpDc0JmWG5qUXFlVlQwNDNLbkNCZHpCRXQzVzYtREVJVHZ4eVdua1Nrdlg1bDh3bVV30gH_AUFVX3lxTE9zZVFFSjRlYnFtRGRra2JCYWhqUTFtRldOeU1ic3haOUJNWXBtU3ZMRHBUUnQzZEZBTTFqNEpESDF1VHQzOHd0VHA1LU9xQWNjeHJpV0F5b3p0eVpSVGtQTkpKZlpTT2hfV040MXhYeWloei1qWTlETkJwZWNaNVFoM1JrU21xMkVLbm12OWEza21lU2I5a0k5LWJlbVQ3clRXLW5sRmpaRGlHVWxlanFKVnpxaTFqZ2lxOGloT2d6dUlETHdKdngwM214amllNVY3V1d3cEt4OXREWjNvSmZjWG9pWWJFbl9KN1JHeFNxNlQ2ZEVHaVk2OV9vWTMyVQ?oc=5",
-     "source": "Moneycontrol.com"
+     "title": "Buy, Sell Or Hold: TCS Asian Paints, Tata Motors PV, Coforge, Welspun Corp | Ask Profit - NDTV Profit",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnV4WWJGc0Vlak95YWVrdGRzYnVXelJ3NlNVQ2lVVVNOOHBLY0h2RmtzaWw3a0lFdC1wc29pUjBmcXItMnJyb2JsSWQyQzJ5NC1RNVkzd3lvbGRHRzdlVS1xSDY5VUZWNm9COTdIYTJQaHdxUGVsWE9TU0YyUjUyRXdCUUdvRXdES0lXMlF6V2lQVWdrZnNjOW0zZkw4ZGVVM3NYTEVpNDFQcEhtYTRoQVBadTZtSE5fRklKMjVLZkUyQdIBygFBVV95cUxNQUpQalJ6SDVlWTJ0NDc2dXY1ZF9WM0Uta0Y1dEpQZzV0UXNwRWk4TE5IdkVscExtRFhxUjdpNWxCVFpKQ1Vtd09hVUs2RnI4MFFyTkdheEVqUGJJOV9YUWZzdWVpZU90UGpsbVhVRXJ1QktNd0MxRlFMQUNrb2ZlOC1HY1hrRTUydnJNX2JmY1FwT25qYmJwWXF0UkY0SEJEa093dVVUVXlEV2puaFhkYlBkNnBVZk4wQ2lqalcxbEdlVDd6bUVuRF9n?oc=5",
+     "source": "NDTV Profit"
     },
     {
-     "title": "Tech Mahindra Q2 results: Net profit likely to see double-digit growth; Key focus on bonus shares, guidance and dividend - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMkVBNTlRankyRWJ3OGJIWjREZ1AyQ3VwaEVTdmJSX0t2M3hxQU0wYzlES0dnV2pjZ0UydlJJUTVxS2V1ckplbGV4VGF6Vl9KNkFYc2NGRXBod1o5V3d4QVJIQWc5RXBNVmdwMDNwLWR1T2gybjZ2cTRZZlotWlJsQ2d3d1JuZFJqTHJSZ0xPWTZtbGh2WTg2M25TRGdxZlc1VkxzaU5SRkl1dy1HS1VqNmlrREU0cDdwV0lYTFB6azZrYVY4RUNEOUl6Zktta2dNU1RXSjNlZmJOUlhXMDdWMWVaMklQQi1LS29uVFplaHZlVGhKVmdrZ2lUMUVyUkVDTTJ5dU4ybWo?oc=5",
-     "source": "Upstox"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "DIVISLAB",
-   "close": 9087.0,
-   "stop": 8937.5,
-   "target": 9806.89,
-   "score": 59,
-   "parts": [
-    60,
-    15,
-    100,
-    62
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 45, volume 0.9x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "DIVISLAB Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZmszR2lvV2t2S2dES3Z6Uy1PenR6SkRHUmp2QmRiS0U2ZHJWWERCQ0hKRTNKV2hiMUhGQzAwTFp6dVZXbE5JT0UzSy1BdEhwanpYd0FEd3ZTRy1vZi1va1ZOUkU1UnI5YU04?oc=5",
-     "source": "Equitypandit"
-    },
-    {
-     "title": "Is Divi's Laboratories the Best Stock in Its Sector? A Look at the Numbers - Univest",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oYkgxc2VPZEZpb2Vqdzg5Y0tyR2VLY0l1ZWVqQmpZVnVPaWZPaEswcVJkQTYycFFSd0dyMDRsalZWdXVacTUtQm9HQ2pRQy00R2NxRnZNUTA1cE92bFVpSFhOR1hyeFJXM2c?oc=5",
-     "source": "Univest"
-    },
-    {
-     "title": "1500% Dividend Bonanza! Pharma Stock In Spotlight After Mega Payout; Record Date Announced - Goodreturns",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDV4YlY0czJkejE4Y2VsSm1vRm50b2RQV0FuYXNJVHAwZW9rWTVGT2hXQ1BEN3hCZVRWaDRqUkVNX3JGX2FKaUk1TE8wU3lMMUF6X2R6NXJueFZ4SWJrczR2YjJzSHpic1RFVTNNY0Q1WUFlYUVTcXkxUE55OC0tWlExUERGa1JmQkFqU3lGTVpkZENEdjVRNG9fTnRFSjhHNWpiVHJvQ0ZuTkUxRVEzSWJCM0xYa0NZZmphZDFZSm45TzlHTGRua2VlMTU?oc=5",
-     "source": "Goodreturns"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "PAYTM",
-   "close": 1685.8,
-   "stop": 1558.8,
-   "target": 1878.83,
-   "score": 50,
-   "parts": [
-    100,
-    22,
-    26,
-    50
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 50, volume 0.3x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "One 97 Communications First Games GST Demand Reduced From \u20b95,712 Cr To \u20b9703.66 Cr - Sahi",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZDRyUnk1aVk1Z1djNnFQSzJZREdKN08tSlREY3E2RkNQRk15SXp0cWhyai1vSWU1QmUwaXZraWpNUGlzR3AwSE10SG94eWhxRzVXdDRCdjNPQ1djVTZaYUlSbHRBOGVDdEVzRjNpNkYxMkNPdDZpdDJKQ212dE0zUzg0dkxBbVVaeGtLT1d4clM2ckVVS214WUZlRlJhZkYwV2M2VGRjQnU?oc=5",
-     "source": "Sahi"
-    },
-    {
-     "title": "One 97 Communications Ltd. Key Financial Ratios \u2013 Valuation, Profitability & More - Value Research",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXBvMzhZMEJncm5BdGxPTnBCb19pTTlMZ285dHptSXRrczRKTml1NUNyeWdmUXdQSnlvYWp5SDg3cHUwVURfWDVaVjE3SGdKMzNlcmNLdnd0RV8wMlBDTHdCOWJHdHIwMk9Dc3RtX0kyOUNnQmhZTzRfc21DN2oyYy1KQjdDSWpoR3ZmV0drdlM?oc=5",
-     "source": "Value Research"
-    },
-    {
-     "title": "One 97 Communications sees GST demand on subsidiary cut to \u20b9703.66 crore - scanx.trade",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGdvRXdfR21TTnVBbmR5STdMY0x6SFJXZDJXOWU3Qmh0LTEtUmdjU2pSV01vS0FHdlY4ZjhVUkt0LXFQMHh6WVlrNTM3VGk0Q0FmWlNmYXN0MGFjS0FOa0E5aV9teEdiRFZSQzJHaHdpTDNkMWFaNllPSnZLcGpUVXctTk1sR2VxenJCTVFTeHBjVzhZNmxmUXNheFNDS1VEVVlwYzc5NmE3LWIweWhCbmhpdGVyalpMbEZHOExvUQ?oc=5",
-     "source": "scanx.trade"
+     "title": "Stock to buy today: Coforge (\u20b91,932.70) - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYi1xbW9RV3JidXlJdWktZlpkemk4X2hHQjBnVUp1Vlp0V19Bd25uUHM5aVdJXzYxX0tyNW5rYm5SbVZCcUEwb0VSSEhBdHZxeUdkb3FpcG1tTE5hNzRGTnJrcUJyV1RLeDZvVkVSY1JpajZaOE1yMmEtbE5QVW5zb0hpR3pNWndheXdHU2N3Z3hiRnl2TzEzQ0lWdU14QmtCM3ZqU2xxbWxCNW1fU1ROSFZvNDVkTjJDN1HSAcABQVVfeXFMUEpyLVJLZVh3a2R4ZFNYd3MwY2c4YkJjczJsVV9jOS1SOUgyVGhWVkNRQV92Tk9rUkYweXNVLTI1YmVQT29UWjJzLXhqZTRmS2w1QWpHNjhXaVZvNFRkbVFnYTQ1N1BfcEk2TVU4b3ZJa19nYWZ0T1R4RVVsMnpQSkRlTkpneHFySU5ZalRZeFpMNy1QZGQ0dkY3N2VsclNkNk90UGN0dlZaam9USzdtTjZFaWZFV2k0czc5M3FqTU1w?oc=5",
+     "source": "BusinessLine"
     }
    ],
    "flags": []
   },
   {
    "symbol": "HCLTECH",
-   "close": 1379.9,
-   "stop": 1297.26,
-   "target": 1503.86,
-   "score": 46,
+   "close": 1424.2,
+   "stop": 1340.8,
+   "target": 1549.3,
+   "score": 44,
    "parts": [
     70,
-    37,
+    29,
     25,
     50
    ],
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 69, volume 0.9x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 73, volume 0.9x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "HCL Technologies (NSEI:HCLTECH) Stock Forecast & Analyst Predictions - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekdPSTB0eFN1NTNjTGRFYjJIbGZrbHhIUE9QV0cyWHFzbkNCU2RsNW53WExtVXoxSTZkaVVGRlp3WXhnQzNLUXFqM2FSNUE2M3ZtbWRXcU1FQUt6Ti1fR1BnUi1EMC1qRFJtOUtSMEY2M1hSQVBBZFh2czVxSXF0VjAxbGlVYnN0Ql9V?oc=5",
-     "source": "Simply Wall Street"
+     "title": "HCL Technologies Limited (HCLTECH.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QWjRfLUdLWXhxdkc4VXR0YkpCRlJ1SGFMVFg1SGNTMEZQTHYzeTVyV3NMcWEwZWtDVnp1WGE1YUswM3lvMk1qRVhvaml1UGptcWZnSTVWY2FKUQ?oc=5",
+     "source": "Yahoo Finance Singapore"
     },
     {
-     "title": "HCL Technologies Ltd. Share Price Today - HCL Technologies Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcHJweTZ1V3ozZy11X1FBX0xRVGNMSng4R3BNRVI3WXR1UFY5Z3lTTjZSRWg3eFpRYnNjNE5OZTNBREIwQU1XbktKYmRjY0MtMVRqeFhacXhOemtBU2RTUHVncGN3RTVGYmcwQnFQbFdSSV9WdTJZa3Atc3dEenpPa09xMHk?oc=5",
-     "source": "CNBC TV18"
+     "title": "HCL Technologies Share Price Today: Intraday Price Rise - Univest",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2RLbzFabE5ScXBqWnBiUFZjR0tQa1VtSmFFR0ZJVWI1YW8zSHVsTUs2SmFlSC11RklkeHhjMDRfRVZUNzlXRkN2RjRNNjcxaWZiZkJOYXFNYUJhUDljRDBuSGRCZnVhMmJDNGZyUmd4ZFRnaDZ3WUZDeFhWUDJycjlabw?oc=5",
+     "source": "Univest"
     },
     {
-     "title": "HCL Technologies, Tech Mahindra overtake TCS in net hiring adds - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2lBMW9sWEdvMm5SaXlHNnN3blkxckF5Y191eVJtQk1WMG5aVEFCNDFTOHpVNVBFQ1hPTFlFbVVGLXZMRDJTSEphVXd1eE9lNUlUVk1rR19zbFMtb2RpbWFZdGVvN1VZRGhObkFlOVZVemVKaGhfVWhEamVmYThWeUp0YzFSeXZHeFN3UTVjckFQazJjTzNGUThjNU1RSnVZeEg4RmFUT0NqeVNjbnE3Unl4eWhReksta0h5cE51UHZ2a20yT1ZOWNIBzwFBVV95cUxORkNpbk42Tml1NDhfM2Z0Wk9nRTJDNTlocjAxWlJMbmpRQk1fVGVuWXZPNUJmemhteEpjZ1BKc3RlX3NqMGc3RlhEWkNfVDFCcGVHdHJXYkd2T1BFR29XcTd5cU1HU2lzY2NNWUF1Q24wajZGSjdfSGozVmwzZU1LU3FaUUhrX3NtXzRQWnBQTXpvSENfWkZ0RjNsSU1kUUtSd0h5ZEk5d3JIN20xU1pWR2JVTmxjbWFfbjJMWldvZGxHajVxSFZiREFUcUpRbE0?oc=5",
-     "source": "BusinessLine"
+     "title": "HCLTECH Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1NkNDR1BNZnVSWHRjdnVUMTl2R1pwRHVKeVZuYTluZmh5WjJiYWZuamdCNVVuVkZLNEx3MWZ1OGV4aERDU0dsOWFESFg2QmlEZkFvWWVoX1ZkZnpUYkRSNW0yampBWlFoV1E?oc=5",
+     "source": "Equitypandit"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "PAYTM",
+   "close": 1670.0,
+   "stop": 1558.8,
+   "target": 1859.92,
+   "score": 40,
+   "parts": [
+    60,
+    17,
+    35,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 48, volume 0.4x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Paytm Shares Crash Over 7% as RBI Cancels Paytm Payments Bank Licence; One 97 Comm Issues Clarification - Goodreturns",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbkdYMmFienBqWXpDNG9taDVVSkQ2T211dldEOXgtYjlBWWVHMHpJc3NzZHM1NmhJQXdZTWxSVVVWX2RBeVRYZGVMaHo5MzNDX09GdE9HTHFoM0NuZ3JjVU9XeGNTUGtvSThXeTh6ZzNJcGc0dHBaM0VCOVVpVVBNZGM2SmV1bmZ3SHh3Sm8xSXN0UnVicURLTURkSDlpWUhvSXhIbmR2blRpUGlFcFQ4OXlNNzE5YVd0d3dhT1ozYm81VkxYbGd0Q3lUYk02bzRqUFR2Z3g3a1p0eVRG?oc=5",
+     "source": "Goodreturns"
+    },
+    {
+     "title": "Paytm stock has surged 32% this year, but Nomura sees another 31% upside. Here's why - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNWppdzFuVHQyLTRDNlZmcmNmZGFUWkx2N2Vpb3c3d1duaEVaTFlTdGlRQkc3ZWhENzNWYjltSVlFZzZGbjRyT2hNRWtyZ2RRazR3S0llZ0ZTRVdXaXczWXZmd0JlTmwzWWlSNmg0SktSU2JEZzdZMEthUGdyMnhURkJscWtWXzhFRGMxMWdnOXlFazVXaFBIYnM5YW5saUFfTTFfcmZSbjFYejZJaDFVQlVvdi0xOWMzV25KOFNIdnpRNU1NR290cjl3Z0pTbDFBeG8weXB5ZGpJRXJ0aVHSAeMBQVVfeXFMTkd2bURmWXJQWGkwSDczdnh4VjVQR3JQUHV2eDRiV2NrcndfQzY3aUFrZmRQQVJXMDFrekNUWU5UQlZKV2NHYWpPekdFcVQ3MjdMSkdmOXktZlIzV3dteWJsVExnYUhjbmhsT2lyOGhtcmh0ZEdCMWJGcEtnQ0pOTVhrQTJmODBSaTBZZ1h5MEJ3dkxPNng3dmpDNnBhNDRabTNwdTQxTHdYV2dwSVBBUW9BbktTb2VzY2JMd0UzZWhWYUd4MWRwcmREVUE2c0prRU45UzBzSHo1QU1sQTRaakxYU0U?oc=5",
+     "source": "Moneycontrol.com"
+    },
+    {
+     "title": "Paytm shares get new Buy rating after Nomura initiates coverage. 3 reasons behind bullish call - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcENMMXZYbjZEbWlPa2tTZTdvMGFBN3ltSTJXaTdTMW1TUzV2UGkyT2RHQjVZT3JHVEJ2RTFTWXNXM2VpYnIwaWZleGlWTmtEclFMQUJZeUdKa21McWVzRzBUbTY0aGJDN2UtLUh1amNnTGFoOENjQ0FIYWtMejJPdVRRZ1VKU1NtM2taTkllSHhtRmxYN0NZeW9QUE5Dc2JBcVhheXVzaWpMc1RUdzFMVzltZmp1dk1SMm84bWxfSEo0dklMck52QVJhWmhaSjh6d1FiWUo3MVpNem9vVFI0cE1tNzhkTWNOMWItamlyNEsxenRFNFNZWHhKRdIBgAJBVV95cUxOR3FmdzVHb29FWmpvZGRYcFN5TXNmUy1hc29Sbkx6VnRZWEVYMlIzXzNUWVJERUt3Q2RqMXJTSDJGQUZhSXBScmxPbWE3NG9Hd1VzSUNUT1hUMW9UbXlnUml1bzMtM3ZkWC1kM0ktZS0wdkxlRDd2RmVPdERnOTlyWTN6QWRDdm44V09XbG5LRnhnUEtxSWlLeDBOOW80dkNBVFFwbTJtRWttLVF1SGNGdFlqcl9WOENNNVg4YjZzeHI3NDhreWNpUWlOQ0puSTJ4YXBBOXF2Q2hxdkxuRE1tUkVPdkRIRnVUcFZrTlJEbjRaU1ctWnZWU0k2MFRrVzgw?oc=5",
+     "source": "The Economic Times"
     }
    ],
    "flags": []
@@ -250,140 +245,140 @@
  "etf": [
   {
    "symbol": "ITBEES",
-   "close": 34.93,
-   "stop": 32.95,
-   "target": 37.9,
-   "score": 51,
+   "close": 35.95,
+   "stop": 33.96,
+   "target": 38.93,
+   "score": 56,
    "parts": [
     70,
-    58,
+    78,
     25,
     50
    ],
    "pattern": "Pullback inside a long-term uptrend",
    "timeframe": "1-3 months",
-   "why": "Pullback inside a long-term uptrend, RSI 67.",
+   "why": "Pullback inside a long-term uptrend, RSI 72.",
    "verified": true
   },
   {
    "symbol": "JUNIORBEES",
-   "close": 744.73,
-   "stop": 726.41,
-   "target": 796.63,
-   "score": 43,
+   "close": 730.68,
+   "stop": 721.29,
+   "target": 787.03,
+   "score": 50,
    "parts": [
     30,
-    0,
-    92,
+    19,
+    100,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 39.",
+   "why": "Weak trend, below 200-day average, RSI 32.",
    "verified": true
   },
   {
    "symbol": "NIFTYBEES",
-   "close": 261.2,
-   "stop": 253.73,
-   "target": 272.41,
-   "score": 23,
+   "close": 259.57,
+   "stop": 253.37,
+   "target": 271.85,
+   "score": 31,
    "parts": [
     0,
-    18,
-    25,
+    24,
+    49,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 48.",
+   "why": "Weak trend, below 200-day average, RSI 45.",
    "verified": true
   }
  ],
  "long": [
   {
    "symbol": "DIVISLAB",
-   "close": 9087.0,
-   "stop": 7451.34,
-   "target": 11813.1,
-   "score": 73,
+   "close": 9190.0,
+   "stop": 7535.8,
+   "target": 11947.0,
+   "score": 72,
    "parts": [
     100,
-    86,
+    82,
     57,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 44% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
+   "why": "Up 48% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 348.85,
-   "stop": 297.89,
-   "target": 453.51,
-   "score": 66,
+   "close": 344.0,
+   "stop": 298.29,
+   "target": 447.2,
+   "score": 64,
    "parts": [
     100,
-    57,
+    50,
     55,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 23% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
+   "why": "Up 17% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "MOTHERSON",
-   "close": 158.15,
-   "stop": 133.96,
-   "target": 205.6,
-   "score": 62,
+   "close": 157.27,
+   "stop": 134.14,
+   "target": 204.45,
+   "score": 63,
    "parts": [
     100,
-    61,
+    65,
     36,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 26% in 6 months, above its 200-day average, worst fall 22%, volatility 33%. Fundamentals not checked.",
+   "why": "Up 28% in 6 months, above its 200-day average, worst fall 22%, volatility 33%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "PAYTM",
-   "close": 1685.8,
-   "stop": 1382.36,
-   "target": 2154.93,
+   "close": 1670.0,
+   "stop": 1369.4,
+   "target": 2142.34,
    "score": 60,
    "parts": [
     100,
-    73,
+    74,
     18,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 47% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
+   "why": "Up 44% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
    "verified": true
   },
   {
-   "symbol": "ETERNAL",
-   "close": 320.2,
-   "stop": 270.32,
-   "target": 361.59,
+   "symbol": "TECHM",
+   "close": 1834.7,
+   "stop": 1504.45,
+   "target": 2127.5,
    "score": 56,
    "parts": [
     100,
-    44,
-    30,
+    41,
+    32,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 27% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
+   "why": "Up 22% in 6 months, above its 200-day average, worst fall 25%, volatility 33%. Fundamentals not checked.",
    "verified": true
   }
  ],
