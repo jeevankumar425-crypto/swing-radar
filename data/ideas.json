@@ -1,27 +1,32 @@
 {
- "asof": "2026-10-21",
+ "asof": "2026-10-22",
  "swing": [
   {
    "symbol": "DIVISLAB",
-   "close": 9190.0,
+   "close": 9162.0,
    "stop": 8937.5,
-   "target": 9914.71,
-   "score": 74,
+   "target": 9876.75,
+   "score": 81,
    "parts": [
     100,
-    41,
-    94,
+    62,
+    100,
     62
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 49, volume 1.3x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 48, volume 1.9x its 20-day average.",
    "verified": true,
    "headlines": [
     {
      "title": "DIVISLAB Outlook for the Week - Equitypandit",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZmszR2lvV2t2S2dES3Z6Uy1PenR6SkRHUmp2QmRiS0U2ZHJWWERCQ0hKRTNKV2hiMUhGQzAwTFp6dVZXbE5JT0UzSy1BdEhwanpYd0FEd3ZTRy1vZi1va1ZOUkU1UnI5YU04?oc=5",
      "source": "Equitypandit"
+    },
+    {
+     "title": "Divi's Laboratories (DIVISLAB) Share Price Today & Chart - TechGraph",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11ZXMtVG5fcjRValBSLW1CTU1ySFVwNjM5d21vWHVUdlNlaklyT3g0dFoxVmIybDZGTjRwZ09Sc3lZaHktYlkwcjA5U2ZNRHFmenZLcTVPLTdoYV85TkdKOUh3?oc=5",
+     "source": "TechGraph"
     },
     {
      "title": "1500% Dividend Bonanza! Pharma Stock In Spotlight After Mega Payout; Record Date Announced - Goodreturns",
@@ -33,19 +38,19 @@
   },
   {
    "symbol": "ICICIBANK",
-   "close": 1385.0,
-   "stop": 1329.4,
-   "target": 1469.49,
-   "score": 70,
+   "close": 1398.5,
+   "stop": 1345.01,
+   "target": 1478.73,
+   "score": 69,
    "parts": [
     100,
-    65,
-    26,
-    90
+    64,
+    25,
+    86
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 56, volume 1.5x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 59, volume 1.3x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -67,55 +72,55 @@
    "flags": []
   },
   {
-   "symbol": "TECHM",
-   "close": 1834.7,
-   "stop": 1720.5,
-   "target": 2006.0,
-   "score": 64,
+   "symbol": "COFORGE",
+   "close": 1908.8,
+   "stop": 1804.5,
+   "target": 2094.39,
+   "score": 65,
    "parts": [
     100,
-    43,
-    25,
-    90
+    70,
+    39,
+    50
    ],
-   "pattern": "Breakout with volume",
+   "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 77, volume 1.4x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 56, volume 1.6x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Tech Mahindra Hits Base Target; Pick of the Week Delivers 8% - HDFC Sky",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VZnBWcFZVYWs1akVlNm9WZEdfLXJkbk1sOXgtMzlRYTRESDQzSnRuVm5yZXFOZ2dnenBSZXhvTXNtbG9kMnBYTGI5NHByM0ZZV3dYSXkxbnNyRW1HS19obXFObVNFUThnRTdRd0VieV9aUQ?oc=5",
-     "source": "HDFC Sky"
+     "title": "COFORGE Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwNWFDVjlld0NUb014MUZYSVBSb2R4bDdsLU5wOWJSbHFzWjVZRFBzZEE4Zk55bmVwVm8zVDJzc0lKbkk4ZDNtSzhjaElwVDZSNEs3ZWN5SF8taWhYaUNJeVUzVzZpcE9ZRUE?oc=5",
+     "source": "Equitypandit"
     },
     {
-     "title": "Tech Mahindra Q2 Results: Margin moves closer to 15% target; Board approves bonus, dividend - CNBC TV18",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXlWbkpnU1kxQ0FSSW12NG9pd1NQWFNobmtmR2lPSGY4WUxrV2VwYUZETzNkUWdlRGcxWjJNUE40SnBPMnAwYTZoMUdlY3hwQlRZSExRbUk4MlpQaG9WRlVIUVhmTGI2Rml4OE1nNXFMQ3JBVUpxOGxsTG5odzgxdl9QOUp3RDdFQ21fSTVia3FIZHphdzVTUUpjNWVZWEhmRTZsWnJEWG9oS3pzMTdhSzRTcnFBZkxD0gG-AUFVX3lxTE5KVC1PenpuNnc1UTBsZWlicjRGUXdqRU9wVGt5RXVfdEhydmtmVUlEaG5KY3g1Y2N4dHN6ZXd2RFlqMTB4RWtPLUVFSzctNDV3VkNTNVI5NHNMWS1veXNwbjF0WnRfVW44QWVMUzVoMlpBU0Z0NGlzaFo3TGI0UGRqZTA0bkJ3SFRDOEQtcVJHdjZxcDhoYW5lNzZ1UDhpdjFqVWxvWkd5TXhJam9QVFUtSkpKb3JSWjRxSlRCSXc?oc=5",
-     "source": "CNBC TV18"
+     "title": "Coforge Limited (COFORGE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ETjdaNnNqZXl6dENKU2RBV3VYN3NHUEkxMElqbTJLWlo1VC1GNklDTWljM25jTWtjM2xxQjBXcXo4SlhSRFZZeHBMM1FpeUFnb1ZPU0l6czZ1QQ?oc=5",
+     "source": "Yahoo! Finance Canada"
     },
     {
-     "title": "Tech Mahindra Q2 profit jumps 33% - The Hindu",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcDVWTVlRc2VmX2QtSlZBbkJVWnMtZ1Z5MjNEc2JmakhyaHM4UmN1dU1lZzRpZ0V2b3FhMHYtcUlKU0l3anlwUTNuR1hGU3UwSS1jR0lPdUhFQkV0VC1tUDVjS1FYdHdaT3llb0dORGFfbGJUaFJhT1NYQWtIU0xJV2tEd2c3S3c2X0Vmb3hKdm9KbGVDVjFwUDFCSdIBogFBVV95cUxPbE16amVVa1RJVGF3Z3Z1cUdtNlRLS0dkc3pjbm9lc2xMMGFnTDE4QkRTLVJYN1J4dXIwVVBRelg4MVV5NGk4XzZZaUgtZjBBMlZwckhPQUs4RzVCekF1cWZxdE92cmduVE5mWGtqREk4UjE2NEstemFvekVBakdsMGRfTk5uZGZoeGJlSkgwaXZOa1Nld2hFYU5oakoyaEFYZHc?oc=5",
-     "source": "The Hindu"
+     "title": "Buy, Sell Or Hold: TCS Asian Paints, Tata Motors PV, Coforge, Welspun Corp | Ask Profit - NDTV Profit",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnV4WWJGc0Vlak95YWVrdGRzYnVXelJ3NlNVQ2lVVVNOOHBLY0h2RmtzaWw3a0lFdC1wc29pUjBmcXItMnJyb2JsSWQyQzJ5NC1RNVkzd3lvbGRHRzdlVS1xSDY5VUZWNm9COTdIYTJQaHdxUGVsWE9TU0YyUjUyRXdCUUdvRXdES0lXMlF6V2lQVWdrZnNjOW0zZkw4ZGVVM3NYTEVpNDFQcEhtYTRoQVBadTZtSE5fRklKMjVLZkUyQdIBygFBVV95cUxNQUpQalJ6SDVlWTJ0NDc2dXY1ZF9WM0Uta0Y1dEpQZzV0UXNwRWk4TE5IdkVscExtRFhxUjdpNWxCVFpKQ1Vtd09hVUs2RnI4MFFyTkdheEVqUGJJOV9YUWZzdWVpZU90UGpsbVhVRXJ1QktNd0MxRlFMQUNrb2ZlOC1HY1hrRTUydnJNX2JmY1FwT25qYmJwWXF0UkY0SEJEa093dVVUVXlEV2puaFhkYlBkNnBVZk4wQ2lqalcxbEdlVDd6bUVuRF9n?oc=5",
+     "source": "NDTV Profit"
     }
    ],
    "flags": []
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 344.0,
-   "stop": 322.91,
-   "target": 375.63,
-   "score": 61,
+   "close": 347.8,
+   "stop": 326.51,
+   "target": 379.74,
+   "score": 63,
    "parts": [
     100,
-    44,
+    53,
     25,
     74
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 59, volume 0.7x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 62, volume 0.9x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -137,55 +142,90 @@
    "flags": []
   },
   {
-   "symbol": "COFORGE",
-   "close": 1951.0,
-   "stop": 1824.97,
-   "target": 2140.04,
-   "score": 58,
+   "symbol": "TECHM",
+   "close": 1829.1,
+   "stop": 1713.43,
+   "target": 2002.61,
+   "score": 60,
    "parts": [
     100,
-    57,
+    29,
     25,
-    50
+    86
    ],
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 63, volume 1.0x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 76, volume 1.0x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Coforge (NSEI:COFORGE) Stock Price - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UUExSU1VIMmlVc3ZIakFqMXVlQ0NwYzF0Q3o3aXpfY2JJM2hSVTJqeV9vdjBHbi1pVmMxTGFLOWRBX01vblFac2JVR1dwSkRPUWc?oc=5",
-     "source": "Simply Wall Street"
+     "title": "India's Tech Mahindra jumps most in over six years as deal wins fuel growth optimism - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUF8xdGYxd3ZQUkRMN2lMRWJfd2QzX1RieVdYMnlxUTFXLVdMVWpnemtuZ25ZZUJEbjZuU0tXamRkbDZDRGpqZ3I2OF9ITWRZcHgzV3JZWlRlRjlGRU10OUJrXzNKX3NrZS1RbC1pTWZRd2FkMlVEYnVoNmhmQmRyVU1LbWVFZ2VDeS16SFVucnBHVFdTRGtoN2JzNG45MTg?oc=5",
+     "source": "Reuters"
     },
     {
-     "title": "Buy, Sell Or Hold: TCS Asian Paints, Tata Motors PV, Coforge, Welspun Corp | Ask Profit - NDTV Profit",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnV4WWJGc0Vlak95YWVrdGRzYnVXelJ3NlNVQ2lVVVNOOHBLY0h2RmtzaWw3a0lFdC1wc29pUjBmcXItMnJyb2JsSWQyQzJ5NC1RNVkzd3lvbGRHRzdlVS1xSDY5VUZWNm9COTdIYTJQaHdxUGVsWE9TU0YyUjUyRXdCUUdvRXdES0lXMlF6V2lQVWdrZnNjOW0zZkw4ZGVVM3NYTEVpNDFQcEhtYTRoQVBadTZtSE5fRklKMjVLZkUyQdIBygFBVV95cUxNQUpQalJ6SDVlWTJ0NDc2dXY1ZF9WM0Uta0Y1dEpQZzV0UXNwRWk4TE5IdkVscExtRFhxUjdpNWxCVFpKQ1Vtd09hVUs2RnI4MFFyTkdheEVqUGJJOV9YUWZzdWVpZU90UGpsbVhVRXJ1QktNd0MxRlFMQUNrb2ZlOC1HY1hrRTUydnJNX2JmY1FwT25qYmJwWXF0UkY0SEJEa093dVVUVXlEV2puaFhkYlBkNnBVZk4wQ2lqalcxbEdlVDd6bUVuRF9n?oc=5",
-     "source": "NDTV Profit"
+     "title": "Stocks to Watch Today: Tech Mahindra, IIFL Finance, Persistent, Angel One, Lotus Developers, Solar... - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOZ2ZyUlRGeml0MzM5TlcwblkyOHJXcjJETHliLWdjbkVDMlA3UWQ4WFlxVlpPWUg0OWhPbUdMWnY4T0s0UXA3enpxWWVRZFdiekdmeXFBRTg2WlNKMUFxcU5HT01uaGJnV1RMblBhZVpIR0laeGdmZjlGbFhvMTM4cDJHRXl2Q0ZoaHAtMW5iZ1JOSTctRllBMG9hcjNHRmNOQjlQR1h6ekJkZGhzYUVkWGZKcF9nWU5udWN0ZjRLa2lGUkFNN0E1YUxPU1JwTExVX3BzRnpxTWE4b0cxa0hocmF2bTJLazRyMjRHMUp0THhWYldlMllyQmtIYmFsM2ZFSV9uWkU5Z1pMQm5QS2V3MmxORFN3MV9fM3VqRE1RSUl0V3pQMjROVndFeDRYdXlvZWVWMWxDOGhsVldtZGdKZnp5S1hSNFc3SEFkTDRubjnSAdYCQVVfeXFMTnk1WmkwUWxBUTllMlFkamdHQVh2c3hvSjNfVHdCZFVtbk00OUNycEx5S2ZadkN6bGF0bjBEYUlseDlTNHJqQkNYeWFjRV9OSWI5SWJaTWt2bjE5U1Z5NXVCdGhmTHNrV2VRcDg2RW9fTDBOdXNNOTB0VC1FWjFJcEN1VDN3LWR0SnFobzJmQzl3XzBTcVBtOFVsN3JVMkN0aUpnTkc4SGNXYnB5TjdwTURoeVkxcWNFUmdVVFlqRkxWNDZZd2hNejMzRDZzNlhIMHJqMlZ4Snl4bnplV3FZbC1JU1o2aXNCLS1Ba3BBeXlydDByVHdsb0kydnZUMGFFV0xSeDFKRXhaSjdhUUdZdXd4cDRQNFM3STI3TS10RU15WGVnRkg3dFdPTkJTNi1OZmk2RlNZbFppNHJ5b2JlR3BOZ1dsUGpmVmJJamJqbjZNNThkYXR3?oc=5",
+     "source": "Moneycontrol.com"
     },
     {
-     "title": "Stock to buy today: Coforge (\u20b91,932.70) - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYi1xbW9RV3JidXlJdWktZlpkemk4X2hHQjBnVUp1Vlp0V19Bd25uUHM5aVdJXzYxX0tyNW5rYm5SbVZCcUEwb0VSSEhBdHZxeUdkb3FpcG1tTE5hNzRGTnJrcUJyV1RLeDZvVkVSY1JpajZaOE1yMmEtbE5QVW5zb0hpR3pNWndheXdHU2N3Z3hiRnl2TzEzQ0lWdU14QmtCM3ZqU2xxbWxCNW1fU1ROSFZvNDVkTjJDN1HSAcABQVVfeXFMUEpyLVJLZVh3a2R4ZFNYd3MwY2c4YkJjczJsVV9jOS1SOUgyVGhWVkNRQV92Tk9rUkYweXNVLTI1YmVQT29UWjJzLXhqZTRmS2w1QWpHNjhXaVZvNFRkbVFnYTQ1N1BfcEk2TVU4b3ZJa19nYWZ0T1R4RVVsMnpQSkRlTkpneHFySU5ZalRZeFpMNy1QZGQ0dkY3N2VsclNkNk90UGN0dlZaam9USzdtTjZFaWZFV2k0czc5M3FqTU1w?oc=5",
-     "source": "BusinessLine"
+     "title": "Tech Mahindra Q2 Results: Net Profit Rises 33% to \u20b91,586 Crore; Board Recommends 1:1 Bonus Shares - India Infoline",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONDJsQy1sWkpHdGFhQnhxMDB2SnA4M3NzUTFXbWhqZjBrcUVEZS1aV09xTjQxeHhPWlh4eG95aTJ2WllVSkZZVlJiR3R6eldvNHhTUEhpVUlWQTlJQVBUOUlGV25Kc0xRTElaX3VHOVBUTG1ndG1RQ2VJYUJ4OElyYzZSamFNU2lQckdHeTF4SEgtSVBSWElVV3poeXh3VWxDVkVQOHpwZVJZT3c5VjVEampQY1pNajRRNnpMb3BJUGFPXzJrNERBREtCWlQ4Zkd0bEE?oc=5",
+     "source": "India Infoline"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "BHARTIARTL",
+   "close": 1895.0,
+   "stop": 1800.86,
+   "target": 2036.21,
+   "score": 55,
+   "parts": [
+    70,
+    76,
+    25,
+    50
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 59, volume 1.6x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Bharti Airtel launches mass market voice-only tariffs after TRAI mandate - ET Telecom",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdl9pb0xHWDJGZGZQanBjTDNuczRiMkxIWHVkX1VWSkRTRHQtZlIwbmF0ZWFoNHRGUHl1UTdJcGRqQ2piNjFTZjJmdXl6NVo0RHdMZzFKX3NwdENaSDBiZFJKY29yTlA4N3ExV25pQnFZTnk2cGdqbUE1cV9wcjRVb0Zmczd4d3BvOUJzQnNuRHFNaE42YW9rdkJPUEFDaVl6Sm9Vd0ZqUlN1Nm9mTFlnZExTWnhzNi1EVHlXaXdOM0t6YmhGem80VUs1MllKUXRwYmRNVGVkRVZ2ZjR4WG12Rl9Qek1XUEc3elNVOWNB0gHzAUFVX3lxTE1BNy1OZWYxTmJTUTNPNGlyVkcwa1Qwa0FiSnZVS2MtZzF4bl9OQVc4akN5N0pZc2w3dlNhT0pJSDdOMnM3a1hSUUNYVEswTVNfblNZejg3RXZyRExENmpWaG1OWWdyWEtVOGFZN01ScmhiazF2VnhPZlFPSVhtMTI0M180Z0w2Z0dTMUV0bWx6RDFMZm40dFFvT0hJQWxxRVJBSDlnZGhOam9GbUFDV3hqcl8yUTBIWTNUS0VkTXloakFGOWtzOWd5YmNWLWp4eTFFaEtCNngxODV2NVY1X1otZ0cwY1VMMUkxV2ZNQnJOb2hJSQ?oc=5",
+     "source": "ET Telecom"
+    },
+    {
+     "title": "Bharti Airtel launches voice-only prepaid plans starting at Rs 185 after TRAI's mandate - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVXFYRnVwMU9yOTlFQ3EyVFVpb3lDUFVhYUttOGNRVy05eERxM0dtcHV2eHJQaU9jdWFBRkMxS1QxSjBVQ05NRUxhcGNDTmR1Y0pYNkRCV3FGTXpabnRTeEZZUjhaNlRlSGMzM01LLXV2MUJ4cTdZRkF0MTdJWEhGTWdLZE43T1lBRS0xQ1cxa1lQekFYMmFJYm45ZGRzQVNYcFJYdm9pNU50ajZYZVBOWm5TdVpOdUc5YjlBSE92a1pGdk5MbTZFb19XS0hGZVBFUUN3N21iLTAxMVp4c3F0emhwQlNVdWFqZktReEU1U1V0N3h2TzBQOF9JZm1FalXSAYQCQVVfeXFMTUdwME9ROHdMU2EwdUI5RGs3ZUhlMnpzb3c3V0RRRUFrUDMxOU52Zk55NDFfRU1TYXFQYlI2WDJlN2ktWVRPbDJVQ3F0eFNMbGV0eFlrNi04TUtlRDMtbnVXTTNUcjhwa2xqdTdSRTk1amcyWU15MDhkWVRSMnpWUC10LUl2c2R4UkFpaW5wS0tuQUswWnNPa3FpZzZKZ0laSzdpTkVNU0U0b1BoajU1a0NobThNUWxHazBGSzVjeUZYQUxGRDZNdWdNaWZMSjFCYmJRc2pNaVZNWkMxUkVwVDZCSUxhc29maTZGRVRvelRzb3c4NjY1ZHNYMzZBcmstNVV1Skk?oc=5",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "Bharti Airtel Becomes First Telco to Launch Voice-Only Plans Under New TRAI Rules - TelecomTalk",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFpzZzVrYVpqVF9CTzZ3cm1aa3lnV3ZpQWFoa0RjQ04xM3FBQjY4dmQ0bHBab3pSVUR0UEhUU3ZvVU5IZXl2b185eVF1OXBuckF5ZW1UQWY1RlE2WDN5STJJcWQ4dHNBbUxPNUw1M0JqblJzVWlEcU1Ja1p0eHVSd1BUNWFpT1k0?oc=5",
+     "source": "TelecomTalk"
     }
    ],
    "flags": []
   },
   {
    "symbol": "HCLTECH",
-   "close": 1424.2,
-   "stop": 1340.8,
-   "target": 1549.3,
-   "score": 44,
+   "close": 1421.7,
+   "stop": 1338.56,
+   "target": 1546.41,
+   "score": 46,
    "parts": [
     70,
-    29,
+    26,
     25,
-    50
+    62
    ],
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 73, volume 0.9x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 73, volume 0.8x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -194,49 +234,14 @@
      "source": "Yahoo Finance Singapore"
     },
     {
-     "title": "HCL Technologies Share Price Today: Intraday Price Rise - Univest",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2RLbzFabE5ScXBqWnBiUFZjR0tQa1VtSmFFR0ZJVWI1YW8zSHVsTUs2SmFlSC11RklkeHhjMDRfRVZUNzlXRkN2RjRNNjcxaWZiZkJOYXFNYUJhUDljRDBuSGRCZnVhMmJDNGZyUmd4ZFRnaDZ3WUZDeFhWUDJycjlabw?oc=5",
-     "source": "Univest"
-    },
-    {
      "title": "HCLTECH Outlook for the Week - Equitypandit",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1NkNDR1BNZnVSWHRjdnVUMTl2R1pwRHVKeVZuYTluZmh5WjJiYWZuamdCNVVuVkZLNEx3MWZ1OGV4aERDU0dsOWFESFg2QmlEZkFvWWVoX1ZkZnpUYkRSNW0yampBWlFoV1E?oc=5",
      "source": "Equitypandit"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "PAYTM",
-   "close": 1670.0,
-   "stop": 1558.8,
-   "target": 1859.92,
-   "score": 40,
-   "parts": [
-    60,
-    17,
-    35,
-    50
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 48, volume 0.4x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Paytm Shares Crash Over 7% as RBI Cancels Paytm Payments Bank Licence; One 97 Comm Issues Clarification - Goodreturns",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbkdYMmFienBqWXpDNG9taDVVSkQ2T211dldEOXgtYjlBWWVHMHpJc3NzZHM1NmhJQXdZTWxSVVVWX2RBeVRYZGVMaHo5MzNDX09GdE9HTHFoM0NuZ3JjVU9XeGNTUGtvSThXeTh6ZzNJcGc0dHBaM0VCOVVpVVBNZGM2SmV1bmZ3SHh3Sm8xSXN0UnVicURLTURkSDlpWUhvSXhIbmR2blRpUGlFcFQ4OXlNNzE5YVd0d3dhT1ozYm81VkxYbGd0Q3lUYk02bzRqUFR2Z3g3a1p0eVRG?oc=5",
-     "source": "Goodreturns"
     },
     {
-     "title": "Paytm stock has surged 32% this year, but Nomura sees another 31% upside. Here's why - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNWppdzFuVHQyLTRDNlZmcmNmZGFUWkx2N2Vpb3c3d1duaEVaTFlTdGlRQkc3ZWhENzNWYjltSVlFZzZGbjRyT2hNRWtyZ2RRazR3S0llZ0ZTRVdXaXczWXZmd0JlTmwzWWlSNmg0SktSU2JEZzdZMEthUGdyMnhURkJscWtWXzhFRGMxMWdnOXlFazVXaFBIYnM5YW5saUFfTTFfcmZSbjFYejZJaDFVQlVvdi0xOWMzV25KOFNIdnpRNU1NR290cjl3Z0pTbDFBeG8weXB5ZGpJRXJ0aVHSAeMBQVVfeXFMTkd2bURmWXJQWGkwSDczdnh4VjVQR3JQUHV2eDRiV2NrcndfQzY3aUFrZmRQQVJXMDFrekNUWU5UQlZKV2NHYWpPekdFcVQ3MjdMSkdmOXktZlIzV3dteWJsVExnYUhjbmhsT2lyOGhtcmh0ZEdCMWJGcEtnQ0pOTVhrQTJmODBSaTBZZ1h5MEJ3dkxPNng3dmpDNnBhNDRabTNwdTQxTHdYV2dwSVBBUW9BbktTb2VzY2JMd0UzZWhWYUd4MWRwcmREVUE2c0prRU45UzBzSHo1QU1sQTRaakxYU0U?oc=5",
-     "source": "Moneycontrol.com"
-    },
-    {
-     "title": "Paytm shares get new Buy rating after Nomura initiates coverage. 3 reasons behind bullish call - The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcENMMXZYbjZEbWlPa2tTZTdvMGFBN3ltSTJXaTdTMW1TUzV2UGkyT2RHQjVZT3JHVEJ2RTFTWXNXM2VpYnIwaWZleGlWTmtEclFMQUJZeUdKa21McWVzRzBUbTY0aGJDN2UtLUh1amNnTGFoOENjQ0FIYWtMejJPdVRRZ1VKU1NtM2taTkllSHhtRmxYN0NZeW9QUE5Dc2JBcVhheXVzaWpMc1RUdzFMVzltZmp1dk1SMm84bWxfSEo0dklMck52QVJhWmhaSjh6d1FiWUo3MVpNem9vVFI0cE1tNzhkTWNOMWItamlyNEsxenRFNFNZWHhKRdIBgAJBVV95cUxOR3FmdzVHb29FWmpvZGRYcFN5TXNmUy1hc29Sbkx6VnRZWEVYMlIzXzNUWVJERUt3Q2RqMXJTSDJGQUZhSXBScmxPbWE3NG9Hd1VzSUNUT1hUMW9UbXlnUml1bzMtM3ZkWC1kM0ktZS0wdkxlRDd2RmVPdERnOTlyWTN6QWRDdm44V09XbG5LRnhnUEtxSWlLeDBOOW80dkNBVFFwbTJtRWttLVF1SGNGdFlqcl9WOENNNVg4YjZzeHI3NDhreWNpUWlOQ0puSTJ4YXBBOXF2Q2hxdkxuRE1tUkVPdkRIRnVUcFZrTlJEbjRaU1ctWnZWU0k2MFRrVzgw?oc=5",
-     "source": "The Economic Times"
+     "title": "HCL Technologies, Tech Mahindra overtake TCS in net hiring adds - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2lBMW9sWEdvMm5SaXlHNnN3blkxckF5Y191eVJtQk1WMG5aVEFCNDFTOHpVNVBFQ1hPTFlFbVVGLXZMRDJTSEphVXd1eE9lNUlUVk1rR19zbFMtb2RpbWFZdGVvN1VZRGhObkFlOVZVemVKaGhfVWhEamVmYThWeUp0YzFSeXZHeFN3UTVjckFQazJjTzNGUThjNU1RSnVZeEg4RmFUT0NqeVNjbnE3Unl4eWhReksta0h5cE51UHZ2a20yT1ZOWNIBzwFBVV95cUxORkNpbk42Tml1NDhfM2Z0Wk9nRTJDNTlocjAxWlJMbmpRQk1fVGVuWXZPNUJmemhteEpjZ1BKc3RlX3NqMGc3RlhEWkNfVDFCcGVHdHJXYkd2T1BFR29XcTd5cU1HU2lzY2NNWUF1Q24wajZGSjdfSGozVmwzZU1LU3FaUUhrX3NtXzRQWnBQTXpvSENfWkZ0RjNsSU1kUUtSd0h5ZEk5d3JIN20xU1pWR2JVTmxjbWFfbjJMWldvZGxHajVxSFZiREFUcUpRbE0?oc=5",
+     "source": "BusinessLine"
     }
    ],
    "flags": []
@@ -245,113 +250,113 @@
  "etf": [
   {
    "symbol": "ITBEES",
-   "close": 35.95,
-   "stop": 33.96,
-   "target": 38.93,
-   "score": 56,
+   "close": 35.56,
+   "stop": 33.46,
+   "target": 38.7,
+   "score": 49,
    "parts": [
     70,
-    78,
+    52,
     25,
     50
    ],
    "pattern": "Pullback inside a long-term uptrend",
    "timeframe": "1-3 months",
-   "why": "Pullback inside a long-term uptrend, RSI 72.",
+   "why": "Pullback inside a long-term uptrend, RSI 68.",
    "verified": true
   },
   {
    "symbol": "JUNIORBEES",
-   "close": 730.68,
-   "stop": 721.29,
-   "target": 787.03,
-   "score": 50,
+   "close": 728.34,
+   "stop": 719.21,
+   "target": 783.12,
+   "score": 45,
    "parts": [
     30,
-    19,
+    0,
     100,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 32.",
+   "why": "Weak trend, below 200-day average, RSI 31.",
    "verified": true
   },
   {
    "symbol": "NIFTYBEES",
-   "close": 259.57,
+   "close": 258.94,
    "stop": 253.37,
-   "target": 271.85,
-   "score": 31,
+   "target": 272.31,
+   "score": 33,
    "parts": [
     0,
-    24,
-    49,
+    11,
+    70,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 45.",
+   "why": "Weak trend, below 200-day average, RSI 44.",
    "verified": true
   }
  ],
  "long": [
   {
    "symbol": "DIVISLAB",
-   "close": 9190.0,
-   "stop": 7535.8,
-   "target": 11947.0,
+   "close": 9162.0,
+   "stop": 7512.84,
+   "target": 11910.6,
    "score": 72,
    "parts": [
     100,
     82,
-    57,
+    58,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 48% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
+   "why": "Up 46% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 344.0,
-   "stop": 298.29,
-   "target": 447.2,
+   "close": 347.8,
+   "stop": 298.7,
+   "target": 452.14,
    "score": 64,
    "parts": [
     100,
-    50,
+    53,
     55,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 17% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
+   "why": "Up 18% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "MOTHERSON",
-   "close": 157.27,
-   "stop": 134.14,
-   "target": 204.45,
-   "score": 63,
+   "close": 154.64,
+   "stop": 134.31,
+   "target": 201.03,
+   "score": 61,
    "parts": [
     100,
-    65,
-    36,
+    59,
+    35,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 28% in 6 months, above its 200-day average, worst fall 22%, volatility 33%. Fundamentals not checked.",
+   "why": "Up 24% in 6 months, above its 200-day average, worst fall 22%, volatility 33%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "PAYTM",
-   "close": 1670.0,
-   "stop": 1369.4,
-   "target": 2142.34,
+   "close": 1661.4,
+   "stop": 1362.35,
+   "target": 2142.05,
    "score": 60,
    "parts": [
     100,
@@ -361,18 +366,18 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 44% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
+   "why": "Up 43% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "TECHM",
-   "close": 1834.7,
-   "stop": 1504.45,
-   "target": 2127.5,
+   "close": 1829.1,
+   "stop": 1499.86,
+   "target": 2109.33,
    "score": 56,
    "parts": [
     100,
-    41,
+    40,
     32,
     50
    ],
