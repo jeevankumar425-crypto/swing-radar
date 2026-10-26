@@ -1,32 +1,32 @@
 {
- "asof": "2026-10-23",
+ "asof": "2026-10-26",
  "swing": [
   {
    "symbol": "COFORGE",
-   "close": 1900.5,
-   "stop": 1837.2,
-   "target": 2090.49,
-   "score": 85,
+   "close": 1993.0,
+   "stop": 1853.31,
+   "target": 2202.53,
+   "score": 73,
    "parts": [
     100,
-    65,
-    100,
+    94,
+    25,
     74
    ],
-   "pattern": "Pullback to 50-day average",
+   "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 55, volume 1.6x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 64, volume 2.0x its 20-day average.",
    "verified": true,
    "headlines": [
-    {
-     "title": "Coforge Q2 Results: EBIT margin guidance raised to 16% as order book jumps 45%; misses estimates - CNBC TV18 - LinkedIn",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVWUwMlo4SzBRancxOXVKekxWaXFHOU1kVXAzU2lnNFBKbU9nVzh1VVMtbThXLUF0eGZ6bVg5ZHJFTFlkQnRYMUZpRUZKWTl1X3VXY3JZaVNGOFl6OXdZQURINHcxZzlQcGh3UHJwOHNtN3VYQmdFR2hvSjNJNm84em9HdXJrdlNxTFFmWVZSRlZUMEUxMUU0V19PZUMyN290R0lxMHBRZkw1RWhSWERvRnRMSWM?oc=5",
-     "source": "LinkedIn"
-    },
     {
      "title": "Coforge Q2 Results: Profit Rises 13% To Rs 588 Crore As Margins Expand, Revenue Up 11% Sequentially - NDTV Profit",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnA5bzVOb2RoUDcyUndFMFZqVnFlNE9ISFE0WllvSG9USlRrS0pIbmJCMng2T011RXdSRkZLVkdlNmNUWjU2M281YmNkd0N2Nk9pblU0YnF2RkM4MHVZVlZTR1libndPVGJFV1lKVlJkUHpuYnVjbXU4STdyUjdQN09keHgtbklCdVJ2STdUZDJsTW54c3diNUs4OVltbmJRaXFKcEV2RFFYLTU5RnA4VmJoc3dEMEtOQ3dldjl6SnRwMzh3dnB4R05Uei1UYkdpaE9FUWVR0gHeAUFVX3lxTE9SUnZVT2tDZnpKTXFDT2d4VERzemh6eXVVNmFpS3czZ0ZJVnVweFQ5eWcyMnBHbGNRZ1Mwdk5IUkR4cUZCYmVCUGZOX0pfNkxpTWk2dDc0YTV4Q1RDQ0hVZzNweE5UVU1Zd1lMekFadnV6Mk9DU3JYWlZyc3hobFVvdlc3TTgtcUJPWGlJaDRYdjJBVVhIMDhBUXJBZzdORVlQa25SbFdkUGlRVTNmN2l6THhCUzBONHcyMmpJdFNvM1UyUmdTeE1MSFdNQ05mNGMzVUFhNDhDdHVrcXpMZw?oc=5",
      "source": "NDTV Profit"
+    },
+    {
+     "title": "Coforge Ltd. Share Price Today - Coforge Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMcUdud3lFX2l6WEZWM3p3MU5TcFZWQVFmQWl3bjNvNzlNbk9rS2tEQWxqWm0zSzdZNXNrTmtWTjB1X25Kb3pXRFJQSl80QmUyTEtZQnd2WkdBd2dwNllKUDhGNzEyUldFNmcySXFwTW1VUFAtT2FTZw?oc=5",
+     "source": "CNBC TV18"
     },
     {
      "title": "Coforge net profit rises 56.5% as \u2018record\u2019 deal wins boost growth - The Hindu",
@@ -37,272 +37,323 @@
    "flags": []
   },
   {
-   "symbol": "PERSISTENT",
-   "close": 5727.5,
-   "stop": 5492.0,
-   "target": 6346.14,
-   "score": 74,
+   "symbol": "JSWSTEEL",
+   "close": 1260.0,
+   "stop": 1186.39,
+   "target": 1370.42,
+   "score": 57,
+   "parts": [
+    60,
+    68,
+    25,
+    74
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 55, volume 1.6x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "India's JSW Steel warns of coking coal price spike as profit more than triples - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2dEUXRlXzRrdVd2VkZtUDNPY1FhWHJUUnlXazdlMHdEQVB5SEw0dW05RERTUTJSQjdnOGZacmdqQlkwTVpzcE9EaGVJaHFwMnBtcm1NSnFFb2FWYWlzQ1JLeG0zVjlRN0owVVhKWmdJaENzSElsTjFuUTJZTGVnVTZfWHFSV2xWS0Q4dHQwM0ZtSFdfZVZGWHNoTFE2SXZaY1hOd0lpT3J0T0JPRVhsaUtTaVhCeFRIVVZNYS0wcFVPYm1o?oc=5",
+     "source": "Reuters"
+    },
+    {
+     "title": "JSWSTEEL Share Price Today - JSW Steel on NSE/BSE - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yVnhyRi1QQjFOWmV5Q3NjSTR6VFJMR21mRkNuTHlMME5BaGRtd0xzb3BWSFFmQ0JXT0ZKY00tWGxuNDF3cS1JNlBoRGIybVltTlNz?oc=5",
+     "source": "scanx.trade"
+    },
+    {
+     "title": "JSW Steel Ltd. Share Price Today - JSW Steel Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZVzhZQ1l0Y1pmaDZhVUR2S0VfekxOZDlLMkhyYWFUZXYtLWxuWndaVXg3S2NGNV9ZcllmQWxsZ2dENzdGMWVlSDdacU9zck5ZNjhwN0dUbzlxVDFoTEtTUHp1VmwtVnpQa2hEVlRsbjVPdkc5cFhpZy1VWQ?oc=5",
+     "source": "CNBC TV18"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 325.55,
+   "stop": 304.18,
+   "target": 357.61,
+   "score": 55,
    "parts": [
     100,
-    67,
-    81,
+    44,
+    25,
     50
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 54, volume 1.6x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 53, volume 1.2x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Persistent Systems may soon launch up to $450 million QIP; proceeds part of financing plan for Nagarro... - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQalVQekNQOVg5Uzd2Q0NvWjdYdzBnY3VDX1E2TkVaM2xDVUZiN1FWSmhwM29BY05YdEV4LUNUMWdGNjBia0kxY18xRlpxanNDRDY2MWRyb095NkZ5dVJDWHZtM2VkVWxLU3ZIbjNrMnlrNDg4SElVazNtV2tRTFM3ZjFHUy1WRWlHc2tOSFREX29maFIyWlNIZl9pVTl3SzF0RWZDZ3RsaUdkYjBhZXhnTkxTWk9LNW9ibGlzOVpBV1JUcnBOOGtyREdubXlqR1FFeUNpblFMQ0Y0ZlZzUl9wQmRqZUVVLVF2Q0dqdFhEOXJzVU1qZkJ1c1VlMUJPd9IBgwJBVV95cUxOQi1QbjIzNERNSkhhaDc1V19IdTRZRWdTZHlPYmZLQzNHeHpNek01WDctRVRLcGIxYVA0Si01UjlVRWUwWHFkZUFsVE93ZHhUYU9PYUgxRVJTMFZWckRIeTZfMDdfQVk0VzQwYm5TZ3Noeml3UVVUVnlWeFhhdXNET3JvNDJodk1qaHpLTlk4V1hoOGlLZUdRcEJxbHdQSHQ2OXRUVGV4LWdkWElIQUg4STR4YkVfcmk4N2NWdDFfc0xaYmVvSjRQX3NLSFJhU1NpX3BaZ0NWeDBLcjJJOHpoSmVXbmktQlFKX2N5OFJ5dExQZGRfUlY2RWhmMXJGdTJOREw0?oc=5",
-     "source": "Moneycontrol.com"
-    },
-    {
-     "title": "Persistent Systems opens \u20b94,265-crore QIP at \u20b95,550 floor price - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYXRBNFdIX2xYUjFHUDFNVkZhamtfVVlJbW1ibGhJSEJHY0tINk9JcTNQY0w5UWthLWo0VWFDZ2sxNXYtYW9qWG9COWlDQ09LNGVGZEpPdDFuazV6RW9lWUdpejZBTG9PQWpzbUJ5b1dacUptRjJ5bzloYWI1bTJLeWRwZVMzWEkzREJRR19HMU5icE5aVmpaN2FLRFpQdHJFZTFhWlVGSHppY3dnV1lHWW5XeFJhS29vSW1BVVh4cXFpcWZ1cUJHSFAxNjhxUzlaWUJ0WlNURdIB3gFBVV95cUxQNjBRMnNMTnN5RU42cnJtbXFKNFVwT2lMZ1V0UWhyNzljb1lDMzZ3Ung4blZ2U0EzWk05Um5kR3V4Q1NOM095NlRTNTk2VjlBNnNYRFRHb25QMmRISGRHbkNVbU9KdXVOUzFEUXI0aHN2MEZaQmpVRGVEbjE0TU9fWXd3Vlg3eGE2QjRmejRFM0RkNHhpS0ZFbXV5cDJTZE9BMWRjelpFMUM5bjJfOEZsUHZDZkxqeUtDSDZ4YWk2elduWmN5WG1yVjJ4YktUQkZ0X3dQek9TeGkyT1pORlE?oc=5",
-     "source": "BusinessLine"
-    },
-    {
-     "title": "Persistent Systems publishes 36th AGM notice in newspapers - scanx.trade",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnhRMGV3Ul9wRmFCa1VlN1djZ1JZaE9CaVpQUDEzWWVOZWNYUDlCWldEdnFZSmtfRXNxU0M3NTBkc2ZlT0c1bGotc3Fud3YwS1paSlpiOEtrZm1TUjlKN1lwZlZjQ3RndG4wNkJaUVdhMTVLUHphNXkwMXRGQ2dqZHV0alpnWmxIb29xTFExTG1uR0ExMU5iUmhuaFpITGFtYkEwRFNZVFFPY09SRE8zT2hUdnNVclVRTVlvNDkwNzNOMDVBdWFGNkgwQQ?oc=5",
-     "source": "scanx.trade"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "ICICIBANK",
-   "close": 1394.2,
-   "stop": 1339.99,
-   "target": 1475.52,
-   "score": 64,
-   "parts": [
-    100,
-    45,
-    25,
-    86
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 57, volume 0.9x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "India's ICICI Bank Q2 profit rises 20.1%, beats estimates - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMnZhRWR2N2tXZjhxd25pa0VOTTJqTE1VV3RZeU5yMVBIamd2VWxIUk1lcjlLU2JReVFwdzJHUHN5NE9SbjJlazY1X1dIV1ZWeUlIaFFPZlh0cVZfY0NKN3h6cC1WbDkzajd1OTY3U0RxaDh2TGJ4enM5UnRJRXF4alpPMEJfSm41ekxUUlNWb2ppbDZ0NFI5SHhaMElwU2hHQktF?oc=5",
+     "title": "India's Eternal expects faster Blinkit growth as quarterly profit nearly doubles - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWlrdnFzcnJPc0I5SUw2NTAwbFphdVNrZ1hhYXJDWVZPODUwQkxEZnliQ3lfUkUwVFJaSm9wc3JFLXk3cHlRaGZWeF9LbnB5cnNRMVEzaWxHZVVGVjQ3cE1KZnoxWE5hamIyTHlCbFdVVU5zZHV1bGtWMmlVckRPRFFfeGQyaFZqRDlhWTNON0ZYaS1vaWhkeHdzR2Z6cWV0UkJkY3B0cjIzcjNkT1JUQVdGR1ZoWTZwQjg3cEdXT282aUww?oc=5",
      "source": "Reuters"
     },
     {
-     "title": "ICICI Bank Q2 net rises 20% to \u20b914,843 crore as provisions fall - Business Standard",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSGZSWjZ4MmxMcV9NSkJ2OFZzdGljblo1dno5eU55NmhCTWJLaDl5Tlk5clc1ai1aY3RaNGFTVE1JRktSbURKUDlQeExfSGM0bWwxSzJUS3l5eG1oVlQwcGZDZXdZVTk3T0RueVR5NnpTOU41eUtzNEsxOWR3RWNlSXN1QmlDZGJPMUNzRUFXYnBVTUxuYS15M1dCN1RtOVhPdVFYaTY0Zi1sOFcybmNubXFuc25hanlqNVR0Z044UHY3S2F0WTJzUm9wQUh1Ny1EZEdNcExyODVpQjdjaVHSAeMBQVVfeXFMTnAzNHB3aEs3NWdzSjV1cTVtVVczNGpKT1hwZjZldmhnN21pZU9VcF90Vk9uVWlmUmZBcjVKYlVRZ21CUW5XdmJsRlEwOUJidjR1UW9EZ2Zqa3JNcDdWVDN2dVlwMkRRUF9CeFNyUUJ1eTAtUTA1a3FjdUFCLWs4Z2xTbUtzNTVMTWJ4Nm1qai1ZY0lhb3B6bm56VGNaWl83S2wwVlhMSkNwUktzamxucy1URzZuN1FBM1B1bDNtN1dNY1VkNFpTYTFWMFZiRlhXcWJPdWRSUzhDbEJqSzNHc2xObEk?oc=5",
-     "source": "Business Standard"
+     "title": "Earnings call transcript: Eternal Q2 2026 stock slips as growth bets continue - Investing.com India",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHV6S1QyM2FuSFhqWDJySU9JdFJNR2t3WHJrN3RQaGZKc3R3eEotRm1nVnkwV2QzQ0FmNTRFZGJ3Y3N6R2xwZmlBRmhpTmFtLVQ2VUNCZDFwSUNxNkV6cW9XcUwwc1FOdjJhT3ZGaXJiSDhLVnJYTWhoczdUUXBDY3pfZzN6UTVYQlFaOEt4Umo1cmdmTldHcHRxWlFzMjNKbzNoTmtoSjUxbFdhWGMzNUQ3NDRLek9IMTRMLXBOZVZITXdHYTlZdEdyaFl4eTlCY2hF?oc=5",
+     "source": "Investing.com India"
     },
     {
-     "title": "ICICI Bank\u2019s Sandeep Batra says bank has strong internal succession bench, wishes Bagchi 'the very best'... - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOFZzajhHd2R1TS1xZC1hYXdiZHhwVVZvMU93aTVyTVpLMVZvTDdTU2FmYUFLbmxLUGNER2JhU0JhOXg1SFZzOUFvc1ZkRUFCdkV6YjEzY2R3OHp5cXhEN2dBN1BHNjdhcWRIT1FZWVhjS1dGeWRXT2hBZzA1SnZuMy12Uk05bENydzlmRzI2WjNDZ2o0eE1OamNUdjdXeTNJNy00cFBLdDZ1WFFMbTkyRkNXMGRCck83RWJGUnBtU3ZBUFVkeXJEcUZBbldGNXhoZnNRUUVXNW5FdS1TOFJxZk1wdDNVLTVhN3FzcWlyOEU4endMU3pNOWhPdElVWDdL0gGGAkFVX3lxTE9hYl9wNTNkZjZJS21GS2htYkZQVXZVcHgwUlktX29GNkZOMVp6RE9mLXRaQm1zWEt4c05TUTRTZTJuejRkRHNrcXV6eG5BWERmT2RHX0E4WVJJZjVkcDhVOWI3a3NCMHB1bDZmazZaaDdjejZUdTRyRXgtbzhDdWlaNV9tRkViZjhPSWJnM052SXNuN20wTUJBQmZwRk9HeG0xTU0yNGhDN1dIQnVPWVljbjBscmt3N3V2Q1h6T3hVM1ltOXltdGVDVV9HME9qVFVDTm9VdG5RTlVnanpKSnBnT2RYRXdXLUMyd3NnUU9ZbXBMbDdacWlZRkIxd3dMamk0bEd3Snc?oc=5",
-     "source": "Moneycontrol.com"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "FEDERALBNK",
-   "close": 340.9,
-   "stop": 320.9,
-   "target": 373.35,
-   "score": 60,
-   "parts": [
-    100,
-    49,
-    31,
-    62
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 55, volume 1.2x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Jana SFB shares fall 13% to hit 6-month low as Federal Bank says no plan to buy stake - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdkRZdG15QllmVWNPTHhLWjdJUDV4XzB3SV9FdXAzYWlXN3ZOQ0t2SUhLQi1HN0FlWXdjeWh0d1ZxRWx2elBXb2JvYnpwcGUtb0tzbmVYQnpWQzJyNWpTbV9xWlllVE91bW1nS3dSYW1IZ0RDdGd3WGNxei1jOHc3bU50SnBBTDhXTy1IX3NPbE5YcnVfN1JkOFhqekxkRkEydlRlV29nSnFjc2Q5RTNOdXFucmZHc1l5SmZCMDN2enktUUd6bTdpSkVqc1ZKbVMzR19SMjNzek9JRFBOYloyWmxoMNIB6AFBVV95cUxPQThrVjJsSHR1d18tNGc5SzE5MEx1REhVWmo0cGxPb19jTnFFUXo0TlpiSkFQdlF2c2RKY19STXU0VHdmN0lGYUt6TkdkeHo2NjdSejMwQy1UOXFEbnhUMUdrYmRDNGxBeWRkTHR0U1hCVTdpeXpCUXlncElRNXd4Q1ZOa2hDWGRkYm1TRGxnWlZ3cU9uYWE5ZERHSnZ0M2NoWWRoZDZGMzdxVWNwVGdfS1BzVlh3Vm1IMEN1cE1fZkJxekNLS1ZYOVFIZXBhVklzXzNEZkx1bjV4LWxlOTRZVXcwZGFRcFJ5?oc=5",
-     "source": "Moneycontrol.com"
-    },
-    {
-     "title": "Volume shockers: Jana Small Finance tumbles 14%; Federal Bank soars 5% - Business Standard",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTkdvODlrX01FUzRsRWlFdlJ2bmRaazhsenpRMlpwSm42VVAzRS1GUEdxVG1HTjNQN2l2OTB1MS1OQXRLUEREVVEwd1BDeFdUVlBRc3F1RjhrdllWN1JzWXdvakJ0dEsxeUhxM0Z0LXYtbFhFT0RSSGd4cHkyNGhSU1JlNlMtcEFrT2N4SG01MU1kSzBwMWVZbkdIbTA2TlJJRXRjdjhXNFRyMjd4VkVybXFPX3hOek1pbGxfV0VqLTd0SHVVRnBjM2poUnhGZ9IB0wFBVV95cUxOcnhXaGc0dmhnbDRvZjRXakUwc25hY2EwM2J5QVUwSDlQZkw2WlktOUpNdjBWaEZkTlZpWWRINGlpcWNrVkNwdGQ2UWxDRTNGeW1Udkozak9Ld2Y2bUtrNWx2YzBSY1V1VGdiS0pyYUlFdWZ2MTZYSmU1WkhsT1dHMkx2cklCdXl3d3FjQVk5aFZBM2VsY1Rza1h3U0tKaDZ4VzJWeHFfZTVwRXNsQThRWTJYZFJvbGtfSS1MQ1Q3U3Y4Zm15TmM1eFNrQ1lNUHNXUWZ3?oc=5",
-     "source": "Business Standard"
-    },
-    {
-     "title": "Federal Bank Shares Jump 4% After Acquisition Comments, Jana SFB Falls Nearly 10% - NDTV Profit",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWWcyR2c4X1V2MlIwUHVkSUd5dTRkX19ELTNFUTE4eEFLeFlwbTVfbTY1Z1hUdGJwZlFBcThSZEI1a2Y1a3d2a3lVaWNyZ0hRWXdIcW9lSmRmSXlYR045YlJQNGFHalpSVGNkVzV3eGNEdFhSWklzTDNSSUNGUFItTEtYVENWd1JEYjc1VDkwOS1VZTZHYlBRd01jekxCMDk3T1F4a3RYcklmUmNYdjlzUEFVU09ieEZBQktSaGdkMFEtSmJRWG92VXBjSllUZXNLakJPUk1PVy1keVJrWFlIZnNZSdIB6wFBVV95cUxOd3Y5NWJHYXIxQnpHSnh1bTZPNTVOWEpMM1FpeU5YLWd0aDJNUnB4aUItUG16UjdtVUpuZ01DZmIxS3NJdlhtQXVGOUdfZTFjd29GMHFfWFJuRWtBcVVnaFJYcHUyZVg4THZ0Z1BJbUxqLUcwRTJRdGtPN0ZRUTh5VFZkNUlmTEJ0UXNDamM5bmMzdUh2djNjal9Pa042YV9NTjBLMWNSWlFMTDJkQmZYSkFmREFWUU9uRnc0WFdNbG9VUXFFZ1dRWXRaZGZaMVJiVTIyaFZYSUNmWldJYXJTM2ktVHREQlh3OFVN?oc=5",
+     "title": "Zomato-Parent Eternal Shares Slide Over 3% Ahead Of Q2 Results; What To Expect? - NDTV Profit",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVnduemlxR2V4QWwtc0xTV2lfRDdCeTc0aDYwSDkwOEViRkgweWF2azQwaHdSVnJPZlo4b2g3R0J5T1hySjk0YVJTeFJfM0FtSzBpVElkanNPZ2xFeWZic2lsUkU4WjF6WTNxLVg1bE5wSkhJU2hWY3BIVk5FcExDR3NJNmFMRjdCbElHZklleXRKV0Qwb3cxTWlyZldIcmtVUTlGQlRLVlo0MWNFR2dVNnpEYmNYZnJUWUFsRjFlUdIBxwFBVV95cUxQMXZrdTRmU2hKRVNHQTlLVy0xVU9RelNWN19XMllNUmJuaEVvcVVMTWdLbVVOZm8zV0dNczZvWEVxX201ZGcyaTVoa3Jib2NMb1pIazVOVHYtNFhVaUU4UGxhSWVGYnMyS0F5MUxXdUdMMzJjdU1QTnZQY1ZVUzJHVUZQcVVtZWwyd3VOTmZlTmtsVHgzaG5YdWUyOHl1NklNWDQwSU1mMmp3N1hMTzZ0cXdiZFo5d2lxY3BISVU3MWZlRmxsQTM0?oc=5",
      "source": "NDTV Profit"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "LIQUIDBEES",
-   "close": 1000.0,
-   "stop": 998.69,
-   "target": 1001.97,
-   "score": 45,
+   "symbol": "ICICIBANK",
+   "close": 1403.0,
+   "stop": 1349.61,
+   "target": 1483.08,
+   "score": 55,
    "parts": [
-    70,
-    35,
+    100,
+    44,
     25,
     50
    ],
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 55, volume 0.7x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 59, volume 0.6x its 20-day average.",
    "verified": true,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "ICICI Bank Share Price Today, ICICI Bank Stock Price Live NSE/BSE Updates - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX203dWxrZzRtNEZVQVFkRUVXMVdIblBYdzRjQmw5em14S3g4MVlqQkZreTRzdUtfR2oxdEplVnQ3dW1WSWl3bjNPeG5EWVhwU3dBanNmT2RReDRoRWZnRkdOamNfdTdDMUJaYmFreW0tUEduS1NmRjFUX1dyelVSbXd5bw?oc=5",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "ICICIBANK Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kYVhJNHdOWnMwcEkwMTVPZ0lMSm52Nzg0SlZEVHpBc2tNV2VkelBkcU95NnRLck13OGVLRlpHc0U2d1FQZ2tSTm1rM2U2SV9Na05SNS13RlNIOS1LZUstQk9vQlhDZlhVY0lhVw?oc=5",
+     "source": "Equitypandit"
+    },
+    {
+     "title": "From SBI to ICICI: Major banking data breaches, cyberattacks in India - Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkU2OHBzT24tdUNaS1VtaE1LTnVUMFpxSHpDV2JkU1BBVl9OSVRjRFZDLVFlQ3dSZ2VXUnM0TUlRYmV5TmZQNzFnYlQxY2VoZDVqOUxhOEs5d0lIaEJOT0s3QWUyNzB6Rlc0V18tOHRqZ3JPSkphYmM4VHljYXBGd0pGczBvN2ZHTmRzeWhJMjhnTW00dEt5ajZPVkFIc044THdiS3c4YTNLMGkwaVdiVldISk5sSmJKZllKbE51NDhmTGJJVU1NQ2NwNUY0a1dLbkNxSdIB2gFBVV95cUxONThrd2gwY1YzTHdqNGhIc1B3UEltWUhFeG4wM0t0b0NqS19OaldRV2RsYkRueGRfZmpjWHJzbFFOVUZEVnM3aG1RNFBnM3JiLS1ZUHhNVUVjeUhBVjJSVS1zVmpCX3VnblBva2NlbDZoYzZCUzhaU2pMejFWYzRoVHRSQU1iYTNlVjR0UWt2OG43MDlfVDF2Nlg2ekRrVVA2R1VTRnUzdjZwV1pQazZmR2RmNE1aZEdoMHdEUU1NWWxGUEpVMmRLQ21kMHFteXpUeDR1QTNYc2pzUQ?oc=5",
+     "source": "Business Standard"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "FEDERALBNK",
+   "close": 344.4,
+   "stop": 323.11,
+   "target": 376.34,
+   "score": 54,
+   "parts": [
+    100,
+    40,
+    25,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 57, volume 0.8x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Federal Bank Share Price - Live NSE: FEDERALBNK Stock Price & Chart - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BcE9nQTIzUUlNWXVVNTB4OTZVZkV3cXJLRVB1N1VyMzUzc1RGaFgyZnhtemZiUjhWMHBaRzJSWkdZQXhqM2NFRDNDbXdNaG9fYnhEdnloczl3UzFvUXdJeTJsNE5GZw?oc=5",
+     "source": "Upstox"
+    },
+    {
+     "title": "Federal Bank sets Aug 21 AGM; seeks approval for \u20b910,000 Cr bond issuance - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUFvRTZzNlNzTVZuOXBaeG9yQUhPUjQ0cE9CRTNHblJBR3BmajRVcEJLVG9jd29KUmRrd0IzUVluWUtld1ZhbWtmX2ZDM2wwYjFTV1pOdjhKMmptNWhkQl83bkNhR0pTYXlfYjlFbWV4VEFfaFYzM0RLZ29SbHlxcEF4dWc0enU3MEFYQ0o3aDROb2xRVGZRWEI0YUJIRnFFLUNOdnZ6ZG5FUjFTZUNpNWhmMTY2S0Q4Nms4?oc=5",
+     "source": "scanx.trade"
+    },
+    {
+     "title": "Stock to buy today: Federal Bank (347) \u2013 BUY - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWFhJalhzTGVibENEZEpueDJYTkZKU2FfX0RMZnNTY01NLW1UMzFfQWtCRU0tek1kb0ZOcXA1aWJ6ZjNFdm9HRlZESjJTYTZnbFBtS01GdHlQY3BINWx1NTVOaTdON1RwVmZnUTR3bnI0RnBwZGlBdGI4LTNPQ1pCNE5PTWlrSzdwNVlhMXh5YlZrZFNRelUtNFl2a3hHTmZGMlZSRE0wRmZOMFR3Q21Pd0N2OGg2WU9KNHNmbEpWakZVMnfSAcoBQVVfeXFMTjR4c19kcjBaNzBtZ0Jxdkp1c0llbkFpU2FkZGRxRDBjQ3B2QjV0cmRaUWVBM1JsMzFXdzRjOEM4cjY5NUROdnB2X1BvNmhWLTFtRnh4YURyc2Y5Y0lBLU95cTBvZ0NyRzVMbGo5cWx4MVNCSnF5aEE0S3hQVjFRVFVzRWRCWk5RQVlyLV9JTXc2cWMyVVRKVC1wZmFZYWM5TWxjaktVdDZlLXl0a3VuTFI2TjM2b2l3X2NLcG81Sm5kTlZUWnoybUNTdw?oc=5",
+     "source": "BusinessLine"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "BHARTIARTL",
+   "close": 1917.5,
+   "stop": 1820.37,
+   "target": 2063.19,
+   "score": 49,
+   "parts": [
+    70,
+    50,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 62, volume 0.4x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Analysis ahead of Reliance Jio IPO: Bharti Airtel is better or Mukesh Ambani shares? Top value things before bid opens - Livemint",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXc4R0E3RHJqZGRILTdFa01GVVlmYUw2dTJQZy1TZVR1Z3k2aUtwMWxXOEtaM0xSMXg0VGx6X1pjX1p4UlBSTlRrcFhXNWttWmFMNVRaQkNyV2hGSGJxdEhZTVRRaDVrUDNWWm5SX3NKUk1kRGpmQ2tBeVFmcm5kS29fZWlPQU42cU1tbkhkVjZ2Si12N3V6N3BQdUdwVmZnU0hsdncyOFFDTWNhd3JlZno5NldLUDdKcWdYei1fZE0tNHUzTk9hcEd1OUYzRFY0TkJfbGpydF82Y2JwY192STRGX3ZVdkM4T1MzT09pWkhWU3J3NHBEbGN0MkRaRUJCelHSAYcCQVVfeXFMTnM1ZHVXY0ZpRXA5R0RkSWt4X3d0TFFDdlUyTThIVW1xNnc5SDZKblNibThpNXl6US1xbEtEOFFfM24zc1NIdlk0aV9tSDdBT3h3aE56eDBBZDRuSThmMWtvOGREQUZQOFBIRTVQNUNXamxXNmNaT1RuNW01NkNEaS1QeFpaZnNWLU9XSW5vWTRMM3hGbkhYd1I3aWlnMEpFeHZOSVBIa3hXMEYtdTA2U0dBa2ZrZEtoTXN5UDhHS2xjNk5jWXllaTRsbUI0M3F4eGxFSmFhQjRIaklGb2k5cnpLVzMxcUU1OXFRb2lNZGM3VmNVOEdETU1maWtGck45NUY3ZFNqWXM?oc=5",
+     "source": "Livemint"
+    },
+    {
+     "title": "Bharti Airtel Share Price - Live NSE: BHARTIARTL Stock Price & Chart - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yVGN2YlBzbU5xc0FJSkctUlVUMzAzSHdiOENtSzV1TlJyZHhSVGZIVVVyUEw0MVpwMm1HVDRxOGM3akMyaGhNaUZUZ09TQ0N4b2Vjd3lLaW1DaEg4QXRJbU5BQjZJcjN3MGlBSQ?oc=5",
+     "source": "Upstox"
+    },
+    {
+     "title": "Tech Query: Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals \u2014 What is the outlook? Where are these stocks headed? - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOYzNxbTN4OWl5Q0RETVZqUVYtNjZ6a1U3dEo0Nzh0c1JjLWlQWld4TmNxdFhsUVlsdUo3R3FEcF9ia0tkTkpOZHgtX3o5UmYzRExicW5HZjR0Wl9fNlVFc0U3Z2NVZFlDRHVUYk4xVTFwb3pMQTBqSHFwUjZnUmJGVFBIWi1RS08zSnpFeG9NRF91UkxSNGVHODhPaTREdTlWTXN3S1BXNE02aUcwXzNHWk9rVWhUR0dnems0dGQ0WXJVd01oQVR5b0J5d2pqOVFMRlRtN1o4bEkwb2pSOGJXeC1hWWNGU0lDS2dfbF9TZEdOQmh6UEROUUlpVU93ZWEzTHVQWHBlR3RZR01XTWtoWmZJZnNuVEdacEtpa05UVktpRlB0d0xxSFVQOFhQZWhHSnFaZkVab2U3RVVfQ1HSAcQCQVVfeXFMTnZHSTQweTU0MDh6RzRBVlI0bGM1b0hQeTFDM3Vvd3d1TDc2T3Vlb19tYlNvbU1PRE8wRFU5U0syT1dHTjIxNE9VcS1wRzl6dm5uOEdGSmhodXg3THVpTlA2Y1ZSdmQxck5SRHc3eVItcnBhcEZRRDJMQVY4dFBfVFVDU3lHN0FJM2JGMVltc3FYb2dTb2d0bko5Qk11Y0E5ZVEyTWpsZGhyVkNYM2szUXZKaV9HYldyTDZGV0s3N3lBQXp3TkFEbFlZdGdyR3JlZ1B0dy1TS05DTUtEdmM1bEt4ejNuOUR6R3pRWTQ0aVp2U0hmbFR0UTIyUTQ4eEEtWk9PVHdtYUdhZF9NRkZVZlFaUk82LUZhSlhWVnpKRXBDZUNMNTFONmZQQ2M0eURudW82NUpmTEhJcFZVcVN3SFFHcEpq?oc=5",
+     "source": "BusinessLine"
+    }
+   ],
    "flags": []
   }
  ],
  "etf": [
   {
-   "symbol": "JUNIORBEES",
-   "close": 708.96,
-   "stop": 700.3,
-   "target": 760.93,
-   "score": 58,
-   "parts": [
-    30,
-    50,
-    100,
-    50
-   ],
-   "pattern": "Weak trend, below 200-day average",
-   "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 25.",
-   "verified": true
-  },
-  {
    "symbol": "ITBEES",
-   "close": 35.62,
-   "stop": 33.45,
-   "target": 38.87,
-   "score": 57,
+   "close": 35.99,
+   "stop": 33.69,
+   "target": 39.44,
+   "score": 46,
    "parts": [
     70,
-    83,
+    38,
     25,
     50
    ],
    "pattern": "Pullback inside a long-term uptrend",
    "timeframe": "1-3 months",
-   "why": "Pullback inside a long-term uptrend, RSI 68.",
+   "why": "Pullback inside a long-term uptrend, RSI 70.",
    "verified": true
   },
   {
-   "symbol": "NIFTYBEES",
-   "close": 257.22,
-   "stop": 253.93,
-   "target": 270.75,
-   "score": 43,
+   "symbol": "JUNIORBEES",
+   "close": 718.04,
+   "stop": 703.36,
+   "target": 770.53,
+   "score": 46,
    "parts": [
-    0,
-    22,
+    30,
+    6,
     100,
     50
    ],
    "pattern": "Weak trend, below 200-day average",
    "timeframe": "1-3 months",
-   "why": "Weak trend, below 200-day average, RSI 41.",
+   "why": "Weak trend, below 200-day average, RSI 32.",
+   "verified": true
+  },
+  {
+   "symbol": "NIFTYBEES",
+   "close": 259.4,
+   "stop": 254.41,
+   "target": 272.94,
+   "score": 37,
+   "parts": [
+    0,
+    13,
+    86,
+    50
+   ],
+   "pattern": "Weak trend, below 200-day average",
+   "timeframe": "1-3 months",
+   "why": "Weak trend, below 200-day average, RSI 46.",
    "verified": true
   }
  ],
  "long": [
   {
    "symbol": "DIVISLAB",
-   "close": 8950.0,
-   "stop": 7339.0,
-   "target": 11635.0,
-   "score": 72,
+   "close": 9050.0,
+   "stop": 7421.0,
+   "target": 11765.0,
+   "score": 73,
    "parts": [
     100,
-    80,
-    58,
+    81,
+    60,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 42% in 6 months, above its 200-day average, worst fall 12%, volatility 25%. Fundamentals not checked.",
+   "why": "Up 44% in 6 months, above its 200-day average, worst fall 10%, volatility 25%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "FEDERALBNK",
-   "close": 340.9,
-   "stop": 299.08,
-   "target": 443.17,
-   "score": 63,
+   "close": 344.4,
+   "stop": 299.45,
+   "target": 447.72,
+   "score": 64,
    "parts": [
     100,
-    48,
+    52,
     55,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 15% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
+   "why": "Up 16% in 6 months, above its 200-day average, worst fall 15%, volatility 23%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "MOTHERSON",
+   "close": 153.75,
+   "stop": 134.63,
+   "target": 199.88,
+   "score": 61,
+   "parts": [
+    100,
+    56,
+    37,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 21% in 6 months, above its 200-day average, worst fall 22%, volatility 31%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "PAYTM",
-   "close": 1616.1,
-   "stop": 1325.2,
-   "target": 2060.58,
+   "close": 1654.7,
+   "stop": 1356.85,
+   "target": 2136.42,
    "score": 60,
    "parts": [
     100,
-    71,
+    74,
     18,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 39% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "MOTHERSON",
-   "close": 151.67,
-   "stop": 134.47,
-   "target": 197.17,
-   "score": 58,
-   "parts": [
-    100,
-    46,
-    36,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 15% in 6 months, above its 200-day average, worst fall 22%, volatility 32%. Fundamentals not checked.",
+   "why": "Up 42% in 6 months, above its 200-day average, worst fall 29%, volatility 41%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "TECHM",
-   "close": 1790.0,
-   "stop": 1475.37,
-   "target": 1984.21,
-   "score": 55,
+   "close": 1795.0,
+   "stop": 1476.36,
+   "target": 2028.34,
+   "score": 56,
    "parts": [
     100,
-    37,
+    44,
     32,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 22% in 6 months, above its 200-day average, worst fall 25%, volatility 33%. Fundamentals not checked.",
+   "why": "Up 26% in 6 months, above its 200-day average, worst fall 25%, volatility 33%. Fundamentals not checked.",
    "verified": true
   }
  ],
  "notes": [
-  "Checked against BSE: 13 match, 0 not tagged, 0 removed.",
-  "News: headlines found for 4 of 5 picks (simple keyword check, not a full reading)."
+  "Checked against BSE: 14 match, 0 not tagged, 0 removed.",
+  "News: headlines found for 6 of 6 picks (simple keyword check, not a full reading)."
  ]
 }
