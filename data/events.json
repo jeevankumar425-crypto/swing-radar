@@ -1,5 +1,29 @@
 [
  {
+  "t": "2026-10-29T00:06+05:30",
+  "d": "2026-10-28",
+  "k": "New pick",
+  "m": "HEROMOTOCO entered your swing picks (score 51, Near 20-day high)."
+ },
+ {
+  "t": "2026-10-29T00:06+05:30",
+  "d": "2026-10-28",
+  "k": "New pick",
+  "m": "MOTHERSON entered your swing picks (score 41, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-10-29T00:06+05:30",
+  "d": "2026-10-28",
+  "k": "Data check",
+  "m": "Checked against BSE: 17 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-10-29T00:06+05:30",
+  "d": "2026-10-28",
+  "k": "News",
+  "m": "News: headlines found for 7 of 7 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-10-28T00:00+05:30",
   "d": "2026-10-27",
   "k": "New pick",
@@ -214,29 +238,5 @@
   "d": "2026-10-14",
   "k": "Data check",
   "m": "Checked against BSE: 14 match, 1 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-14T23:12+05:30",
-  "d": "2026-10-14",
-  "k": "Data check",
-  "m": "Kept without tag: ETERNAL on 08 Oct: NSE 319.05 vs BSE 323.00, 1.2% apart"
- },
- {
-  "t": "2026-10-14T23:12+05:30",
-  "d": "2026-10-14",
-  "k": "News",
-  "m": "News: headlines found for 3 of 4 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-14T01:11+05:30",
-  "d": "2026-10-13",
-  "k": "New pick",
-  "m": "DIVISLAB entered your swing picks (score 69, Pullback to 50-day average)."
- },
- {
-  "t": "2026-10-14T01:11+05:30",
-  "d": "2026-10-13",
-  "k": "Data check",
-  "m": "Checked against BSE: 12 match, 2 not tagged, 0 removed."
  }
 ]
