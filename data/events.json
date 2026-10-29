@@ -1,5 +1,41 @@
 [
  {
+  "t": "2026-10-30T00:15+05:30",
+  "d": "2026-10-29",
+  "k": "New pick",
+  "m": "KOTAKBANK entered your swing picks (score 63, Breakout with volume)."
+ },
+ {
+  "t": "2026-10-30T00:15+05:30",
+  "d": "2026-10-29",
+  "k": "New pick",
+  "m": "JSWSTEEL entered your swing picks (score 51, Near 20-day high)."
+ },
+ {
+  "t": "2026-10-30T00:15+05:30",
+  "d": "2026-10-29",
+  "k": "New pick",
+  "m": "MARICO entered your swing picks (score 50, Breakout with volume)."
+ },
+ {
+  "t": "2026-10-30T00:15+05:30",
+  "d": "2026-10-29",
+  "k": "New pick",
+  "m": "PAYTM entered your swing picks (score 50, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-10-30T00:15+05:30",
+  "d": "2026-10-29",
+  "k": "Data check",
+  "m": "Checked against BSE: 20 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-10-30T00:15+05:30",
+  "d": "2026-10-29",
+  "k": "News",
+  "m": "News: headlines found for 9 of 9 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-10-29T00:06+05:30",
   "d": "2026-10-28",
   "k": "New pick",
@@ -202,41 +238,5 @@
   "d": "2026-10-15",
   "k": "New pick",
   "m": "PAYTM entered your swing picks (score 48, Pullback to 50-day average)."
- },
- {
-  "t": "2026-10-15T23:02+05:30",
-  "d": "2026-10-15",
-  "k": "New pick",
-  "m": "ETERNAL entered your swing picks (score 45, Pullback to 50-day average)."
- },
- {
-  "t": "2026-10-15T23:02+05:30",
-  "d": "2026-10-15",
-  "k": "Data check",
-  "m": "Checked against BSE: 18 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-15T23:02+05:30",
-  "d": "2026-10-15",
-  "k": "News",
-  "m": "News: headlines found for 7 of 8 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-14T23:12+05:30",
-  "d": "2026-10-14",
-  "k": "New pick",
-  "m": "TECHM entered your swing picks (score 71, Breakout with volume)."
- },
- {
-  "t": "2026-10-14T23:12+05:30",
-  "d": "2026-10-14",
-  "k": "New pick",
-  "m": "LIQUIDBEES entered your swing picks (score 59, Near 20-day high)."
- },
- {
-  "t": "2026-10-14T23:12+05:30",
-  "d": "2026-10-14",
-  "k": "Data check",
-  "m": "Checked against BSE: 14 match, 1 not tagged, 0 removed."
  }
 ]
