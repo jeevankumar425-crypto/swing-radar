@@ -1,5 +1,47 @@
 [
  {
+  "t": "2026-10-30T23:51+05:30",
+  "d": "2026-10-30",
+  "k": "New pick",
+  "m": "COFORGE entered your swing picks (score 72, Breakout with volume)."
+ },
+ {
+  "t": "2026-10-30T23:51+05:30",
+  "d": "2026-10-30",
+  "k": "New pick",
+  "m": "PERSISTENT entered your swing picks (score 60, Breakout with volume)."
+ },
+ {
+  "t": "2026-10-30T23:51+05:30",
+  "d": "2026-10-30",
+  "k": "New pick",
+  "m": "APOLLOHOSP entered your swing picks (score 55, Near 20-day high)."
+ },
+ {
+  "t": "2026-10-30T23:51+05:30",
+  "d": "2026-10-30",
+  "k": "New pick",
+  "m": "INDIGO entered your swing picks (score 49, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-10-30T23:51+05:30",
+  "d": "2026-10-30",
+  "k": "New pick",
+  "m": "CIPLA entered your swing picks (score 42, Near 20-day high)."
+ },
+ {
+  "t": "2026-10-30T23:51+05:30",
+  "d": "2026-10-30",
+  "k": "Data check",
+  "m": "Checked against BSE: 21 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-10-30T23:51+05:30",
+  "d": "2026-10-30",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-10-30T00:15+05:30",
   "d": "2026-10-29",
   "k": "New pick",
@@ -196,47 +238,5 @@
   "d": "2026-10-19",
   "k": "News",
   "m": "News: headlines found for 7 of 7 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-16T22:38+05:30",
-  "d": "2026-10-16",
-  "k": "New pick",
-  "m": "FEDERALBNK entered your swing picks (score 64, Breakout with volume)."
- },
- {
-  "t": "2026-10-16T22:38+05:30",
-  "d": "2026-10-16",
-  "k": "New pick",
-  "m": "BHARTIARTL entered your swing picks (score 61, Breakout with volume)."
- },
- {
-  "t": "2026-10-16T22:38+05:30",
-  "d": "2026-10-16",
-  "k": "Data check",
-  "m": "Checked against BSE: 19 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-16T22:38+05:30",
-  "d": "2026-10-16",
-  "k": "News",
-  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-15T23:02+05:30",
-  "d": "2026-10-15",
-  "k": "New pick",
-  "m": "ICICIBANK entered your swing picks (score 61, Breakout with volume)."
- },
- {
-  "t": "2026-10-15T23:02+05:30",
-  "d": "2026-10-15",
-  "k": "New pick",
-  "m": "HCLTECH entered your swing picks (score 57, Breakout with volume)."
- },
- {
-  "t": "2026-10-15T23:02+05:30",
-  "d": "2026-10-15",
-  "k": "New pick",
-  "m": "PAYTM entered your swing picks (score 48, Pullback to 50-day average)."
  }
 ]
