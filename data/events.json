@@ -1,5 +1,29 @@
 [
  {
+  "t": "2026-11-04T01:25+05:30",
+  "d": "2026-11-03",
+  "k": "New pick",
+  "m": "MARICO entered your swing picks (score 64, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-04T01:25+05:30",
+  "d": "2026-11-03",
+  "k": "New pick",
+  "m": "BHARTIARTL entered your swing picks (score 51, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-04T01:25+05:30",
+  "d": "2026-11-03",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-04T01:25+05:30",
+  "d": "2026-11-03",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-03T03:33+05:30",
   "d": "2026-11-02",
   "k": "New pick",
@@ -214,29 +238,5 @@
   "d": "2026-10-22",
   "k": "New pick",
   "m": "BHARTIARTL entered your swing picks (score 55, Breakout with volume)."
- },
- {
-  "t": "2026-10-22T23:18+05:30",
-  "d": "2026-10-22",
-  "k": "Data check",
-  "m": "Checked against BSE: 15 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-22T23:18+05:30",
-  "d": "2026-10-22",
-  "k": "News",
-  "m": "News: headlines found for 7 of 7 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-21T23:19+05:30",
-  "d": "2026-10-21",
-  "k": "New pick",
-  "m": "COFORGE entered your swing picks (score 58, Near 20-day high)."
- },
- {
-  "t": "2026-10-21T23:19+05:30",
-  "d": "2026-10-21",
-  "k": "Data check",
-  "m": "Checked against BSE: 15 match, 0 not tagged, 0 removed."
  }
 ]
