@@ -1,5 +1,41 @@
 [
  {
+  "t": "2026-11-05T01:43+05:30",
+  "d": "2026-11-04",
+  "k": "New pick",
+  "m": "TITAN entered your swing picks (score 66, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-05T01:43+05:30",
+  "d": "2026-11-04",
+  "k": "New pick",
+  "m": "FEDERALBNK entered your swing picks (score 57, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-11-05T01:43+05:30",
+  "d": "2026-11-04",
+  "k": "New pick",
+  "m": "KOTAKBANK entered your swing picks (score 56, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-05T01:43+05:30",
+  "d": "2026-11-04",
+  "k": "New pick",
+  "m": "ADANIPOWER entered your swing picks (score 55, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-05T01:43+05:30",
+  "d": "2026-11-04",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-05T01:43+05:30",
+  "d": "2026-11-04",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-04T01:25+05:30",
   "d": "2026-11-03",
   "k": "New pick",
@@ -202,41 +238,5 @@
   "d": "2026-10-26",
   "k": "Data check",
   "m": "Checked against BSE: 14 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-27T00:28+05:30",
-  "d": "2026-10-26",
-  "k": "News",
-  "m": "News: headlines found for 6 of 6 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-23T23:08+05:30",
-  "d": "2026-10-23",
-  "k": "New pick",
-  "m": "PERSISTENT entered your swing picks (score 74, Pullback to 50-day average)."
- },
- {
-  "t": "2026-10-23T23:08+05:30",
-  "d": "2026-10-23",
-  "k": "New pick",
-  "m": "LIQUIDBEES entered your swing picks (score 45, Near 20-day high)."
- },
- {
-  "t": "2026-10-23T23:08+05:30",
-  "d": "2026-10-23",
-  "k": "Data check",
-  "m": "Checked against BSE: 13 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-23T23:08+05:30",
-  "d": "2026-10-23",
-  "k": "News",
-  "m": "News: headlines found for 4 of 5 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-22T23:18+05:30",
-  "d": "2026-10-22",
-  "k": "New pick",
-  "m": "BHARTIARTL entered your swing picks (score 55, Breakout with volume)."
  }
 ]
