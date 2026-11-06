@@ -1,5 +1,41 @@
 [
  {
+  "t": "2026-11-07T01:18+05:30",
+  "d": "2026-11-06",
+  "k": "New pick",
+  "m": "CIPLA entered your swing picks (score 58, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-07T01:18+05:30",
+  "d": "2026-11-06",
+  "k": "New pick",
+  "m": "BAJAJ-AUTO entered your swing picks (score 58, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-07T01:18+05:30",
+  "d": "2026-11-06",
+  "k": "New pick",
+  "m": "PAYTM entered your swing picks (score 56, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-07T01:18+05:30",
+  "d": "2026-11-06",
+  "k": "New pick",
+  "m": "DIVISLAB entered your swing picks (score 55, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-07T01:18+05:30",
+  "d": "2026-11-06",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-07T01:18+05:30",
+  "d": "2026-11-06",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-06T01:56+05:30",
   "d": "2026-11-05",
   "k": "New pick",
@@ -202,41 +238,5 @@
   "d": "2026-10-28",
   "k": "New pick",
   "m": "HEROMOTOCO entered your swing picks (score 51, Near 20-day high)."
- },
- {
-  "t": "2026-10-29T00:06+05:30",
-  "d": "2026-10-28",
-  "k": "New pick",
-  "m": "MOTHERSON entered your swing picks (score 41, Pullback to 50-day average)."
- },
- {
-  "t": "2026-10-29T00:06+05:30",
-  "d": "2026-10-28",
-  "k": "Data check",
-  "m": "Checked against BSE: 17 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-29T00:06+05:30",
-  "d": "2026-10-28",
-  "k": "News",
-  "m": "News: headlines found for 7 of 7 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-28T00:00+05:30",
-  "d": "2026-10-27",
-  "k": "New pick",
-  "m": "DIVISLAB entered your swing picks (score 60, Breakout with volume)."
- },
- {
-  "t": "2026-10-28T00:00+05:30",
-  "d": "2026-10-27",
-  "k": "New pick",
-  "m": "TECHM entered your swing picks (score 57, Near 20-day high)."
- },
- {
-  "t": "2026-10-28T00:00+05:30",
-  "d": "2026-10-27",
-  "k": "New pick",
-  "m": "LIQUIDBEES entered your swing picks (score 46, Near 20-day high)."
  }
 ]

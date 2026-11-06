@@ -1,56 +1,21 @@
 {
- "asof": "2026-11-05",
+ "asof": "2026-11-06",
  "swing": [
   {
-   "symbol": "MOTHERSON",
-   "close": 168.0,
-   "stop": 158.18,
-   "target": 182.73,
-   "score": 74,
-   "parts": [
-    100,
-    98,
-    25,
-    74
-   ],
-   "pattern": "Breakout with volume",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 63, volume 4.3x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Samvardhana Motherson International Limited (MOTHERSON.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZSjdnaWk5SjNyVWl3WjZOZXN6WGgyY2lJNUFVUTdaRW5WNUtYc1RrYXgxRkg3cGExUy1KdU1OUS1aUFlqRmliVUllb1JmRTJQSU1JcDNwWHJ5WHlY?oc=5",
-     "source": "Yahoo! Finance Canada"
-    },
-    {
-     "title": "MOTHERSON Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PVUJ6NjNNczFMQ1RrSnE2clRTOHdPeS1RRXM1U0F3UU5PbS1SU29pUUJWemdveW5KTXZoVW5peG9mdDlvV1JtR3hudEVuTHp4SEN6b3JGd2F5R2d6YWNZQUxyc2NaNGpuOHc2Tw?oc=5",
-     "source": "Equitypandit"
-    },
-    {
-     "title": "Motherson Sumi Wiring India share price rallies 13% on strong Q2 results | Check target, upside - Livemint",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaXRrd3lLcmw2OVBaMlYydTJtd0VhcDF6NUdiMmdyMWpjZUlKNjhUTzl1dk1aaFZTUWVvZGd4dGRSdjNIcm9GYVJRTVJNZFNXeTRxWmQ3cXoteXh3SjcycVhWNkVBcTgzSndieHFEa1BrdE5mbE1PRVh2OGpheHBMVkYyUUItSGR2dElVVWhWYWtQS0EzUzBQeklaWW5POHBIb1lxVkRXSWNBWTR5eTk0dkpjOUNwNUpxLWR5N1RVTFAyNDMzLTB3NzJVY0gzMEtfYWxHcHdBRWNqX3doMi1PYVZUbklReThrUWRGY1NlR0pXOTTSAfgBQVVfeXFMT0owN3VxQXBUWm5sQ0VkU19XNU5FSVFfTDlYMkxScXFab1M4SGhPeVB6RERuWVJiWUdWZTBRX1NUY2JhY1BEMTNRRlAyZWFnTEFRbC1Zb21RQkVuU2wxYTdjamNVUmNDc2xQRmRCX2FkNEl0RER5Sks0aXh0d0Q2UXJtQnR1S0RMUjNoaXBkbjlUUWtGWlBtTWJET0N2dnkwTmRFZkhwWV9wdE1VaVZTV3FfNzg0cE0yaEZsVENoUnRYSnZTakRaRWR3bTVwTXA1RjFMeS1xa2NGRENxWUpRclE1X2t0ajI0bV9rbExLMUNqZEZVdlNwYkw?oc=5",
-     "source": "Livemint"
-    }
-   ],
-   "flags": []
-  },
-  {
    "symbol": "FEDERALBNK",
-   "close": 338.5,
+   "close": 340.1,
    "stop": 329.5,
-   "target": 370.51,
-   "score": 69,
+   "target": 369.65,
+   "score": 68,
    "parts": [
     100,
-    26,
-    100,
+    35,
+    89,
     50
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 51, volume 0.8x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 52, volume 1.0x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -59,75 +24,70 @@
      "source": "Yahoo Finance UK"
     },
     {
-     "title": "FEDERALBNK Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8taXdiTldwRGNJdEpOSEdNMUhlREMydE9ZTWZ6cVBTWWVmaEIwUGRfNEhKTmZWaDF0enRva1ZEb0xTczZYY0hlWGFoMWFiS19OQzNTS1dwWUFYOGhzcVU1aFJ0QXZYN05BODNuWUhR?oc=5",
-     "source": "Equitypandit"
+     "title": "Samvat 2083: Bank Nifty Fell 4%, Federal Bank Gained 47%; 5 Stocks Offer Up To 32% Upside - NDTV Profit",
+     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZk9vUnF0UENOX1JKWXVtMFhwNkVVaVlvVTQ0QkxSUldMNW1vWWk1ZDM2NlY3Q3Q5TUhLOEx4NENwTGdBSXowd0VUVlZDazluOThwVmc5YkJqd2hra3lsR3BvYUtzOHVCZ05oX2NpWnVDcThWeUk2Zmg3emktSk92MmgtQUh1YzJoZE9YaGpBb0JhN3VZS2h2ejdEdkFFVUdDNEcyMGtBb0V4NzhzdWtydE1sMndRN183WkkxTGdNQ09xRVluRWtxYW04NDhIenMxMVBIYjhaOU5NNTZXQnBicFRpcGFFRDd5N0xQdUpGWFFGVlBqT05OUTJsTklkUVhzMjE2cEZla3FwMGI4c3F6Q9IBmAJBVV95cUxOUHZkM296MjJoSTVMdUNJUl9iQUNVaUdvdHUwc2tReVdZeHV4ZnBwZzFoR3FJdTBJa1dOYUZBUnUzelE3ZFhwUXhqMlBNQzZ0Y3hIRDUxdEdLbThNU2dla3c5SENXWEhaM01kd01TQTI0aVlaYi1PWVhPRlZwdnRhS0FFUkJzWU9HSmtnSWlSazYxR200WDlCeXJzcVdLSEtSVEx3X0s0ZEp0VTlHSU5vRDZIRXlJWFk3YldnanNtV3ZWejFDVW9QN3RXandKcFVmNDEyUlVFX292WkNNeEc1bDR5d3FjWHRHTjBxWm9uQVhRN2NLUmFJQXVOOGZGV2wwY2FRak11Y3FyUHBqSzVHbnV1NmgwMGNv?oc=5",
+     "source": "NDTV Profit"
     },
     {
-     "title": "The human override: Federal Bank\u2019s MVS Murthy on keeping AI in check in banking - Adgully",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenhsTzdNOHVKbGxwbzR3TldaczcyV05YOTg0UFBUR3RRc1VXLUtXdVRPM2dJTmotUjFYWjl2Rm5HM0xYelFaRDFaWGVPLS1yWFNYUDFfZ0djbGotMTlwTVdvMU5DQjZSNXZCWng5SEctU0hLeTlCVDliQnJ3Y3hjMk5pQ2s0R2pkREJBZEEzQlQtcjNuZDdjZHZrWm0zcTdaRnJYR3lFa2UxWkZoQzZFb09n?oc=5",
-     "source": "Adgully"
+     "title": "Federal Bank (NSEI:FEDERALBNK) Stock Price - Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3YTJoSW05ZlY0M2UtRjRicTV1ekt4TDVjdHhFanpVTTIwWnd4Wl9xRHY2WHFiampjVEowbzlwdk1MNXdNWWRwamoxSUVBM2J5RVc5dlpB?oc=5",
+     "source": "Simply Wall St"
     }
    ],
    "flags": []
   },
   {
    "symbol": "TITAN",
-   "close": 4834.6,
-   "stop": 4619.8,
-   "target": 5156.8,
-   "score": 65,
+   "close": 5000.0,
+   "stop": 4746.47,
+   "target": 5380.29,
+   "score": 68,
    "parts": [
     100,
-    72,
+    73,
     25,
-    62
+    74
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 68, volume 1.7x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 74, volume 4.7x its 20-day average.",
    "verified": true,
    "headlines": [
-    {
-     "title": "Titan Company Q2 results preview: Profit may rise up to 27% YoY; jewellery growth, margins in focus - The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdVBjcHp6NEJXWFp1N3hOR3Fla1ZBM0FJTjIxbGFpZEtuYjhRRzlvbEhSd2Y5TlhVQW1xU3lyWkQxT3BPYmFQUnFSMzBXTDJDX3BWRG43bHl2Q3l6Rkd3WFdJS3RHRVd4Z0I0OGN1ZXJvWHBxMzlBczdzVTNjWjJTZ0MyUnRlUm1DNVdUZy1KZDJja1FWcUs4aDRsN1BEaHpkaWJTNURoNTJzSWlISGlUYWM3WkFpQlBvSVN0cW1RRUo0NTItand1TGNnNjNVWDNORThjMmJuZnhBU2sxSzJSOUIyLTBOdlJINmxyWWlScDN5aXdHZnRVNExKSVVId3BqTXl30gGIAkFVX3lxTE16U2NRTm9SanVENUE2M0I2Qy1oZjRkUnQyYTNlLXJtU2F0bGhjRG96QU1ZdXQtVk1hOEpwUnJHd3l5N2ZmRjlFZGlsNGoyN0pNNnRiTHA4Sk9zcnRhR3NNOV9tZjJpamJRVE1pVWhaY1FsNXdHa2JnYnptRzVoRVVWQmxDSzlSejFLQ19YazV2ejBGVllWNnNvbzFPcWdfdDNXbDB0eG9KeTdMQi01Skd1N3RoVHFqRXJVNmdLOGozWm91dWR1c3ZwWjRiRHQzNXc4Z2tBUUdkNlFWQzlyZzlsdVNQWENxNEdsSmNFZ1BFMXRPc0RSUFZMOG9rMjBzc05UaU1hbzNJVw?oc=5",
-     "source": "The Economic Times"
-    },
     {
      "title": "Titan Q2 results: Net profit more than doubles to Rs 2,393 crore, beats estimates - Moneycontrol.com",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGtNdGtQYlZXdnM4YThGN25ib0lxVXVDcnpka2xWRTdGUjBKLVN3WjhGR1JYN1FZTmh2bjBpOUxKcTRqSkJfWDdObTVhYVFvMWd1QjhvQ1AyYzI3WWMwWERTWTlxS0E1SjZQdWl2X2liVHFEYkZtMmg5RFdjaUp4aXJ2ZEJqM3pVbl8xamlGZ0pRdGxOSktVNHlKNTYzZUZCczRaY1RnVngtb2JTaDN4MERyNEFYRklkd1c0MGYwS1RGMmFrN1QxSk80YkxXOUVTSTBvVFdKQmpZaXFmVkHSAeMBQVVfeXFMTndSZTJfQlVnODIzcm1zQ1oyUEFfeEYzbDRqQlV2QTJobktiMVY2OG9uMDV5bnJGMEg2aHhXcUx4V3hCTVQ5X0pxNzFZak8wcWJYY0VRNVVBOXNNMmI3aTA5VFhKNzctOWt2TTV0cWo2ckhsU3V2Zml4SkRUM1pCc2lobFI4MUM5azdRVDlOaFE3UGdZc3lZbS1WR3I4YlFkb1R6dWd0Uk9DbUtBVG4zOHk2T2EzWUUtUHJNajZYVG0xU0FORUdkZkJ6WFZKLU1iNmdlMFBmLVdzaGx6UFF4VWZ0eUE?oc=5",
      "source": "Moneycontrol.com"
     },
     {
-     "title": "Titan Company (TITAN) Share Price Today (NSE), Market News - TechGraph",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtUnczTmVTV1gwZmlhQ1QyNjczRjZTM3g5NzdRVDhOMTFDWTlOd2M1WHdrNGhhQUhFdVNPQ1dSak9VQWRvZWVVLWpIcjJtcjBoeDFUUHdmajAzTm1WUnc?oc=5",
-     "source": "TechGraph"
+     "title": "Titan Company Q2 results preview: Profit may rise up to 27% YoY; jewellery growth, margins in focus - The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdVBjcHp6NEJXWFp1N3hOR3Fla1ZBM0FJTjIxbGFpZEtuYjhRRzlvbEhSd2Y5TlhVQW1xU3lyWkQxT3BPYmFQUnFSMzBXTDJDX3BWRG43bHl2Q3l6Rkd3WFdJS3RHRVd4Z0I0OGN1ZXJvWHBxMzlBczdzVTNjWjJTZ0MyUnRlUm1DNVdUZy1KZDJja1FWcUs4aDRsN1BEaHpkaWJTNURoNTJzSWlISGlUYWM3WkFpQlBvSVN0cW1RRUo0NTItand1TGNnNjNVWDNORThjMmJuZnhBU2sxSzJSOUIyLTBOdlJINmxyWWlScDN5aXdHZnRVNExKSVVId3BqTXl30gGIAkFVX3lxTE16U2NRTm9SanVENUE2M0I2Qy1oZjRkUnQyYTNlLXJtU2F0bGhjRG96QU1ZdXQtVk1hOEpwUnJHd3l5N2ZmRjlFZGlsNGoyN0pNNnRiTHA4Sk9zcnRhR3NNOV9tZjJpamJRVE1pVWhaY1FsNXdHa2JnYnptRzVoRVVWQmxDSzlSejFLQ19YazV2ejBGVllWNnNvbzFPcWdfdDNXbDB0eG9KeTdMQi01Skd1N3RoVHFqRXJVNmdLOGozWm91dWR1c3ZwWjRiRHQzNXc4Z2tBUUdkNlFWQzlyZzlsdVNQWENxNEdsSmNFZ1BFMXRPc0RSUFZMOG9rMjBzc05UaU1hbzNJVw?oc=5",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "Noel Tata to retire as vice chairman of Titan Company on November 12 - Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdWl6MlY2Z0VYVzJmTmZGN0dNMlh6Q3ZEbEpjQ3JJY2pfWUMzUzdCZ0FQWUlqNTZnX2xSU2xPeVVYVjNKVWhRZU90S1ZMVEdFUmxYUUd5V0thMDVFS1JVRzRDTXVHaFoxZVp4Qld1MS01bTFVQ09yTFlXNjVTRGtUX1JXb3ZwNDd4WmZsQUc4VHNFYlNxLXRzblNtZ2E3RHIzbHNTNlhFOF9QVkhGRlRmaWtaeVhJTk5nVWRtVldVVWlFT2E4YXFEVHUtUVQyZ3PSAdQBQVVfeXFMTWIyRXItZGI2OHE1OEFCTFBZR1pucl9lRmtPbHBBMnR3cUJSQWhDT0pyS3VKcHV3NmdxT0pXU3U5SnVxN0ZPNEpsQXl1bWxic3hVMktBYzZrazRIekpkamtaZ1BCcW0zb2xpTzNLS2l1enk1NGFNdHRsemMwZk5YS3ZzU0ZPaUNYVzRxYTlacEF5MWRMejY2ZmdJblhZX2xxS05pRmdqampVWHNtQkdvckNtTUZOblpQZHlSdFpubDJoemtBem9WYkJMOXFwR0JOMHJ1am4?oc=5",
+     "source": "Business Standard"
     }
    ],
    "flags": []
   },
   {
    "symbol": "JSWSTEEL",
-   "close": 1355.6,
-   "stop": 1283.03,
-   "target": 1464.46,
-   "score": 64,
+   "close": 1357.1,
+   "stop": 1284.23,
+   "target": 1466.41,
+   "score": 62,
    "parts": [
     100,
-    82,
+    60,
     25,
-    50
+    62
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 68, volume 1.9x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 68, volume 1.4x its 20-day average.",
    "verified": true,
    "headlines": [
-    {
-     "title": "JSWSTEEL Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pV1JXb01mdGhtczY5YVRrNnM2ZjlCMmpocjlhbHFoZDI2YjAyUmdPczl3UjM1Z0IzSHNzbURRYmEtRUxLX2pTX1ZHRDJyVlc2T1pPbWF1dWcwdGpWbHpxZzh1ZlEySFFzVVRR?oc=5",
-     "source": "Equitypandit"
-    },
     {
      "title": "Steel Prices Rise: Tata Steel, JSW Steel, SAIL Raise Rates Across Key Products - NDTV Profit",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQnVjZlZUckJhMW5fNWx3R182MUFCNG5ENlA5OGJYYzlpeHFVeDQ2VjVRMzBaZ3V5amF3ZHVCal9KdGo2T1FfREpwZnRZeE9XLXNIMk5ReTJCQ0hfMVZiaTJnZDc5dVJyVWlvdTFTMUpIRDdTNGZER19nQWZkWEhZcktSS2YtTV9TSHIyVWJJZ0ZRdWg2Z19GR3VpMkpnWEdTSnRkNDdEd2xQS3ZHQ0NlYlg4Tmx2c0g5cmVld9IBxAFBVV95cUxQeVBjQTRjWnpTd0J5am42N3RPOEQ5ZEFKRlpqdlFQZWtnX0M3bm5FU3pmVU9ISGFtUVpjZU16bFJ6dS1rQmdabDFzMnlJYmhVNGd4QmZ1NEN3X3FjbWw5T3gwRXBUS3lTd01wQTBLVDdGZGdENXJhSm1ZQzdUS0N4ODR3OEk4Rm1mWFp6NTl3dmhxQ2ctOEZyalhjS3dCNXVZU0J0dENMMTRpMkY3WTVUR20zejFzaEFkN1ZwRzcxYzJMUF9f?oc=5",
@@ -137,130 +97,135 @@
      "title": "JSW Steel Share Price - Live NSE: JSWSTEEL Stock Price & Chart - Upstox",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KdjIxb1BCYWcxUFFoS2lDRXZBUGgta2Fwc252dml6QVRMSk5MSFVDQ0NMbXBfb0ZiemRvMExqWS00bDNpZ0RUZGdWSDlWYnBMS2VUSGhYaGxIcFRrR1RCQWlEV0RwSDg?oc=5",
      "source": "Upstox"
+    },
+    {
+     "title": "JSW Steel Says Peddar Realty Approves Incorporation Of Wholly-Owned Subsidiary In India - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX0hnVk1HQVZpSy1qNVVuMzJKMktzMEVTSlhPSlFpN25hcC1iZk1JY0t0Sjc2Rm9OSzlXRE1ZUkVkM2F3UEVsd1l1M0Q1elV2LVdyU08zT1NRWE1ZUXYwMjFGZ2JTRVlJN29jREhFVG9DdURra0dLRnAxd3MyRmJBd205c28zUHh3aE9OU1VfaVFVNHBVemoxV1VxazF0V1lGTzhHU1lsMlFockxkQWZwUHgzRDZlUkhPUkppOXRYOGh6X1pOcmpHaGt6Q0Q4YzhpTTg0MTVGYWhzMnFnbU5qTmdSaHZpLXIyTS1GejBR?oc=5",
+     "source": "TradingView"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "ICICIBANK",
-   "close": 1500.0,
-   "stop": 1439.13,
-   "target": 1591.31,
-   "score": 62,
+   "symbol": "CIPLA",
+   "close": 1411.0,
+   "stop": 1354.49,
+   "target": 1495.77,
+   "score": 58,
    "parts": [
     100,
-    74,
+    56,
     25,
     50
    ],
-   "pattern": "Breakout with volume",
+   "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 73, volume 2.8x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 66, volume 1.2x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "ICICI Bank Limited (IBN) stock price, news, quote and history - Yahoo Finance Singapore",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YNk1PczRZNVVwTC1Db0R2ckYtMllKMVNKMGhRNEI4Uk9EVlB1Z2hfeHVmVmQzamlSWFNTcVJEMV9Cb1A2dnFwSHh1ZnJMYUND?oc=5",
-     "source": "Yahoo Finance Singapore"
+     "title": "CIPLA Share Price Today - Cipla on NSE/BSE - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16ajcyUzZmWGstaG5SaDJCRlZ5N3hGVXdCUVRKR0V1SVdjUWhtUUdnQUhmNnVKeHFOZ0s2WGx1SzFqWnQybGEwXzNyUjZnZw?oc=5",
+     "source": "scanx.trade"
     },
     {
-     "title": "Brokerage Charges - Equity Pricing Plan Overview - ICICI Direct",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QMzZncnc2R2Q5aGNOZWZlYnllMEJEaHBZTmxhUGMxWXp3R3o0LTdTbThfSndyY3hLZUNRSGJIYy1nRC1WQmk1QU83S2pPZw?oc=5",
-     "source": "ICICI Direct"
+     "title": "Cipla tops drug overcharging dues with \u20b93,576 crore; J&J, Ranbaxy among top five - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaG9DZVJ5Q0ZRYU9aT3kyMTlPOUpMQXgwa1NncXBjaUpXMFlLMVdRZ2RtZUVHUXNmUFU1clZDOThTNTgwSHQ1WFVnbU4xSnlnc01VUVNXdWY5SHRhR2ZlOXhyUkt1QlNrTkk4NVIzX3NXZHNTZ295a05ORDRraUVmenRnZEpaMy02cW1HYkJsM2hxRG9Sb3EtOTk0YlY3OHV1Vy1jNGVuVEJpSEktUGhpbEhwUl9GdHd0VkZDUERGWjBrUmZuVWpiU0xBdmE4T2Nic1dBSG4tS2ttcno30gHjAUFVX3lxTFBaX0NETkpyUm92cE9EX0l5UVpJdmt5cHEyNTBPZGJ2bnRJelZTXzFpU2lSSldXQmZ5cDVpNmlocUZMTThZVzhfcXd6bXVTVnhtaWpFMjVOMmlNRlZwd0dSRW9QV0g2UDBJejZnMUd5MWg0bjFUZWxIazAySkRqZHZRTEN5bU5Md1NBNHVUYUJQT1RNSGhoel8tRlRtaWxuMlBDLU9wU1hQekwwZl81OG5BNG8yUWNuWEFndVd0Y19LS05uWE1PeWNWWHFXNG9YT09lMFlBTXIwT0s4X0dteWo4NUl3?oc=5",
+     "source": "BusinessLine"
     },
     {
-     "title": "Diwali stock picks 2026: Reliance Industries, ICICI Bank, Tata Steel, Eternal among 30 stocks to buy for... - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREswVEtSYXZ6UFRZbWxPc3NFT2IwRUJDaXBzWGZwOXRNeTJfeC1NSXREY05CMWVTUnlBakhsc1ExcThSTFBpZDA0SGJWWUZVRVI4WDFFcGdQVThlaW1VaFhLZDJQVHhWNm12c0piMHA0eWhGT2huQXlhOGU5NElXVG9HTDhpY1NyRjZUU3J3U21IY1NlSWU4cU1UYlFWMmptd2lDMmpleF9PWVlUZVVFVjV2SlBvTEs3VV9WRVJrWGlGV0RMSVB4Xzh3SkNldWhFcEtzSmdwTDlYdkZjYWZBOWtZZ0ZINTJfalBpbEpMWlg0Wll4NkdDc0xNN0k2dUtqZGZscGhucmo4NW9GZjNMX2dOaVk2M0tISjZhQ1RRLTRLcHZNZHM0UkcyOXByblF0b3fSAbcCQVVfeXFMTUNuaXd2MHRzbEJpSTRnUEZSVEpkbG13TjBjSWVoc0ZITEI2WUJLM2phbzIxTFpnV09mbTJrbWhqa2Nvb0ZDUldyQy11Uzl3bmo2TXRudkVvN2oyXzlTWk5ZbGhxTnBMZjRtWlFrWDJ3eTRDa0xlQ2h1Y09LNjZMT3JHNGdQbjV3bXh6TV9UdGVXMlkyd1VPZUxnc3hhSGlrc3JuMnpuWmRSMlU1NURRWG5WZEM1WEV1enFocnRYc2lxQ05XSkh2U0FwOHF3LThaWHBfUVFVajFkVkpGZmJQc0ZFQU50blRNZF9GM1N3MkcwUFNoeC1DYmdRRGR4czE1ZWdXNXVPQW03MnlpTjVnYmhFMklVbmlEbVFsbGRyWHpfZ1lMaE5sX0prcEZSZ2Jad05PeTlsOTQ?oc=5",
-     "source": "Moneycontrol.com"
+     "title": "Weekly Recap: Cipla Ltd Q2 revenue, profit decline and FDA VAI Verna Goa - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTkppSG1uMmVFRlJWN0tCeTIxTG5GS05jeS12NG5vZ1c4YUJQSmdnZV9xZXh4cWdsd1VWYlJkUkpiYVhneGd5aXRFRnZ3N3l2Mlh5T3Y4LUxFME5PaUktX0d5ZUFuaG1qWnp4Zy1GQlRXc19CVm4wNkVPYnlBZkpqbjNxdkhYaDZMbS0yT19FNFFlcEFCOUFXMVhDZGxoU2UzMW9fMmhJcUgxdi15eE9FWUo1Zk9JYjh0Sjl2R0tUejdENDNRMUI0MWlwZmI?oc=5",
+     "source": "TradingView"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "ETERNAL",
-   "close": 358.3,
-   "stop": 335.86,
-   "target": 391.96,
-   "score": 62,
+   "symbol": "BAJAJ-AUTO",
+   "close": 10900.0,
+   "stop": 10354.57,
+   "target": 11718.14,
+   "score": 58,
    "parts": [
-    100,
     60,
+    87,
     25,
     62
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 67, volume 1.3x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 61, volume 1.7x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Eternal (Zomato) (ETERNAL) Share Price Today (BSE), Market News - TechGraph",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VcE1jajhweGcwT2E2SEhhSFlyemwwRlNVdHdjM2JscjFwVlRkNFkwQ1Q3ZGJjWGNIS21Gd0pZTWFiMWd0cTh5VUdTMzJVU1hFanRsVU1iSlljQTdLM21xcA?oc=5",
-     "source": "TechGraph"
+     "title": "Bajaj Auto's October sales grow 14% - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU3JNMk5OWWpyT3BnS3ZxWi1mSmNqSUdVd3hiU0tNSTRLdXdrNG1BNXpLN1lBNWVISUZQR1BweTFVNUQzV0JRSVUzNk81ZVVadGdld01oYnlwX19oWVR4MkZSR2hlOWdZd3pPZXcxWUNlUWN3RkFDVk95VEN5ejJWQVJObF95VlNTRUVJUmRfeDZnMThFR2tsdEhvTlgwdlo1M0HSAagBQVVfeXFMTnVWRC1ITWk5NGhYRmx0U0NXVjg1eXpZX29BUDVaeXlxaXVFY3NuMDFrSmc0U3dMc25LZm9meFY0NHBIZUJ3QTR2cVpleVJnck9LWWh5aDAyd0c3UGZfLWxyeFJPbnhEellDMDJkX2xObTcxR29oVU84d3BHMXNOQUh5Y2IwNklYNHF2WHlEeWhaTFFiUTVzQzk5N21tQXQ2TXE1di1NMks1?oc=5",
+     "source": "BusinessLine"
     },
     {
-     "title": "Saraf and Partners advises Eternal on AdOnMo-Mygate merger; Anoma Legal, Kaizen Law advise Mygate, AdOnMo - ETLegalWorld.com",
-     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUlNUcHQ3RlZnZlVDaWJERFRHUGpUOXRkOWh1WGRNaDhaLTRKU0FYUWZrYmc3djEzNHVFa25JSXM5UmxvRjJpVzlqdk5RMEQzMkJWVTRJSlRTQXN4VU5LQktqdnBodWRtMU44QlNvbGJkdmlrVjFTNGN5WEZUZHNtc0tVYzY3VFY2N3lhVC15WWFfa3BReXc3UEVuOUNtd3FPSlMxaGhucWJ5elVkOHQwTTB3bkJEU0ZaQUplSlJSc2k2X3BaVGZkLWhlQkRqOHVfRmVnSko4Q296aFJlTDlEUUxnVFZtLW94S2xZdmJHQm9sTkhYa19JUjFPdVoxb3ppbF9ZaFgwQVpEdnPSAY8CQVVfeXFMT1pBeDV4OTBtd3VUd0NiUU1aVWdOUTRxeFVwb1RMY040cmNIc0w0MGdVRU5nejUwemNCRlVDbWtmcG51dEU3RVh0MkxuYlpMc3NxdDVDeXB0SFJHMkFyZXdRcGhqLXRiczVDWHJzeVdUUWhmb3dURGRQSU9RT1gzdUpJbVR5NmYwaVRJQ0NwSmR0cnhJVmhUdElXT21jLXgtWUxfMUo1WjUwYkhudHQ4VHJfLUdxSnM2d2FWRllaMlc0UW1yQkMwWlU3M09GNF8tTEpKVGV0dHZCU2NfWFZETjMwamNnYlo1eE1pZ1daUTFoRWtESnhUTS1xZWxjb3NsQm53SG5hRGdaU0JZelFQSQ?oc=5",
-     "source": "ETLegalWorld.com"
+     "title": "Bajaj Auto Postal Ballot Notice Published; Buyback & Director Re-appointment on Agenda - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNndwUmlzcVhIOHFZclJyTXR1ZlI2b2ZpdmFyRTBBb1hNQ2szeU5ZR1JldzhVVXR2Q3JBdDk4cDdFWlpmVFk5cngxSDhjd0dVcDRQRG1GMU9jamF2M3U0SFlnSHM0a0hUYWYybjJDbmtpSDlRNmhodXlkOGVGWmRhLVJXYXhGLW16SmFrWU5RZDBUblRMcFlKSkVOUmJwUXRVdU9kOV9leE91ZHlPZ3hLeU53M2ZCejUxcnEzeU9HNUViMUd0ck9xSVlsLVBWTi1kTEhwTlM4TDdpb1BzaGhvQmk5Q2p5QUZRdnNLUEh3VUx1QXBHZ183bkxYOVJSb3ZrVlpWZg?oc=5",
+     "source": "scanx.trade"
     },
     {
-     "title": "Eternal rallies 6% in two days, stock nears record high; here's why - Business Standard",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNVpNQmNBR1FpRWJxYktFTU1IeF9TcUhORzFVRjlSdm1SLTVKTFNfMmRNZXc1SWp2U1ZBMUh3am10aGREMk9fVW9pY3JuTERKeUFpeVo4WVBRcUlCTkVvV0lIajRZcmxKenpTUTJQLUQyeHJ4NUs5VDVrYzVNYWwzdDNwcFBfb3MxWHlGdU9FWTl0TmY3TlBHRzVncjVEb0pUQ1cwYzFYaUdBS28ycHFPWlpaOHUyZUEzT21DWmlPMTlZVmJQZVltbjNnMDlNUFNRN1Y3d3VpNFdKbVHSAeABQVVfeXFMTmpwa3M4S2lDY0ptaloxbWFVNE5UR281Q2E4TDJYTGg4dWhKVXEyZ0VfclY2VlZGektoUUVvd182SHlPOGFKNzRYWkdsZzVHSTR6ZWpxclQySHV3Yl8tZzhMTVdGZUk2NXFxTVI2Z2pvcVFHYjJLcHp1WnNVaEExb0JVNFlFR2JmSUJ2OVhwemkxZS1fN2YtamNmMUtzT3pObGxnX0pUT3ZNNWoyMXlqOUZ2Y1A0d1FEQ1hONEVNSmpOZkJLNno1WWlpX2hpdEdWUHcwb2l2RG44OTR0ZzROSHI?oc=5",
-     "source": "Business Standard"
+     "title": "Bajaj Auto domestic sales rise 12% in October to 3.51 lakh units - ET Auto",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY1Z1OTdINE81ZG1DS3BjYnd5NFB4VFd1RTlQeDdLNE1BSjIydlR0MkJUWm45OFdQbW5BNlNVZUdWV2RDZWNfMGwzZ2UxTjYxVWlMbWVnVnYwNXRKOXJvTVZHSmJ1WS14RmtkcHdmUGJpN1Ntczk5RFVhYVpxOWF4cUlrRS01M04wOUxNcFJrcGdtWDU2bmpMaVVSc1ZsVE14OUFoWEhBSFZraE9YRzJrYVIzWE1HVUtDaXd0X00wcGZZRzVYRkJ4SdIBzgFBVV95cUxQcHRZazRWdUQ5aFBxS3VnYTdsazVCbzU4MzdqaG9iN2hESlhnUllxeWpvRjRDaEtmZmg5eFQ2SFNXeC1tVlU4Vmk4dzBsUnQ2WTZKR1BQVkgxSHhFVVQzM0k2cVBjZUN2MUxMcW9tck9rSHozX1d1YXFjV1FtQllzLVNMVzFxMmV5Um9seE9rLWZGbndxZjZjWWd2UTBNRXRlRXZOblQ0aEJ6NVlGNjVuQWlPVXNEaWpQWk95ZU9nT3c5VjhnbXA3R3U5TU9Hdw?oc=5",
+     "source": "ET Auto"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "SUNPHARMA",
-   "close": 1829.0,
-   "stop": 1745.29,
-   "target": 1954.57,
-   "score": 61,
+   "symbol": "PAYTM",
+   "close": 1794.4,
+   "stop": 1672.3,
+   "target": 1977.55,
+   "score": 56,
    "parts": [
     100,
-    94,
+    50,
     25,
-    26
+    50
    ],
-   "pattern": "Breakout with volume",
+   "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 61, volume 1.9x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 62, volume 0.6x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "SUNPHARMA Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ETjNTOEFacHpneU1FLTZraGM5aWxwWl92MWF0Zm85YXdYbzZSTllZVmtkRXVaa281ZU5vSlZtTHZjRzRtVGN1SnNFWF9BN1FHSXlrWW15ZFBIY3p2em16Ul83YTNOMUE3MVlsZQ?oc=5",
-     "source": "Equitypandit"
+     "title": "One 97 Communications schedules investor meetings across four cities - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG1BbHJYUTlrdjJkNHFMcGtWdDY4c0x6SGFTeWRnV0RwdFRhY0JSMjNoVWRfalIzbTJORjB0OEdBa0xHYzdXd0RtRDg1N1UtRHpneFFOT0JHREM3ZUY2NEYycmVaNmN6SGtZS2t6RTQ3UWhQNmR5MlhlcC1fNklHMkVTSUQzay1iVEdWdjlGZk12REx3Nm9oU1VfeGFSOXdfWV9ENHp3M1ZkdWcyNXNuZGJGQ2V1dXU2Q2lGTktmYlN0NEU?oc=5",
+     "source": "scanx.trade"
     },
     {
-     "title": "Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price - Livemint",
-     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQU0s5ZzVLTGZGaTBSZlMyUFlDX2ZEMldSWm40Y2FsYWZuZlp1ZmZQSnJTdnA0RVhEQm9tVDRyQlY0dFh4QTNJelNUV1NBMVBwLUYzQlhMTUl6X0taa3hJN0tQWng5SGgyOG9ScUdhTVE1M1RTSHFfTDRFcW1zT0M0S1J4V21rR1lQOVdkOHNrNXpuZF9DOW9JcmtocUxFVnppNVJUS3NUeTNNWENfVnRGSzFOTVpmRVdHQmpKMXczU0hMTkZsTlNIT1pfV2s3S3FlMUo0d2RPS3c2bUhhWE54V0h3SXpHenhteG04aUtHbXB5VTRmQjdnZEFzY1VDWHd1U0tGQjM4ZFVsaWF0ZThub0hn0gGXAkFVX3lxTE5WWlUtakhOa3hBRkdIV0tDRnBZSG56ZkZNQTlfOERJekp4UzFFOTNoejc0MjZqeVp6UjdxU0RPUzk3OFBOZl9pY2hfMkc1dzRPYy1JOHVOemdXUDBQWHF4a2VHU0N1WTFhSnNmeG1LOV91QjNvY3ZLa3R2RWlHV2JOWDZVbm5VMGxsUU5oZWg1aVBlUVdCeXg1WW9MTkFpQW5pLVU1NUxHSTNCTUhfTERFU1dYZUNsbTR2YzhyVVV5SlVmMWNBRWU2N28xWG9vWUlyNC1FZFNXVTl6aUxUb1M1OC1tamJURGlxWWg5a20xeWx3NVg1aWNDamZnWUMwZm5PaEFOTkRwb190bjJSa3BmTVJVSE1Zaw?oc=5",
-     "source": "Livemint"
+     "title": "Paytm expects AI-agent monetisation within about one year - Multibagg AI",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGFxWU1uY2V4SGtFaTJwdVRLZ0tsajYyNU91ckw3UUNCMFpWY29ZMDVXSV93aTdjLWkwVUpBMEtVT3RfSllmSFR1TzMtVmJmS0luSEZsMGVsUVM4blZmbFVsaHp1Y1lyZGVCUDVJYWp1WFUwZVFaMjA4YzFKQ3EzTTlCRnV3b0IzUTNBd01pM2pqWTBxckdUaDJQRDZaY2RTLW9xLXlvZGRRMF8tY3R6Rk1vRQ?oc=5",
+     "source": "Multibagg AI"
     },
     {
-     "title": "Sun Pharma shares fall 3% after Q2 profit plunges 36%; brokerages bullish but slash target prices - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV3dhUmt6dHZKWHJ3WGU0Um5nMjE2WGZSaEhCSWs4SWUzRXIwZU0wbUw4d254azVNT1k1YmFOMVpWRW9XU0stczRkRnNjQ1JKSkxmTnQ5Yndmalk0N1c5bmEwLXk2MFBIQkJ0eUdaTEU4N01VNmpmbnJpZmxfOEs0bjM2Unk0ejY4S0ZUX0UwdHZZU25sYlNqanVLeTRpaVViazdfNklpTWsyay0yOG0zdVJjbVBBY2QyTHFsVGRiN25YTXF3NEZEZ0xHZ2VsRDhQQ0Y5OUVRQ3hBd1FIUzdMblcwT0hXYW1mVmhMQVpHM0XSAfYBQVVfeXFMTUVoN1lXMThQa0RUdHBjSHE1S24ta2ZKRTBST3hwWmRQX01GblRUTGtQV2NxdDQyWU5VUUJUdmM2eXNlQzFCZFRVOEVnOHFUQ2lMT3hyVFM5VTBWZHhwb29KZTZPeUQtcW1WRHhwQXZBeE81YjNMTGdBWFVSQzA3N0VzckpkX3BDVDl4Qzc2aWlpeXZoUDlxRjgzS3A5NnRRNFI4SzVjUVFnZHZyWVhvZGNxaklZMUtJU0t6YUVrWUpSUmF2V1NCUDAzS3R3T2dORVI1Rzhrdnloc0RKTjlTcmhkNDlyU1VQSGk2U2RPNlRtQ053cG1B?oc=5",
-     "source": "Moneycontrol.com"
+     "title": "Paytm shares gain over 50% in 6 months: Should investors buy now? Check Bernstein's latest target - Zee Business",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRGRrbE1JOWgyZkhlazBPWXF3aEwyUlJzbW5hYVhKUHFTeFcwYlJXUTExbHNmMmExd2loR29peVBMNWFkbmVSNVpLNVVwZTVJM0h6S19JQjVIZzYtano1MkUwRy14SV9QYUo5dmdjU3AybEx6VDE5UnpybVlCUFozLUdqMUZEbWxRSU14MUpzd1VuSEw4NGI1cks0MmVQdzBQSFlWdHFCajBISEZEdURoQ0c0WmZuNEdNX2prc3J4Yy05ZWxaX1VvY3dvVWlXSmJYX1Vqd1lFUQ?oc=5",
+     "source": "Zee Business"
     }
    ],
    "flags": []
   },
   {
    "symbol": "ADANIPOWER",
-   "close": 204.0,
-   "stop": 191.26,
-   "target": 223.11,
-   "score": 59,
+   "close": 204.29,
+   "stop": 191.62,
+   "target": 223.29,
+   "score": 55,
    "parts": [
     100,
-    60,
+    45,
     25,
     50
    ],
    "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 60, volume 1.2x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 60, volume 0.5x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -274,79 +239,109 @@
      "source": "The Economic Times"
     },
     {
-     "title": "BHEL Bags Projects Worth up to Rs 28,000 Cr From Adani Power - HDFC Sky",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzdxaVdOencyTm52OTNKRnQ5a1czWjFWUzF3UWpmZWtZZFBzT3lqMjBVVTNmUmdzQXVOaURkSkozdms2SkxlM0p3bnRSQXJOa0lTempGWTNnUVNkQ3VMYjNoLXU3dkpCUi1VTVVzZHF5elVfZEFiTmlneWNWTHhmX0hRTTB0d1RqMldITw?oc=5",
-     "source": "HDFC Sky"
+     "title": "BHEL Bags Four Adani Power Projects Worth Up to \u20b928,000 Crore - India Business Trade",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRi1PTzk3WGlOaGlxRW1rd0FxYW5HM1NrdjNxdUoyaXVkR3I0Ry1SUVR2V21xdU1JdjRFY1VOeEdlVFN2Z3dqM3pCZGNPTnJKOC1HTzAtdEg0cVlsVmRpNmFrMU9BTXhLNGJNQjBDUVNMZWhvMGRrTkhmd1o2bzhQa3cyMXprUnJoM2Y0cFVSN1BsZDlCcGxFcGxBN3I4OHVEWGh2YQ?oc=5",
+     "source": "India Business Trade"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "DIVISLAB",
+   "close": 10320.5,
+   "stop": 9816.86,
+   "target": 11075.96,
+   "score": 55,
+   "parts": [
+    100,
+    44,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 74, volume 1.3x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Divi's Laboratories (DIVISLAB) Share Price Today (NSE), Market News - TechGraph",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11ZXMtVG5fcjRValBSLW1CTU1ySFVwNjM5d21vWHVUdlNlaklyT3g0dFoxVmIybDZGTjRwZ09Sc3lZaHktYlkwcjA5U2ZNRHFmenZLcTVPLTdoYV85TkdKOUh3?oc=5",
+     "source": "TechGraph"
+    },
+    {
+     "title": "Missed Divi's Laboratories' Rally? Here Is What Holders Saw - Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTkg1WVlVUmtsaTBENHh1Y2ZNR3BXWTNDTzVwOG9wZnBCRVFjR1hYYXNmTkoyQTVrUERhLUlMeWQxSlNGRXNOTW10M0lpSzc5Z0lDenhkQjBpQkEyQnVFbTUtanBYYzNLYklzU1o4QmdzY2FGVkZyZ2cxSk8xN3dkNHJSUUN2Y3dGTFBZVHBjRGUtYXVQd1lxSzFJNEI4MHRsbUNmTDhDQjlVVGlvOERFWFRpbmhnZ004dS1qeDFLcEJfSjBXVVdaQ0ZkNlNoLTRCWi1tRzBHWnJwd0o4MmhUMWlBVXpNXzBNWUZYb9IB8gFBVV95cUxPWnFpNFhsdnZfWFFwc2hvYmpyOURmYkFOalV1S2RJZFdqTTc3bFkzVVk0aTJneW9BREZQNHJfSTVjOWVPZ3ljbDNWQjQzMU9YNHU2MXpsMU9RYTAwU1dvTVVtNmFDeFpVR1lVZDR0VVVCWS1NZlVHalhFaTNfX1Z2RUotR3RpdEpuWGFuYTg4ckhYdXJkWHVaYU83UVdVMFM3TGFNRXZzNDJLN21lWW9veURqakxwOVNTMTJ4MEVKbUNUOG9NUnVYc1pFa0tfZGRRLVZfX3ZPMzNldkpUS0gtZjNSdGxMRTRyakJGTE9YZWJKdw?oc=5",
+     "source": "Simply Wall St"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "SUNPHARMA",
+   "close": 1860.0,
+   "stop": 1771.6,
+   "target": 1992.6,
+   "score": 51,
+   "parts": [
+    100,
+    52,
+    25,
+    26
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 67, volume 1.1x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Sun Pharma shares gain despite Q2 profit slips 36% YoY | Should you buy, sell or hold? What brokerage says, target price - Livemint",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQU0s5ZzVLTGZGaTBSZlMyUFlDX2ZEMldSWm40Y2FsYWZuZlp1ZmZQSnJTdnA0RVhEQm9tVDRyQlY0dFh4QTNJelNUV1NBMVBwLUYzQlhMTUl6X0taa3hJN0tQWng5SGgyOG9ScUdhTVE1M1RTSHFfTDRFcW1zT0M0S1J4V21rR1lQOVdkOHNrNXpuZF9DOW9JcmtocUxFVnppNVJUS3NUeTNNWENfVnRGSzFOTVpmRVdHQmpKMXczU0hMTkZsTlNIT1pfV2s3S3FlMUo0d2RPS3c2bUhhWE54V0h3SXpHenhteG04aUtHbXB5VTRmQjdnZEFzY1VDWHd1U0tGQjM4ZFVsaWF0ZThub0hn0gGXAkFVX3lxTE5WWlUtakhOa3hBRkdIV0tDRnBZSG56ZkZNQTlfOERJekp4UzFFOTNoejc0MjZqeVp6UjdxU0RPUzk3OFBOZl9pY2hfMkc1dzRPYy1JOHVOemdXUDBQWHF4a2VHU0N1WTFhSnNmeG1LOV91QjNvY3ZLa3R2RWlHV2JOWDZVbm5VMGxsUU5oZWg1aVBlUVdCeXg1WW9MTkFpQW5pLVU1NUxHSTNCTUhfTERFU1dYZUNsbTR2YzhyVVV5SlVmMWNBRWU2N28xWG9vWUlyNC1FZFNXVTl6aUxUb1M1OC1tamJURGlxWWg5a20xeWx3NVg1aWNDamZnWUMwZm5PaEFOTkRwb190bjJSa3BmTVJVSE1Zaw?oc=5",
+     "source": "Livemint"
+    },
+    {
+     "title": "Sun Pharma shares fall 3% after Q2 profit plunges 36%; brokerages bullish but slash target prices - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV3dhUmt6dHZKWHJ3WGU0Um5nMjE2WGZSaEhCSWs4SWUzRXIwZU0wbUw4d254azVNT1k1YmFOMVpWRW9XU0stczRkRnNjQ1JKSkxmTnQ5Yndmalk0N1c5bmEwLXk2MFBIQkJ0eUdaTEU4N01VNmpmbnJpZmxfOEs0bjM2Unk0ejY4S0ZUX0UwdHZZU25sYlNqanVLeTRpaVViazdfNklpTWsyay0yOG0zdVJjbVBBY2QyTHFsVGRiN25YTXF3NEZEZ0xHZ2VsRDhQQ0Y5OUVRQ3hBd1FIUzdMblcwT0hXYW1mVmhMQVpHM0XSAfYBQVVfeXFMTUVoN1lXMThQa0RUdHBjSHE1S24ta2ZKRTBST3hwWmRQX01GblRUTGtQV2NxdDQyWU5VUUJUdmM2eXNlQzFCZFRVOEVnOHFUQ2lMT3hyVFM5VTBWZHhwb29KZTZPeUQtcW1WRHhwQXZBeE81YjNMTGdBWFVSQzA3N0VzckpkX3BDVDl4Qzc2aWlpeXZoUDlxRjgzS3A5NnRRNFI4SzVjUVFnZHZyWVhvZGNxaklZMUtJU0t6YUVrWUpSUmF2V1NCUDAzS3R3T2dORVI1Rzhrdnloc0RKTjlTcmhkNDlyU1VQSGk2U2RPNlRtQ053cG1B?oc=5",
+     "source": "Moneycontrol.com"
+    },
+    {
+     "title": "Sun Pharma shares in focus as management reiterates FY27 guidance; Analysts see up to 31% upside - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRDNrb19NeXV1MERkTHVEY1Ewcmhibzk1WFppWjN2TEEtcEQzdDZBRHBBc05KM1VtUXhaUmFla25mMWQtTm5JTmtpWnY2bzEzN0p5QnRRQVFEUVhtVTFlSzhVM05QM1lGQXBfRUpFNHp6cjhiTlNkZUx5T1l4czBpTWdRdmV6RUxzMVpNaGtfcWJZelpfM0FIeW5vdk1ZRU5STlpjNWhLQWZiQ0RoSFpwbjhCbU92UVk4Y2lwcl9fYWw5cUJ4eW5qOFc0anBnRWdPdUR3Njd4eW9xNEt2QXJuTFlkM29vUlRZclFYOGM3Z3ZaSWdDTW50ejQtUExEZE9rMUk5ZXEzZzRWMnBETjlxZVNqLWFrZDlTRnBRMDRyZXBUSjVT0gGqAkFVX3lxTE5BTThOYjJjZEN3UUpSMHo4SDA0QXU5NnppbjM2ZnpkQ1VmQjdnT2pTNklqbENXNTdmX2h0a3I5NEd2X3JiLS1YY25zLS1BbkNCVFBiQUlFb3pZZkJxd0NpY1lSTEp3WEphUWZxY1F5VXlkc3JNMnZKdE1kakVfRE1PWWlySk9RamRtWFlpT1NOUHBxZzZaaDVoSHRhMmxwMFpIdVA0dlJXdV9IVDZQbGhvTWY5b2d2c2NsenVaUWh3UlQzeXdWUHZkcjRRVU5rYWxma2FRTldldXhYTkVTUjM4R2hDd0k3VHhtNHAwSVZnLUZwUGNUVFAtd1UwbXJERVR2RmlaSHdkOTNQem15YnJ4RElha2FzYVJ1VU1GYlQ0bXQtY01uMXF3elE?oc=5",
+     "source": "CNBC TV18"
     }
    ],
    "flags": []
   },
   {
    "symbol": "INDIGO",
-   "close": 5420.0,
-   "stop": 5121.51,
-   "target": 5867.73,
-   "score": 58,
+   "close": 5476.0,
+   "stop": 5178.59,
+   "target": 5922.12,
+   "score": 49,
    "parts": [
     100,
-    71,
+    44,
     25,
-    38
+    26
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 75, volume 2.8x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 76, volume 1.4x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Broker\u2019s call: Interglobe Aviation (Long) - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbDFSMV9Ib2hnYW5JLU1PbnZiYTZjcGJXeVJ6UVlkUlRCb2EyTWo3VmZabXFKZGZhRXVXTUpGN1R4aXNzdDA1TVh5VEEzN2FBYWlpMGZaNXJlWlhheWtnUVJNaE5sYmM5bXpZdU4xNjFYMktkdnNaQlBPT3BSZThMTHppbnk4SGhVYmhuX0E3WEQ5dGt4N0h6VjBLUFJxUzFWOGk3UdIBqwFBVV95cUxQNHltemxZc0h0X0R5VlBiLXBhS3FyUUdua3UwU2tFbmlEbjhfQzc0TFlVNFloVWdKY1JpakNhcVVWcGlrazVIWFNkTHJIN2tEOUlSRFlNZUtORktUS1J2M1RoOGlndmZSVm91UnVpYlNrZUlOTWh4RGFNR3lXVGZYcWtMZWI1cjRGOUI0ajIxNkJQSHpIczJiZ3A4eDNWUVRmeW93NGo0YloxSUU?oc=5",
-     "source": "BusinessLine"
-    },
-    {
-     "title": "Hold InterGlobe Aviation; target of Rs 5177: Prabhudas Lilladher - Moneycontrol.com",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSm1GUVctZnRDei1OMEd0ZV8weVhSYy1sQ3BIazE2Ujd4dnNxZFc2SXhveU1yeldGWm55VWlBaE51RXRON3FRZG9fNzN6SlloYXhPSWp2eVlHUW9TNzlRZ2tWWlozZFFtLU5WdGRWTndvQzcxTzI1N2drZXhPWElVcTJyUXJXNHJjVjB0RFJEalBZVjl2QTQ3Q1J1OXIwUEJCbWxzOXVCdnRZYkdXUy14SW9CQ1NTS0xPR2RKZTJGbVAxSENk0gHKAUFVX3lxTE0zVHBFa2E2R01uTmg3RFRjeVplWWlzdjlRVVJZNlVIQlRGX1hReGRNY0lVTE00aDFJNWM2Q1VmdGdPZFJCYl9HdHNqTGttNEdJeUNpNmE2TmtwZzVlWVhlNXQyTG9IRGUzXzFwQXlNNllYbXJhN2ZCMVR2cE5id1JUMUFlT0xXTXl2WG5LLWxIT2d5N1BZS0M2LWFEQklnNEQ2bVg5UzNEZi1iN3J6WGdxQjRHM2t6OXJFNTNrM19Ka1U3bUJxcjZDNHc?oc=5",
-     "source": "Moneycontrol.com"
-    },
-    {
-     "title": "IndiGo shares rally 4%: Why is InterGlobe Aviation stock rising for a second straight session? - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYlJHY0oyNHVqM1R6QmNyWXY1UWpJeUVKYUNaX2RaWmVGX0Vaa0tYQm9Nb2ZnTERReVFGV1VoWG5zM3RWczZsNlg0bkNaV0d2WWtnUzFsTGF2ZjV3X2FRVFYzdTBRMmo1TE9yQURCMzhvNXlUT0JnOHRfUFdzY1AxMTlQZ3p3S0xpUE5sSXBReXFkS2ZTXy1KVFAwRDJ1cTltdnVTOEx2eU9hb3FIa2JZWUFmaFlMOTF4c25uSUJfdDlnVEhRaF9rSnhrVTk2MG16MHlxSmVReVMyZVppeEVPZlMwbWZCY3hFb0kwMElYNEpLczQ?oc=5",
+     "title": "Interglobe Aviation Share Price - Live NSE: INDIGO Stock Price & Chart - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjamxKNHRzV3pMT2NjN2IxVlE3SmI1Rk56SEczNl92RXJ2Z1JQSVZuVzMwdW93MjJUU1JSbHVsUG1oeVBOMFUzOEdRdVQyYU9YV2Q5UFVVYjhIUTlVWGJVUFR6MmNZR3dnLUNRb0JXNA?oc=5",
      "source": "Upstox"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "TECHM",
-   "close": 1822.7,
-   "stop": 1733.2,
-   "target": 1997.34,
-   "score": 58,
-   "parts": [
-    100,
-    36,
-    48,
-    50
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 68, volume 0.8x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Closing the Telco Commerce Gap Between Connectivity and Loyalty - Tech Mahindra",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0M4U2xmTHJaVDNmOUlPamthdnpvT1VXVThrRGNJQU5RUkc3VGZzSFN0cG9yRjhoSnluTDhqTVlDRlhLODNRdzdyVElENVNjZ2tFQ19qZmVYel96TVIzbTNtM2ZaM21oNi1XZnIyZzF6d1RTRFpiN3VvbUpydlo3aFhiX0Y0R3E3Qkt6QzIzTnFEdXFZdUoyNC1sYlZKRWlDS2d6OHlaVQ?oc=5",
-     "source": "Tech Mahindra"
     },
     {
-     "title": "Orange Business & Tech Mahindra Form Partnership - https://www.fintechbiznews.com/",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmRMTGluQ1Zra2dTQm9Eek52ZWJ1VFg1YkRKN2dqU2RISlByWllSbml3bGNuUVhvb0hsN0FiSlFLTG9zQ3dtQ0FjLVdKem43VzZLbV9lMUE1WURZTnpncjhPaWRRaHpIN202VGo3UThuUUJuY21IRy1ZSTFaTWYyZzdsMlgxMERRLTRnOXFKUWxZWWdFU3FKb1p3Zjc?oc=5",
-     "source": "https://www.fintechbiznews.com/"
+     "title": "US midterm elections results impact on IndiGo shares: Interglobe Aviation is flying over 7%, amongst top Nifty gainers - Livemint",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQb09YQXozRVptaVVpYjlIczJsWUZGMUtFZ0FmMDVaZGNMVzlhWnNncFFONFVGMktFZmVabzJJR1A3NU5OQVJaS1JoaFVnLWZUVHJJQkNrbDFOZERpUF8xOW1lSVNuLWV5SFVqSEZUel9tTkZJVzk2YXY1WVRrbHd1RUdGVEkxVVZWNGh1VUw1R0pMVGhLYjRMNlZlSExjT1ZhazVtV1NWUkNmbjFuVHBiN3hFVHBFQVVPMWhITV95TTVPUVh3Wk5mUHpZSW9UT3ViMFdnTndJVGQyQ1Z6QURhc001amE2LTJEM2M5dGhvemlfQ0VpVEtIS1ZYWDl6cmJBc1ptc0R0c0Y0LUM2c3FteHZB0gGXAkFVX3lxTE5jR3FuMEZDamFabEdycW5ReHJpdnRnRms4UUhHaUlmTERjclA3Z1pDVmgtNzM3dGdGSFNvYzFwYWY4WFlvOWlJZXc2MkhDTUVsbjdMdF9Gb25DNk1yNlRMQjREY3RZME1WX0VzN29RWHNHUTl2eWV5SlR6UlhUNk9WOXJvdi1DVzVDVEN0eGg5V1c4dFpNUG1aR2Jweno0VV9wQzdPWEVEcXRaZHlKd1hlTmtfc2NrZzlQYThXaFd5a3BYY25mTk8zMTl1NU56QWRoVHpENVp3UTdURHRHcGpVaWpRRHRadXYtMWVtZ3I4a0REMzR2eUxaYjNIUm05NWN1TXBOVHRkSVJZSm1kSWcyanMwS19FNA?oc=5",
+     "source": "Livemint"
     },
     {
-     "title": "TECHM Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MTlLbGV6OG5iekRmYmFEQlRzU3VNRTIxZjZrZENiTmRKaWF6OXRJMDBCMEszSkdlemxaU05FWEI4bEVIR3ZnM1NEWTJqUm5TR19SOURaSzFQeEhTNlBKeDkzUXM3cjg?oc=5",
-     "source": "Equitypandit"
+     "title": "InterGlobe Aviation shares gain after Centre notifies new airfare pricing rules \u2014 Check details - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbDRJaWc1R2ZSWGMxQ0NPWDBYRHNaXzhsRzBYWk1Md3lyeTM5S1dXRTg4djc1aVp3RVQ4eWRiZ1VRX2VqMWRRVENvSWxFbHNQUW5TUHFBSkhoa2FaODRuSnF2SmxFX1F4SkEtNjhlM1lxQ1p6RWVzdW1IbERwX01sd1dJOW5pdW9OQVBERGw3RGVWOUpPOWFXZ0t1UUk2a0FscW1INmZuRHoxb25COFEteXo0LThOb0JyeEhEdUMtZXlxb0hjTXRyaGV30gHPAUFVX3lxTFBuNENUX0hQV0YyNU53M1lGYnp2b0ZVSXJDVFBCWFEwV3ljMjR2MmY5X2RBRkZOUVM5dXNDb0R3SEE0NWtTWGVkcmkzWHdTZUlZWTVtVEdLVjRTOVk0cWlxcThkVDlSV3VmVDB6NHR4WkhQU0xtNEZhbWR0QnAxTjJRd19IWlF5QUlVcGQ0QUZjRjNmY1pNamI3OGdBdm53bVY5SjZybGdrVk1fcS1HSlB5S2xpOU96bGs0WFlYTXNuMEdFaERkdWE4UEQ1MHU1NA?oc=5",
+     "source": "CNBC TV18"
     }
    ],
    "flags": []
@@ -355,48 +350,48 @@
  "etf": [
   {
    "symbol": "JUNIORBEES",
-   "close": 776.82,
-   "stop": 744.22,
-   "target": 825.72,
-   "score": 61,
+   "close": 774.78,
+   "stop": 741.99,
+   "target": 823.96,
+   "score": 60,
    "parts": [
     100,
-    69,
+    63,
     25,
     50
    ],
    "pattern": "Uptrend, above both averages",
    "timeframe": "1-3 months",
-   "why": "Uptrend, above both averages, RSI 64.",
+   "why": "Uptrend, above both averages, RSI 62.",
    "verified": true
   },
   {
    "symbol": "NIFTYBEES",
-   "close": 279.36,
-   "stop": 270.12,
-   "target": 293.22,
-   "score": 54,
+   "close": 284.22,
+   "stop": 274.23,
+   "target": 299.21,
+   "score": 52,
    "parts": [
     70,
-    70,
+    63,
     25,
     50
    ],
    "pattern": "Pullback inside a long-term uptrend",
    "timeframe": "1-3 months",
-   "why": "Pullback inside a long-term uptrend, RSI 75.",
+   "why": "Pullback inside a long-term uptrend, RSI 78.",
    "verified": true
   },
   {
    "symbol": "ITBEES",
-   "close": 36.58,
-   "stop": 33.63,
-   "target": 41.0,
-   "score": 43,
+   "close": 36.66,
+   "stop": 33.6,
+   "target": 41.25,
+   "score": 45,
    "parts": [
     70,
-    41,
-    12,
+    48,
+    13,
     50
    ],
    "pattern": "Pullback inside a long-term uptrend",
@@ -408,9 +403,9 @@
  "long": [
   {
    "symbol": "DIVISLAB",
-   "close": 10140.5,
-   "stop": 8315.21,
-   "target": 13182.65,
+   "close": 10320.5,
+   "stop": 8462.81,
+   "target": 13416.65,
    "score": 78,
    "parts": [
     100,
@@ -420,69 +415,86 @@
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 52% in 6 months, above its 200-day average, worst fall 10%, volatility 26%. Fundamentals not checked.",
+   "why": "Up 54% in 6 months, above its 200-day average, worst fall 10%, volatility 26%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "PAYTM",
-   "close": 1781.6,
-   "stop": 1460.91,
-   "target": 2316.08,
+   "close": 1794.4,
+   "stop": 1471.41,
+   "target": 2332.72,
    "score": 68,
    "parts": [
     100,
-    96,
+    94,
     28,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 64% in 6 months, above its 200-day average, worst fall 21%, volatility 42%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "MOTHERSON",
-   "close": 168.0,
-   "stop": 137.76,
-   "target": 218.4,
-   "score": 67,
-   "parts": [
-    100,
-    82,
-    37,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 32% in 6 months, above its 200-day average, worst fall 22%, volatility 31%. Fundamentals not checked.",
+   "why": "Up 62% in 6 months, above its 200-day average, worst fall 21%, volatility 42%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "ETERNAL",
-   "close": 358.3,
-   "stop": 293.81,
-   "target": 465.79,
+   "close": 363.15,
+   "stop": 297.78,
+   "target": 472.09,
    "score": 64,
    "parts": [
     100,
-    79,
+    77,
     28,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 40% in 6 months, above its 200-day average, worst fall 29%, volatility 30%. Fundamentals not checked.",
+   "why": "Up 41% in 6 months, above its 200-day average, worst fall 29%, volatility 30%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "ICICIBANK",
+   "close": 1571.2,
+   "stop": 1315.2,
+   "target": 1784.24,
+   "score": 62,
+   "parts": [
+    100,
+    40,
+    57,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 23% in 6 months, above its 200-day average, worst fall 16%, volatility 20%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "MOTHERSON",
+   "close": 158.55,
+   "stop": 136.42,
+   "target": 206.12,
+   "score": 62,
+   "parts": [
+    100,
+    60,
+    36,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 22% in 6 months, above its 200-day average, worst fall 22%, volatility 32%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "MARICO",
-   "close": 887.75,
-   "stop": 775.58,
-   "target": 1040.05,
+   "close": 897.75,
+   "stop": 776.33,
+   "target": 1042.57,
    "score": 61,
    "parts": [
     100,
-    38,
+    37,
     57,
     50
    ],
@@ -492,14 +504,31 @@
    "verified": true
   },
   {
+   "symbol": "TITAN",
+   "close": 5000.0,
+   "stop": 4324.24,
+   "target": 6345.66,
+   "score": 61,
+   "parts": [
+    100,
+    43,
+    51,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 16% in 6 months, above its 200-day average, worst fall 17%, volatility 25%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
    "symbol": "FEDERALBNK",
-   "close": 338.5,
-   "stop": 302.51,
-   "target": 402.11,
+   "close": 340.1,
+   "stop": 302.93,
+   "target": 406.64,
    "score": 60,
    "parts": [
     100,
-    35,
+    36,
     55,
     50
    ],
@@ -510,70 +539,36 @@
   },
   {
    "symbol": "TORNTPHARM",
-   "close": 4710.0,
-   "stop": 4374.95,
-   "target": 5428.5,
-   "score": 59,
+   "close": 4750.0,
+   "stop": 4379.45,
+   "target": 5673.53,
+   "score": 60,
    "parts": [
     100,
-    28,
+    32,
     59,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 13% in 6 months, above its 200-day average, worst fall 12%, volatility 24%. Fundamentals not checked.",
+   "why": "Up 12% in 6 months, above its 200-day average, worst fall 12%, volatility 24%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "APOLLOHOSP",
-   "close": 8371.0,
-   "stop": 7876.17,
-   "target": 10188.82,
+   "close": 8446.0,
+   "stop": 7881.67,
+   "target": 10488.89,
    "score": 58,
    "parts": [
     100,
-    28,
+    30,
     54,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
    "why": "Up 8% in 6 months, above its 200-day average, worst fall 16%, volatility 23%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "TITAN",
-   "close": 4834.6,
-   "stop": 4320.55,
-   "target": 5879.79,
-   "score": 58,
-   "parts": [
-    100,
-    32,
-    51,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 11% in 6 months, above its 200-day average, worst fall 17%, volatility 25%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "JSWSTEEL",
-   "close": 1355.6,
-   "stop": 1209.39,
-   "target": 1570.64,
-   "score": 57,
-   "parts": [
-    100,
-    22,
-    57,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 7% in 6 months, above its 200-day average, worst fall 13%, volatility 24%. Fundamentals not checked.",
    "verified": true
   }
  ],
