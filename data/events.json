@@ -1,5 +1,41 @@
 [
  {
+  "t": "2026-11-10T04:18+05:30",
+  "d": "2026-11-09",
+  "k": "New pick",
+  "m": "MOTHERSON entered your swing picks (score 65, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-11-10T04:18+05:30",
+  "d": "2026-11-09",
+  "k": "New pick",
+  "m": "APOLLOHOSP entered your swing picks (score 56, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-10T04:18+05:30",
+  "d": "2026-11-09",
+  "k": "New pick",
+  "m": "ETERNAL entered your swing picks (score 52, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-10T04:18+05:30",
+  "d": "2026-11-09",
+  "k": "New pick",
+  "m": "HDFCBANK entered your swing picks (score 51, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-10T04:18+05:30",
+  "d": "2026-11-09",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-10T04:18+05:30",
+  "d": "2026-11-09",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-07T01:18+05:30",
   "d": "2026-11-06",
   "k": "New pick",
@@ -202,41 +238,5 @@
   "d": "2026-10-29",
   "k": "New pick",
   "m": "KOTAKBANK entered your swing picks (score 63, Breakout with volume)."
- },
- {
-  "t": "2026-10-30T00:15+05:30",
-  "d": "2026-10-29",
-  "k": "New pick",
-  "m": "JSWSTEEL entered your swing picks (score 51, Near 20-day high)."
- },
- {
-  "t": "2026-10-30T00:15+05:30",
-  "d": "2026-10-29",
-  "k": "New pick",
-  "m": "MARICO entered your swing picks (score 50, Breakout with volume)."
- },
- {
-  "t": "2026-10-30T00:15+05:30",
-  "d": "2026-10-29",
-  "k": "New pick",
-  "m": "PAYTM entered your swing picks (score 50, Pullback to 50-day average)."
- },
- {
-  "t": "2026-10-30T00:15+05:30",
-  "d": "2026-10-29",
-  "k": "Data check",
-  "m": "Checked against BSE: 20 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-30T00:15+05:30",
-  "d": "2026-10-29",
-  "k": "News",
-  "m": "News: headlines found for 9 of 9 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-29T00:06+05:30",
-  "d": "2026-10-28",
-  "k": "New pick",
-  "m": "HEROMOTOCO entered your swing picks (score 51, Near 20-day high)."
  }
 ]
