@@ -1,5 +1,35 @@
 [
  {
+  "t": "2026-11-12T01:27+05:30",
+  "d": "2026-11-11",
+  "k": "New pick",
+  "m": "INDIGO entered your swing picks (score 60, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-12T01:27+05:30",
+  "d": "2026-11-11",
+  "k": "New pick",
+  "m": "TITAN entered your swing picks (score 59, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-12T01:27+05:30",
+  "d": "2026-11-11",
+  "k": "New pick",
+  "m": "IDFCFIRSTB entered your swing picks (score 56, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-12T01:27+05:30",
+  "d": "2026-11-11",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-12T01:27+05:30",
+  "d": "2026-11-11",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-10T04:18+05:30",
   "d": "2026-11-09",
   "k": "New pick",
@@ -208,35 +238,5 @@
   "d": "2026-10-30",
   "k": "New pick",
   "m": "APOLLOHOSP entered your swing picks (score 55, Near 20-day high)."
- },
- {
-  "t": "2026-10-30T23:51+05:30",
-  "d": "2026-10-30",
-  "k": "New pick",
-  "m": "INDIGO entered your swing picks (score 49, Pullback to 50-day average)."
- },
- {
-  "t": "2026-10-30T23:51+05:30",
-  "d": "2026-10-30",
-  "k": "New pick",
-  "m": "CIPLA entered your swing picks (score 42, Near 20-day high)."
- },
- {
-  "t": "2026-10-30T23:51+05:30",
-  "d": "2026-10-30",
-  "k": "Data check",
-  "m": "Checked against BSE: 21 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-10-30T23:51+05:30",
-  "d": "2026-10-30",
-  "k": "News",
-  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-10-30T00:15+05:30",
-  "d": "2026-10-29",
-  "k": "New pick",
-  "m": "KOTAKBANK entered your swing picks (score 63, Breakout with volume)."
  }
 ]
