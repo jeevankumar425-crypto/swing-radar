@@ -1,7 +1,7 @@
 {
  "ok": true,
- "time": "2026-11-12T03:41+05:30",
- "asof": "2026-11-11",
+ "time": "2026-11-13T02:06+05:30",
+ "asof": "2026-11-12",
  "notes": [
   "Checked against BSE: 23 match, 0 not tagged, 0 removed.",
   "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
