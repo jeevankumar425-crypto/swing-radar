@@ -1,5 +1,47 @@
 [
  {
+  "t": "2026-11-14T01:42+05:30",
+  "d": "2026-11-13",
+  "k": "New pick",
+  "m": "GVT&D entered your swing picks (score 53, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-14T01:42+05:30",
+  "d": "2026-11-13",
+  "k": "New pick",
+  "m": "MOTHERSON entered your swing picks (score 52, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-11-14T01:42+05:30",
+  "d": "2026-11-13",
+  "k": "Warning",
+  "m": "FEDERALBNK: Federal Bank Says Tax Demand And Penalty Of 1.5 Million Rupees Set Aside; Appeal Disposed Off - TradingView"
+ },
+ {
+  "t": "2026-11-14T01:42+05:30",
+  "d": "2026-11-13",
+  "k": "New pick",
+  "m": "KOTAKBANK entered your swing picks (score 50, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-14T01:42+05:30",
+  "d": "2026-11-13",
+  "k": "Data check",
+  "m": "Checked against BSE: 22 match, 1 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-14T01:42+05:30",
+  "d": "2026-11-13",
+  "k": "Data check",
+  "m": "Kept without tag: GVT&D on 11 Nov: NSE 4223.40 vs BSE 4172.30, 1.2% apart"
+ },
+ {
+  "t": "2026-11-14T01:42+05:30",
+  "d": "2026-11-13",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-13T02:06+05:30",
   "d": "2026-11-12",
   "k": "New pick",
@@ -196,47 +238,5 @@
   "d": "2026-11-04",
   "k": "Data check",
   "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-11-05T01:43+05:30",
-  "d": "2026-11-04",
-  "k": "News",
-  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-11-04T01:25+05:30",
-  "d": "2026-11-03",
-  "k": "New pick",
-  "m": "MARICO entered your swing picks (score 64, Breakout with volume)."
- },
- {
-  "t": "2026-11-04T01:25+05:30",
-  "d": "2026-11-03",
-  "k": "New pick",
-  "m": "BHARTIARTL entered your swing picks (score 51, Breakout with volume)."
- },
- {
-  "t": "2026-11-04T01:25+05:30",
-  "d": "2026-11-03",
-  "k": "Data check",
-  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-11-04T01:25+05:30",
-  "d": "2026-11-03",
-  "k": "News",
-  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-11-03T03:33+05:30",
-  "d": "2026-11-02",
-  "k": "New pick",
-  "m": "JSWSTEEL entered your swing picks (score 64, Breakout with volume)."
- },
- {
-  "t": "2026-11-03T03:33+05:30",
-  "d": "2026-11-02",
-  "k": "New pick",
-  "m": "KOTAKBANK entered your swing picks (score 50, Near 20-day high)."
  }
 ]

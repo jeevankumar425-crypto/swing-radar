@@ -1,9 +1,10 @@
 {
  "ok": true,
- "time": "2026-11-13T03:23+05:30",
- "asof": "2026-11-12",
+ "time": "2026-11-14T01:42+05:30",
+ "asof": "2026-11-13",
  "notes": [
-  "Checked against BSE: 23 match, 0 not tagged, 0 removed.",
+  "Checked against BSE: 22 match, 1 not tagged, 0 removed.",
+  "Kept without tag: GVT&D on 11 Nov: NSE 4223.40 vs BSE 4172.30, 1.2% apart",
   "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
  ],
  "error": null
