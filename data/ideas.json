@@ -1,461 +1,362 @@
 {
- "asof": "2026-11-16",
+ "asof": "2026-11-17",
  "swing": [
   {
    "symbol": "CIPLA",
-   "close": 1394.5,
-   "stop": 1364.6,
-   "target": 1472.78,
+   "close": 1388.0,
+   "stop": 1370.5,
+   "target": 1458.29,
    "score": 70,
    "parts": [
     100,
-    38,
-    81,
-    62
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 56, volume 0.9x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Cipla (CIPLA) Share Price Today (NSE), Market News - TechGraph",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCV3NmVXU1bEFrQVFHWXltQ2hnLVl0V0JES3VKX0Z3a2ZSak5LWTlJMGdiWGJFQUY0ajA3MVBPQ2dFdGRqZnhoM2c5SVV6VVBKZW5WeVdXemZNaDRxeWc?oc=5",
-     "source": "TechGraph"
-    },
-    {
-     "title": "Hikma Pharma appoints Umang Vohra as Independent Director - pharma.economictimes.indiatimes.com",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3loVVdQUlVkeVFwcTJtZ3hQT3hpNlljQ2l1blZlWFVDZUxsWTFGNlExMnd1aFZ5bDZKM21FNTM4TVNtMkUzMlg5THN3Rko1cWZKa1gwVEY5QXIwdVltR0xpZFZOUW0yeUIzU3F4a05JbGk3M2JhZzllZ0lXYkI5bTdfdjBzejV3N1J5QW9uMWVKMGFVNEhWaTgyS1lpTkpzU3h3ZlFEN2JycEthMTF4cUdpdW96WnNzZlltVzhpalZQdnNSWTczMUMxckjSAdIBQVVfeXFMUFpQVlJGb05DWF9xUUc0c25Cb1cwOFRyU3ZpX3o1TGRaTWd1TktURXRSWjNZbDVraV9OLWk2MExGRWJab1RvbFllYk11ejNJN1lLaHFPbktNc1B5UkNINHBlWlFZdWIwYW5tOUtXd1dMcmxsV3B1Um5Ed1JJUVd3LXQzcWlsS01jZzNEbnM0VWJpTGY2eUIxY2ViUlVUajVyWFNQODJydFdCd2RsOFpxYURkeUs5M1FfeVJBZnNtRWdmN245RFhqSWpWaXVfemhYODdB?oc=5",
-     "source": "pharma.economictimes.indiatimes.com"
-    },
-    {
-     "title": "Hikma Pharma Appoints Former Cipla CEO Umang Vohra as Independent Director - Medical Dialogues",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcEE2QVFKaWwxYkR3ZVlDSVVuV0hYVjZWYkVvVUR5Skp5Mzh0VGFhRXcya09DYVVUak9xTm13V1VvMDl4T2xnTzBJVXB0bzNqYXQwZzEyQlBqSm5HUHJqT2xkVmlMV3NTNU9oOHdVclVwYk5WZGRzRF9Qby1zTVI2dzZWR01tOGg2bkt6cWJOSHJ3M3ZlazY0azRRd2tnTmhISmx4TlphLTJoOG5pV0xPZDhWaWdkM0RCaDBrdlBDdmotV0RIQjZTWGtB0gHPAUFVX3lxTFBsdVJjUDBiYjlleHNSRVFrMDB4aG8yX3dRTmFCZ0tFdDUzN1RudTVmUXdhUndLN25OZ2lta19XNEhReG9ZSWRwN2JkYmk2SGtCeUZBZUEzZUxDY1lZazVqbUEzWG5yT0FGR1dka2hPS3FlQU1abXJrZ054UHdNOWgybEVGZXBIUGwwdGJwSUFIdVUtNEh6b25YX3p0emFfVF96b3N6UmxXTkJuRGl6VTlueFduRVZoN3gxTTA4S256emIxNEx6RHBhWDlxQ21hNA?oc=5",
-     "source": "Medical Dialogues"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "APOLLOHOSP",
-   "close": 8771.0,
-   "stop": 8352.64,
-   "target": 9398.54,
-   "score": 59,
-   "parts": [
+    29,
     100,
-    60,
-    25,
     50
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 64, volume 1.2x its 20-day average.",
-   "verified": true,
-   "headlines": [],
-   "flags": []
-  },
-  {
-   "symbol": "IDFCFIRSTB",
-   "close": 81.3,
-   "stop": 77.35,
-   "target": 87.23,
-   "score": 56,
-   "parts": [
-    100,
-    47,
-    25,
-    50
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 61, volume 0.8x its 20-day average.",
-   "verified": true,
-   "headlines": [],
-   "flags": []
-  },
-  {
-   "symbol": "MOTHERSON",
-   "close": 162.98,
-   "stop": 152.56,
-   "target": 181.18,
-   "score": 52,
-   "parts": [
-    100,
-    34,
-    37,
-    38
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 52, volume 0.9x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "MOTHERSON Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PVUJ6NjNNczFMQ1RrSnE2clRTOHdPeS1RRXM1U0F3UU5PbS1SU29pUUJWemdveW5KTXZoVW5peG9mdDlvV1JtR3hudEVuTHp4SEN6b3JGd2F5R2d6YWNZQUxyc2NaNGpuOHc2Tw?oc=5",
-     "source": "Equitypandit"
-    },
-    {
-     "title": "Samvardhana Motherson International (NSEI:MOTHERSON) - Stock Analysis - Simply Wall St",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3BSbjBUNU51Sk42emxyQ2xFbkJjR004SkpoWmxCQjBzRl83YTBSTEFmX1U3UnNuamdrT19NVEIxY1FuMjF5X1pNNTNQeVRkQ0h2aGJXTUN6U0xFYmd6VVFTcWlDMlJuNWVQV2dwb08tSms5dk5kUW5PTWRIM3h6RndtRkVXUzlaQ3p2OXdtV0VYS3RRSGlSaHYtc3J6MU0tUmc?oc=5",
-     "source": "Simply Wall St"
-    },
-    {
-     "title": "Non-auto, market share gains to drive growth for Samvardhana Motherson - Business Standard",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0JWZ2tXSm5pbWs3Smd0N0czdENQUTlXbmpNT05BNkNrNHZudEFyZlNkVTZ0VldLeEo2MzlFWXhuMmdSajJ2ZE5Sc3B3MjE0NndZcnV1Z2l1aU1QNEhVcHVwaEdieEFMMUpfQW1QZEtUeG1qNTZXZGo4ekpZakM1VHJXb1pYRmNDcjVqWF9xYWJ2MWZHSThLVWdwM2JtbVM5enNOVG9wQmpOcVZUZVV1TC1MMjY5dlRHNHVJcHNhdmV3SV9SeUxYUGFlMXRnMXBPTXpyX2gtdXJVOGplQmdGbVNWeXlxd9IB6wFBVV95cUxQV09TZzdtTFY4NlRsY1hxcHVVRGtURkw3V0swOVRVMUJrcmotei0yWkQwM093cE5kR2M2X08tdWFQZWRzT1hWRDY2T3NrZ0NMRnpKMkZRV0dtbG5naWVDQ01iZDhfTDV6WVVMREhEdGhQUW83bk5XNml0cGhXZmVXeWRmUF9hWUlrWWhrVmJGWk4yVE1nUHZZZHM3TlVWTWRCSjVpaExzOC1odVpCdU50bUxGT0l1VldfTlA2VTlTYnQyVlctOTZvSG1sMjhpcWlhcFBaWmFaaGNTTmZUdFlTREgwWWV0YkgwaElj?oc=5",
-     "source": "Business Standard"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "ETERNAL",
-   "close": 371.1,
-   "stop": 352.5,
-   "target": 399.0,
-   "score": 51,
-   "parts": [
-    100,
-    30,
-    25,
-    50
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 71, volume 0.8x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "ETERNAL LIMITED Option Chain - Live ETERNAL LIMITED Option Chain Data, OI & Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SZ2VhNHhXZllrdFUtbTFUNndYTnVpS0tPaDlfY0VNOWhfOFBlMU1HdTJqQm1iYi1Kb0U5SGlnM0I1TEFWLTlGUVB4cHVsZzJ4M2VPcUpVaXVLc01q?oc=5",
-     "source": "Upstox"
-    },
-    {
-     "title": "Zomato-parent Eternal reassesses 2030 EV delivery target as fleet expands and adoption evolves - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU2dLRFZyNlI2TU9hNzhWUGxmTUY4M1NvMUhVTTNITXNDc1dPa1pzYUs4ckU2bHp1bkNrYmw0NEdyRWdNVFY3Y253Yk5najRJelk3Ql84bEJRVi1CcU5ZTldKUzJFQXV5S1ppYmtLZHhtbDJxcEZ2YUJLeEFWX2QwT0RBXzJwLUhiaWpjVWRWTEJ5bmR3Y3M5N2xQTlNINGtUM0NSZW84eldMLVlob3VmRmxDVXcydlMtWFBvcU1XV196bkZ6M2xJQWdLd0ZyaFM2NzFmSFJkTUNod3h3TVRxcmtsMUFXNExHVEtCQ0ZOZW04ZlHSAfoBQVVfeXFMT05BdXFWUjQ2bUV1NXlIYno5SUFVYnNrLTR4YWpOTWlmTjFoQ2dwTlYyOVVHZ0xiSENrdG5lSldITXoyamxaWkxOM1d5NFRpU2lEcTlYOGVSM3NTd0R0c1JFUHlPRVoySkJ5cVFqNmhKVTlaVFdkbTZHVTV3YmM0LTJXRnZOUm84YS10ak5Nem9pNHpxWFhrcTFUVTlZdk9mMmVyc3FjUVltcW90dnJDTDdRM1BKV2pDLU5yRjlGemtvdGxuZnoteDdrSUxYc25vUHdKcWM3N1JWcDZSb0RQdkxzYkFMM25iZWM4YUtUbUltUmswalZkV253UQ?oc=5",
-     "source": "BusinessLine"
-    },
-    {
-     "title": "Eternal Rethinks 2030 Deadline For Fully Electric Delivery Fleet - Inc42",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHVKMDdjMVVKNVBJNGFZZnNEaU9OV0JqaUN1SUVkWjJRajdhLXgzMEcxN0pxY2ctaGxPOWhlQVhpbFVLdnp1bDVpTG5KeVV4bEFWVFlNYThlUktCVUlUNkpmeWxKY05ydzk4RUNnaWRyeVhmUnlvNHJ3enFGVFZsRUJCVURiX2RUWGV2bTFONklRZw?oc=5",
-     "source": "Inc42"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "MARICO",
-   "close": 913.65,
-   "stop": 866.75,
-   "target": 984.0,
-   "score": 51,
-   "parts": [
-    100,
-    28,
-    25,
-    50
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 72, volume 0.7x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 53, volume 0.7x its 20-day average.",
    "verified": true,
    "headlines": [],
    "flags": []
   },
   {
-   "symbol": "FEDERALBNK",
-   "close": 362.0,
-   "stop": 345.37,
-   "target": 386.94,
-   "score": 50,
-   "parts": [
-    100,
-    39,
-    25,
-    35
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 67, volume 0.6x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Virendra Somwanshi on Building Federal Bank\u2019s Wealth Management Business - Hubbis",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzIzVE1TS3pnMjF5S1Atb2o5ZXdoWU55YzE0eXd0bkdCWmFUQ093andGUzBiU0N0TEc5ejNOX0ZUdUh5VDZMZzVmcllIczZEMlZPUmtTMjRoM2VjSTE0TEJUU0V0YWZZaDZpN2dBQlNYaE1RMDRiRnNUOU10eEVyTDNoY1Z3bHFuMG9wSGlCWHJrWExYZFRFdU5DTkdxem5Y?oc=5",
-     "source": "Hubbis"
-    },
-    {
-     "title": "Federal Bank\u2019s Landmark Q4 Net Profit At Rs12.59 Bn - https://www.fintechbiznews.com/",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0VqUllRelJnZ1NEMWlZRnRKWHdDam5MbDZMNTczdlU2NjF2Y29wSHItY0pJNFktTjN1cFJnODVLTzhER2hIdzJBWkw1TlFSUDhBRU1UbldxZ0RZRHp0a1VfWVBqTGtqVnhnNERuYWRDQ284VnhwMktEb21DRmJBbjBNRW1uTC1ORm41cDJrZ0RvZzZxc0ZYMldn?oc=5",
-     "source": "https://www.fintechbiznews.com/"
-    },
-    {
-     "title": "Federal Bank hikes FD interest rates for senior citizens: Check revised rates - CNBC TV18 - LinkedIn",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzBvM3VXQUltQjU0bTcyY0VkUEV4MVF4ejd3ZTNvVmtBcjRZM090aENRUlBSZnZ4eE1paFNCSVY2N3AzYkl6T3JlVlNhSHJ0YzZPOFRyQ2cwdGFOaklTemdjZkVoOFowSHJaQXBSWi1hQmkxeDhpMzlWcl81Wm9sYklwV2dZbkNfMWRZeTM4QmdqQm9NM29wbFR2MmV5WEN3ekM3dUdGdUhUckVYZi1jS1NJWkJPUQ?oc=5",
-     "source": "LinkedIn"
-    }
-   ],
-   "flags": [
-    "Federal Bank Says Tax Demand And Penalty Of 1.5 Million Rupees Set Aside; Appeal Disposed Off - TradingView"
-   ]
-  },
-  {
-   "symbol": "ICICIBANK",
-   "close": 1585.0,
-   "stop": 1516.81,
-   "target": 1687.28,
-   "score": 48,
+   "symbol": "HCLTECH",
+   "close": 1355.7,
+   "stop": 1336.77,
+   "target": 1469.29,
+   "score": 67,
    "parts": [
     100,
     18,
-    25,
-    50
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 76, volume 0.6x its 20-day average.",
-   "verified": true,
-   "headlines": [],
-   "flags": []
-  },
-  {
-   "symbol": "KOTAKBANK",
-   "close": 494.2,
-   "stop": 473.7,
-   "target": 524.95,
-   "score": 48,
-   "parts": [
     100,
-    18,
-    25,
     50
    ],
-   "pattern": "Near 20-day high",
+   "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 76, volume 0.6x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 46, volume 0.9x its 20-day average.",
    "verified": true,
    "headlines": [],
    "flags": []
   },
   {
    "symbol": "HEROMOTOCO",
-   "close": 5359.5,
-   "stop": 5108.5,
-   "target": 5787.64,
-   "score": 47,
+   "close": 5329.0,
+   "stop": 5202.5,
+   "target": 5756.61,
+   "score": 64,
    "parts": [
     70,
-    33,
-    35,
+    37,
+    100,
     50
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 54, volume 0.7x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 52, volume 1.0x its 20-day average.",
    "verified": true,
-   "headlines": [
-    {
-     "title": "HEROMOTOCO Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JaE9zTmwzYzZEQV9tVy1sb043c2J6WTVGWW1fcC1MMFkxdmltS2w4ZWcxTExfVkZtWF9NZFpHaFlYYzVuTFJIcVcxM1QxLVpjeVBzNy10UEJ3S1k1T2RleE1PX2RGcEhCQXpraExR?oc=5",
-     "source": "Equitypandit"
-    },
-    {
-     "title": "Jemimah Rodrigues joins Hero MotoCorp and VIDA as brand ambassador - afaqs!",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN3d6aVhiVjF3S2NpM2lwMjlxNW50LWxpblFqTGFpRnRWelpwb256Y053X1hCYi0wV1d6aEJ4ckNxMTNtQ0hCd3hXUkd6ZjItcGpaWHlsX2FkMjlxYlVBRHlXcmR2WmcweElDbm1kZEVNYUJJR29qa3ZRY19vcm9NOHpzTGhjTDJJY1pwQ1ZTWmhLemhwS0VUekQ3WXE4UDVGQkVWdWF0cVJrWjQ?oc=5",
-     "source": "afaqs!"
-    },
-    {
-     "title": "Hero MotoCorp Spotted Testing New Electric Streetfighter: Is It Vida UBX? - NDTV",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSktHckVJbmRkV2lDWGVXRXVYZnN0VVhwSGk4YmlLOUJ2a2daMHBmaU5EMmhRZ0NnOVdrNlJiLW1CVktBbHpLTlN2cFZqV3RZb09JNEdtRWpHWHN6dzRsUzNOWl9QcU16U0oyeEkxSUxYVnZ6TURtYjA3X3JFU3NYWmZXbktwdjdXTUlKZFF6Ti1INGM0WkhCMDJoZkRBWngySC0zemlkdHNNd9IBsgFBVV95cUxPZXkyclBqWFNQYkwzdFd0SWhYaVYxblZuOGlUMnhUNmwtVldNUDhQQzBYQi10ckgydjJXOTFvcTFLd3dLLVFKUnBLdm9oOU04NWxFdjBBUEJ6RmN2Z2dDbHozOEJuZmV2RWJEZzJPVkFOeS15Wk40TXVwbW5Rd0lGMHBFSGRjWlE4NE9iWUNiZUR1NzFlUGo4VHhNQmFxLTFjeGUwQ3hxRDd2VThiUThVTEJn?oc=5",
-     "source": "NDTV"
-    }
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "IDFCFIRSTB",
+   "close": 83.59,
+   "stop": 79.43,
+   "target": 89.83,
+   "score": 59,
+   "parts": [
+    100,
+    62,
+    25,
+    50
    ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 66, volume 1.3x its 20-day average.",
+   "verified": true,
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "APOLLOHOSP",
+   "close": 8712.5,
+   "stop": 8303.71,
+   "target": 9325.68,
+   "score": 58,
+   "parts": [
+    100,
+    55,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 62, volume 0.9x its 20-day average.",
+   "verified": true,
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "ADANIPOWER",
+   "close": 208.07,
+   "stop": 198.17,
+   "target": 222.92,
+   "score": 57,
+   "parts": [
+    100,
+    53,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 62, volume 0.9x its 20-day average.",
+   "verified": true,
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "BHARTIARTL",
+   "close": 2138.3,
+   "stop": 2046.24,
+   "target": 2276.39,
+   "score": 52,
+   "parts": [
+    100,
+    31,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 71, volume 0.7x its 20-day average.",
+   "verified": true,
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 375.05,
+   "stop": 356.34,
+   "target": 403.11,
+   "score": 52,
+   "parts": [
+    100,
+    35,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 73, volume 1.0x its 20-day average.",
+   "verified": true,
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "FEDERALBNK",
+   "close": 365.8,
+   "stop": 349.46,
+   "target": 390.31,
+   "score": 52,
+   "parts": [
+    100,
+    34,
+    25,
+    50
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 69, volume 0.7x its 20-day average.",
+   "verified": true,
+   "headlines": [],
+   "flags": []
+  },
+  {
+   "symbol": "MOTHERSON",
+   "close": 164.39,
+   "stop": 152.56,
+   "target": 182.22,
+   "score": 52,
+   "parts": [
+    100,
+    32,
+    25,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 54, volume 0.5x its 20-day average.",
+   "verified": true,
+   "headlines": [],
    "flags": []
   }
  ],
  "etf": [
   {
    "symbol": "ITBEES",
-   "close": 35.45,
-   "stop": 34.73,
-   "target": 39.79,
-   "score": 63,
+   "close": 35.21,
+   "stop": 34.52,
+   "target": 39.34,
+   "score": 69,
    "parts": [
-    70,
-    33,
+    100,
+    27,
     100,
     50
    ],
-   "pattern": "Pullback inside a long-term uptrend",
+   "pattern": "Uptrend, above both averages",
    "timeframe": "1-3 months",
-   "why": "Pullback inside a long-term uptrend, RSI 54.",
+   "why": "Uptrend, above both averages, RSI 52.",
    "verified": true
   },
   {
    "symbol": "JUNIORBEES",
-   "close": 785.27,
-   "stop": 757.28,
-   "target": 827.26,
+   "close": 785.13,
+   "stop": 757.89,
+   "target": 825.98,
    "score": 58,
    "parts": [
     100,
-    57,
+    56,
     25,
     50
    ],
    "pattern": "Uptrend, above both averages",
    "timeframe": "1-3 months",
-   "why": "Uptrend, above both averages, RSI 63.",
+   "why": "Uptrend, above both averages, RSI 62.",
    "verified": true
   },
   {
    "symbol": "NIFTYBEES",
-   "close": 287.61,
-   "stop": 279.15,
-   "target": 300.3,
-   "score": 40,
+   "close": 289.6,
+   "stop": 281.04,
+   "target": 302.44,
+   "score": 41,
    "parts": [
     70,
-    16,
+    18,
     25,
     50
    ],
    "pattern": "Pullback inside a long-term uptrend",
    "timeframe": "1-3 months",
-   "why": "Pullback inside a long-term uptrend, RSI 78.",
+   "why": "Pullback inside a long-term uptrend, RSI 79.",
    "verified": true
   }
  ],
  "long": [
   {
    "symbol": "PAYTM",
-   "close": 1890.8,
-   "stop": 1550.46,
-   "target": 2458.04,
-   "score": 69,
+   "close": 1903.4,
+   "stop": 1560.79,
+   "target": 2474.42,
+   "score": 70,
    "parts": [
     100,
-    97,
-    29,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 69% in 6 months, above its 200-day average, worst fall 21%, volatility 41%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "FEDERALBNK",
-   "close": 362.0,
-   "stop": 305.22,
-   "target": 455.96,
-   "score": 66,
-   "parts": [
-    100,
-    58,
-    55,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 29% in 6 months, above its 200-day average, worst fall 15%, volatility 24%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "ETERNAL",
-   "close": 371.1,
-   "stop": 304.3,
-   "target": 480.09,
-   "score": 64,
-   "parts": [
-    100,
-    74,
+    98,
     30,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 51% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
+   "why": "Up 66% in 6 months, above its 200-day average, worst fall 20%, volatility 41%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "FEDERALBNK",
+   "close": 365.8,
+   "stop": 305.65,
+   "target": 465.26,
+   "score": 66,
+   "parts": [
+    100,
+    61,
+    55,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 31% in 6 months, above its 200-day average, worst fall 15%, volatility 24%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 375.05,
+   "stop": 307.54,
+   "target": 487.57,
+   "score": 64,
+   "parts": [
+    100,
+    77,
+    30,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 56% in 6 months, above its 200-day average, worst fall 29%, volatility 29%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "ICICIBANK",
-   "close": 1585.0,
-   "stop": 1319.97,
-   "target": 1798.94,
-   "score": 63,
+   "close": 1598.7,
+   "stop": 1321.2,
+   "target": 1817.68,
+   "score": 64,
    "parts": [
     100,
-    45,
+    47,
     57,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 27% in 6 months, above its 200-day average, worst fall 16%, volatility 20%. Fundamentals not checked.",
+   "why": "Up 28% in 6 months, above its 200-day average, worst fall 16%, volatility 20%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "MOTHERSON",
-   "close": 162.98,
-   "stop": 137.72,
-   "target": 211.87,
+   "close": 164.39,
+   "stop": 137.98,
+   "target": 213.71,
    "score": 63,
    "parts": [
     100,
-    65,
+    66,
     36,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 29% in 6 months, above its 200-day average, worst fall 22%, volatility 32%. Fundamentals not checked.",
+   "why": "Up 27% in 6 months, above its 200-day average, worst fall 22%, volatility 32%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "MARICO",
-   "close": 913.65,
-   "stop": 780.44,
-   "target": 1103.88,
-   "score": 62,
-   "parts": [
-    100,
-    40,
-    56,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 18% in 6 months, above its 200-day average, worst fall 13%, volatility 24%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "TITAN",
-   "close": 4910.0,
-   "stop": 4343.32,
-   "target": 5883.47,
+   "close": 924.0,
+   "stop": 781.27,
+   "target": 1129.26,
    "score": 61,
    "parts": [
     100,
-    40,
-    54,
+    37,
+    57,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 19% in 6 months, above its 200-day average, worst fall 17%, volatility 22%. Fundamentals not checked.",
+   "why": "Up 14% in 6 months, above its 200-day average, worst fall 13%, volatility 24%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "INDIGO",
-   "close": 5544.0,
-   "stop": 4680.8,
-   "target": 6231.69,
-   "score": 59,
+   "close": 5611.0,
+   "stop": 4684.21,
+   "target": 6412.87,
+   "score": 60,
    "parts": [
     100,
-    47,
+    49,
     39,
     50
    ],
@@ -465,14 +366,48 @@
    "verified": true
   },
   {
+   "symbol": "TITAN",
+   "close": 4908.0,
+   "stop": 4347.64,
+   "target": 5817.06,
+   "score": 60,
+   "parts": [
+    100,
+    38,
+    54,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 18% in 6 months, above its 200-day average, worst fall 17%, volatility 22%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "TORNTPHARM",
+   "close": 4668.8,
+   "stop": 4401.22,
+   "target": 5546.35,
+   "score": 60,
+   "parts": [
+    100,
+    27,
+    61,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 9% in 6 months, above its 200-day average, worst fall 12%, volatility 23%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
    "symbol": "APOLLOHOSP",
-   "close": 8771.0,
-   "stop": 7918.46,
-   "target": 10801.8,
+   "close": 8712.5,
+   "stop": 7927.75,
+   "target": 10612.74,
    "score": 58,
    "parts": [
     100,
-    29,
+    28,
     54,
     50
    ],
@@ -480,27 +415,10 @@
    "timeframe": "1-3 years",
    "why": "Up 8% in 6 months, above its 200-day average, worst fall 16%, volatility 23%. Fundamentals not checked.",
    "verified": true
-  },
-  {
-   "symbol": "TORNTPHARM",
-   "close": 4691.2,
-   "stop": 4397.69,
-   "target": 5559.24,
-   "score": 58,
-   "parts": [
-    100,
-    24,
-    60,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 7% in 6 months, above its 200-day average, worst fall 12%, volatility 23%. Fundamentals not checked.",
-   "verified": true
   }
  ],
  "notes": [
   "Checked against BSE: 23 match, 0 not tagged, 0 removed.",
-  "News: headlines found for 5 of 10 picks (simple keyword check, not a full reading)."
+  "News: headlines found for 0 of 10 picks (simple keyword check, not a full reading)."
  ]
 }

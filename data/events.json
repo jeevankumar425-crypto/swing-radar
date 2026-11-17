@@ -1,5 +1,35 @@
 [
  {
+  "t": "2026-11-18T02:59+05:30",
+  "d": "2026-11-17",
+  "k": "New pick",
+  "m": "HCLTECH entered your swing picks (score 67, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-11-18T02:59+05:30",
+  "d": "2026-11-17",
+  "k": "New pick",
+  "m": "ADANIPOWER entered your swing picks (score 57, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-18T02:59+05:30",
+  "d": "2026-11-17",
+  "k": "New pick",
+  "m": "BHARTIARTL entered your swing picks (score 52, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-18T02:59+05:30",
+  "d": "2026-11-17",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-18T02:59+05:30",
+  "d": "2026-11-17",
+  "k": "News",
+  "m": "News: headlines found for 0 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-17T04:11+05:30",
   "d": "2026-11-16",
   "k": "New pick",
@@ -208,35 +238,5 @@
   "d": "2026-11-06",
   "k": "New pick",
   "m": "DIVISLAB entered your swing picks (score 55, Near 20-day high)."
- },
- {
-  "t": "2026-11-07T01:18+05:30",
-  "d": "2026-11-06",
-  "k": "Data check",
-  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-11-07T01:18+05:30",
-  "d": "2026-11-06",
-  "k": "News",
-  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-11-06T01:56+05:30",
-  "d": "2026-11-05",
-  "k": "New pick",
-  "m": "MOTHERSON entered your swing picks (score 74, Breakout with volume)."
- },
- {
-  "t": "2026-11-06T01:56+05:30",
-  "d": "2026-11-05",
-  "k": "New pick",
-  "m": "JSWSTEEL entered your swing picks (score 64, Breakout with volume)."
- },
- {
-  "t": "2026-11-06T01:56+05:30",
-  "d": "2026-11-05",
-  "k": "New pick",
-  "m": "SUNPHARMA entered your swing picks (score 61, Breakout with volume)."
  }
 ]
