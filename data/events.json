@@ -1,5 +1,53 @@
 [
  {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "New pick",
+  "m": "PERSISTENT entered your swing picks (score 64, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "New pick",
+  "m": "KOTAKBANK entered your swing picks (score 54, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "New pick",
+  "m": "LIQUIDBEES entered your swing picks (score 46, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "New pick",
+  "m": "TITAN entered your swing picks (score 44, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "New pick",
+  "m": "ICICIBANK entered your swing picks (score 44, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "Warning",
+  "m": "ICICIBANK: HC quashes ICICI Bank's nod to prosecute Chanda Kochhar in loan fraud case - Business Standard"
+ },
+ {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-19T02:32+05:30",
+  "d": "2026-11-18",
+  "k": "News",
+  "m": "News: headlines found for 9 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-18T02:59+05:30",
   "d": "2026-11-17",
   "k": "New pick",
@@ -190,53 +238,5 @@
   "d": "2026-11-09",
   "k": "New pick",
   "m": "APOLLOHOSP entered your swing picks (score 56, Near 20-day high)."
- },
- {
-  "t": "2026-11-10T04:18+05:30",
-  "d": "2026-11-09",
-  "k": "New pick",
-  "m": "ETERNAL entered your swing picks (score 52, Near 20-day high)."
- },
- {
-  "t": "2026-11-10T04:18+05:30",
-  "d": "2026-11-09",
-  "k": "New pick",
-  "m": "HDFCBANK entered your swing picks (score 51, Breakout with volume)."
- },
- {
-  "t": "2026-11-10T04:18+05:30",
-  "d": "2026-11-09",
-  "k": "Data check",
-  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-11-10T04:18+05:30",
-  "d": "2026-11-09",
-  "k": "News",
-  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-11-07T01:18+05:30",
-  "d": "2026-11-06",
-  "k": "New pick",
-  "m": "CIPLA entered your swing picks (score 58, Near 20-day high)."
- },
- {
-  "t": "2026-11-07T01:18+05:30",
-  "d": "2026-11-06",
-  "k": "New pick",
-  "m": "BAJAJ-AUTO entered your swing picks (score 58, Breakout with volume)."
- },
- {
-  "t": "2026-11-07T01:18+05:30",
-  "d": "2026-11-06",
-  "k": "New pick",
-  "m": "PAYTM entered your swing picks (score 56, Near 20-day high)."
- },
- {
-  "t": "2026-11-07T01:18+05:30",
-  "d": "2026-11-06",
-  "k": "New pick",
-  "m": "DIVISLAB entered your swing picks (score 55, Near 20-day high)."
  }
 ]
