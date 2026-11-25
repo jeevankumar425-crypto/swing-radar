@@ -1,145 +1,301 @@
 {
- "asof": "2026-11-23",
+ "asof": "2026-11-25",
  "swing": [
   {
    "symbol": "CIPLA",
-   "close": 1399.9,
-   "stop": 1381.3,
-   "target": 1471.96,
-   "score": 70,
+   "close": 1433.2,
+   "stop": 1382.2,
+   "target": 1509.7,
+   "score": 74,
    "parts": [
     100,
-    32,
-    100,
-    50
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 54, volume 0.5x its 20-day average.",
-   "verified": true,
-   "headlines": [],
-   "flags": []
-  },
-  {
-   "symbol": "PERSISTENT",
-   "close": 6282.5,
-   "stop": 5967.07,
-   "target": 6755.64,
-   "score": 66,
-   "parts": [
-    100,
-    87,
+    85,
     25,
-    50
+    86
    ],
    "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 68, volume 2.1x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 63, volume 1.7x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Persistent Systems says employee data may have been leaked in law firm cyber incident - ETLegalWorld",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTkI1TktpZTNUVE9ia0ItX1dIekxtLVptYU9EQ2ZsNEVNWWl2bmM0U1lNSFMzOVRDeER6TVJZSElKR1pFSUl2UHJFbWVzd2lDdkNWbmJxdTVDUGdENmNyb1FpOUxkTjJDRVFRVnp2RTBkbmFqa1hyWGF2cUZTckxHYmhxRXQ1a0hPYktLeWVXdXp0cDBtdTZBYkNIZWVIdkhmZ1FIcmcwUlpIZjBtenB4QzBiX21FT3c0ZlFkcDY0ZG9qVExURWxhSDlSdUk0YVdEbDFVRFd3SWQtaWF5bDMzdVdQZFM1SHNyczlVZGhqOUVpQ2U20gH4AUFVX3lxTE90eTU0bjZUUkd1cHk5c2xMM2t1SkpLZmJPampjQU5oWkdxa0FUaVJMdHd3Q0pNblVJeEpaRWJpT1NnUndodUlkZWwwY0NBQm1tZzNLNXVoMU96OGpBa0o3UWsxX2lJN21DQnZjUEFkdVF3ZFpURDFIUHd6QUVqVHAzaEU5aVNGLWRwX21EeHNxaUtiZDRrMkVmLTVEWEhnUVgwQ2ZGR0R6ZFR0MU1vU0o3UGduMkJhOWdfQUFrcm5mM0luN0hCRjVXOURpNjIxd1AteUVzSUpJSTU1V2wtblZjbldEbnVTZ1pEVjZtR05lOVV4eVl5X3o2?oc=5",
-     "source": "ETLegalWorld"
+     "title": "CIPLA Stock Price and Chart \u2014 NSE:CIPLA - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoSkFuMXFra3l2bzBsTG04N3prSjdmWjU5VlRqSVdHN19DQ1ZDZjhtUXAzXzZrTGpmd3FPUHZTdEZpWFZyNFREdXVfNS1ybGx1WGRLSk5QUVBkQQ?oc=5",
+     "source": "TradingView"
     },
     {
-     "title": "Persistent Systems Share Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OQXZRQUQ2OUhWQnJnQldBZjZMNkN2TEZFazJEWmUwNDQxVlhjRkRPV1dWZkNJU1MwRWRCZTZ0NWRub01TQ05DOGJESXZjRmVxWi1BdzE2Zkxud0FtNmVtY1RSMGZOdVU1WEpoOGJn?oc=5",
-     "source": "Upstox"
+     "title": "Cipla Secures USFDA Approval for First Generic Flovent HFA Inhaler; Shares Rise 0.86% - HDFC Sky",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWMzTm9wZDJmQlU4OG52Z3BZRVpGRFVNb2VWSVBBOUZnc2FSbmIxc2NfWE1CbjNWbGduLWZsSEgtSk1OaXZscWNaei0zVXhmejd6Mkh1UzV6bEdtSEdlZExocG1GVGZvUDBKYlAzTGxETDBFN0NKeDMxclNBdXk4ODBqRnhKbTRNQWc5b1RaUHB6cEhpSy1JQ2lBa041dldwVEVubExR?oc=5",
+     "source": "HDFC Sky"
     },
     {
-     "title": "Khaitan & Co Advises Persistent Systems on INR 7,600 Crore Acquisition Financing for Nagarro SE Deal | SCC Times - SCC Online",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnZhejBiSUtpNXpFU0RqbmxkTEdoZmFPdy1hNFRZM3Y2dWgxUWNXQnRwX0xIbGg4eVcyenROZGJuNlRxNjFKXzA1bEV0VkljUi02dXlNWmZpaWdKa3UwNkJHbVJ0U2pBUlY3dk5nekxVS3ZyTHJSVnhNLUctUDhWQUlxdGxmUjZ4RG1DSHR1Zl9ITHRIZ3JBcW9yVGYyS25LX3VuVG95czhlQXh2UjFtVE5jaFZTZWJmZ2c?oc=5",
-     "source": "SCC Online"
+     "title": "Cipla launches first generic equivalent of Flovent HFA in US after FDA approval - Express Pharma",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWpHMGRFMVgwT2c3d2xzXzh2UkVxclQ2c05XZkZYeG5UTUFCb182OC1tUTdTY3djRjBpZXU4SlVJUzR2SU1IeEhkOXZXUDZoeXlhT2xEZE5PZk1tbGgwSlNNWjlNY0dxLWwtRVBKZmtMT29WbDhtWFY5ejZmcGs3aWdtc2NvX09uSUxCaDE2al9KLWZtSWh4YkFybVZZREZHZ25uazZSOGlkUFUyMXc?oc=5",
+     "source": "Express Pharma"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "BAJAJ-AUTO",
-   "close": 10643.0,
-   "stop": 10433.0,
-   "target": 11302.14,
+   "symbol": "JSWSTEEL",
+   "close": 1302.5,
+   "stop": 1283.5,
+   "target": 1391.71,
+   "score": 68,
+   "parts": [
+    100,
+    22,
+    100,
+    50
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 50, volume 0.7x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "JSWSTEEL Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pV1JXb01mdGhtczY5YVRrNnM2ZjlCMmpocjlhbHFoZDI2YjAyUmdPczl3UjM1Z0IzSHNzbURRYmEtRUxLX2pTX1ZHRDJyVlc2T1pPbWF1dWcwdGpWbHpxZzh1ZlEySFFzVVRR?oc=5",
+     "source": "Equitypandit"
+    },
+    {
+     "title": "Tata Steel vs JSW Steel vs Hind Zinc: Which stock looks stronger on charts? - Business Standard",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ0QzUDFReHBGRlZPT01QU2dmS3lybnNuTEkzZVpZbEpZdEdpcFhEdkM4cDVXT1NJb3ZRZmJHNDNodzUwVU9HMWpGTG1rNS1EcXhrbEdMNkJQNFdTdkRFVzh3QndVd1ZnaTdrWkZpSFN5RGV0V1k5MmVBcEVOYlUyQjBqTUFEOE1OLWl3OTZGQ3ZmcGV1TEpiLUVLSjY1Y1FjSkI2NHpULVVEVUZGYjE2MnJTNUdTRnAzN0V4d2VlRlRTOE9FSDNPQTNOMUU2bVlyM1BnWVZ3M19iUFBFUDNrRFdMa3dmd9IB6wFBVV95cUxNMXVqSnlwSVdLZ3ZXejJBYlVmQW13SDRhOTRDbVBxdkcxYlFLWF9TemlRU0tUYm9LRHJnMGlORkRsaWtnODlDOGdFTDRKY3I0b2lmUWhxTEtyWHhRRm1tSmUyWi1oSXp2WkVJQ2RTUnBzakJqamdzUXFNREJ0T3diUDJvWVVZck5pcm52X2NBOFEyQ2d0Z2lPSnAyMk10bzkxX1NpNjlkRk5ad0NfeG1idjRKNERXZXNacEpTc1I0WWR4VDhEODFVZ1FXLTJ4cWt0cENPVktOdEJRN3JZS1RIVzc3TkNkX1Vtb0Nz?oc=5",
+     "source": "Business Standard"
+    },
+    {
+     "title": "MCi Carbon, JSW Steel and JAKSON Green Ltd. Sign Tripartite MoU to Decarbonize Steel Waste in India - AZoCleantech",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sVk4wTUt2LVNBbXJOQ21sS3gtUGo0SkVfcXFhM2NILS1TeUxmUm02Q1dBS2lHa1lrTkYxTlNiLW5jaHdlbzROWHVrVUZETWFIX0UtWUtkUXNhanUwdW1VdQ?oc=5",
+     "source": "AZoCleantech"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "ETERNAL",
+   "close": 371.7,
+   "stop": 356.5,
+   "target": 401.39,
    "score": 65,
    "parts": [
-    60,
-    27,
     100,
-    74
+    61,
+    48,
+    50
    ],
-   "pattern": "Pullback to 50-day average",
+   "pattern": "Near 20-day high",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 49, volume 1.0x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 65, volume 1.3x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Bajaj Auto Share Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50M21LMFpOR1RxVm9QckdnTkotVGJ0NDRjcm8tUGdMd3pkNkhoRUhIYXVqdWtrNXJoaEpOOTFub2UxY2dNbXBSVU1mQ0w5bmxENjRQd0N3TVRyaEtsLWZ3YmYxdG5CUFBZ?oc=5",
-     "source": "Upstox"
+     "title": "Eternal Ltd closes trading window till Q1FY26 results - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmREQzNPcGJObFdPdUZqVzlzTXd2aDBFYXQ4Z2JBZHBsV1FGaWE5cHM1aFZyUkk4NzhQZFhDcEwtSWh6QW1ZNlMyWlhFS3oxc09YZkpJM04zSExpZ1lpNURjUzkySWtRMU1HbFI1N2lXa3lnbUhHN0VCM1Y3bWFMRC1QYno1aVY4ckF2N0VyeU1Ka2JpemtERFFJZkp2TkVsY3hDRTB0WVhOVnBnaThPRG9va3A?oc=5",
+     "source": "scanx.trade"
     },
     {
-     "title": "Bajaj Auto upgrades Pulsar RS200 with ride modes, traction control, 5-inch TFT display - ET Auto",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPclR6dGVxVHNFNllVMHNFYkRBYkdhQzBQSFY3dTRjWjN2eVROTkM5UnZQOGxuN2JRalBJRWxwSXBtMnRfMDQ0UDNWdUU4SFNzMm1tRllQYk1fbmk5Y2NWeXlHbnBzeVhQM2M2aWpWd1RVdHlCV3FJRVdzanJVZzJpQ1FvSy16MXFxcjV4cWtCSm5TRldqci1uVExpZzMxSlNLZmM5SThOTzZOZU9mTGpSTzZkaUxIV1NHVjVzZHQ5eGNzT0M5eUtiWkdIRFJTaGgtQlRpMEZkdzNxUFpiWFdrc3ZYZDZCVHVWdWfSAe4BQVVfeXFMT0gxNW9EaE9GOEJabVMzSWwxeGluX0ItQ0dFVFhWbnl3VEFaNENwRmd0R2pfRHdvUXB3NlVpdDhxRVBjZGlhQTJ1WF9EMlgxeGtPcG9Vdi1GRTJVZU9sWlZBcFI2Y2gwdVQ3em01T1VzZkFxRC1XbFpDVHBtQktvVXF5OXJ1UXFnM2Z5WEZBMzBGMWVHWGlkMUZCYW4xelo5RVdfbDVYQXQtdVRpRlI3STh2RWd0VUtiSU1jdVZCYU1rVE9KVFdWdmVQNGp0MUo0SlNsaEduUGhjbU5kS05nVy1HUUtTNmY0ZEc4bGVqUQ?oc=5",
-     "source": "ET Auto"
+     "title": "Eternal shares fall 1.5% after 52-week high; Why CLSA remains bullish - BusinessLine",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMHRMUl8wU3pBcEd1RHduaHhONjBzME8zVXp5QklnYlNDMUNjczZPYWZlS2J6MHVIbTVEOVlfaW5lQ1dUODE3TWpHd3N6YlVsN19oQVExMUx3dXVnaWRoN010M0N3OUQyT3lVN2oyN01Hc3c1SVFMMElHLVY5MW5lNWhnX3FpZm1LMUhJYlQyb1ZQdjFWR3Q1am94c2JvYWdqZENHeFI4ZzRsc0xiaUw0eHZKcC1udFhNckxYMUFQcVplaW5lT3ItdVhadThob1FZSklaNmVqOUJTRXVSSjNzWFdUMEk4elJEbDJOUW43REpselJhUktpT0hYTDR2eTRoVTZJ0gGKAkFVX3lxTFBFY202YTQ2cU9OTGY0YjBHZUNBTTd2azB1ZnpOYXNVUHgxcGFsemJIcXFYb21fX1JmU1BiTUViNUtkRTBidC0teDFEcl9aVXdRMGFMc19rYXZWallnNHY2UzJWc3FZQ0lnWGVqS2RZMTVhX2FrV2tEdUp6Y1pYRTNWalhpSXFkeGJGanZTODZ4T2VsTHFNTXZMUGxHSVU1MzRVSGR4TFFackgwUE5oc080Uy1sTUo0eVpubWs4RjJhTm05c0tCSlNsRVhTQmJyOHBId3o4QjBkci1adlczSUVEQi13dHpsSEsya2djYlFxLUNGREtBWWltNnR3TmhQTXNreTU5cmlhaThB?oc=5",
+     "source": "BusinessLine"
     },
     {
-     "title": "Bajaj Auto Ltd. Share Price Today - Bajaj Auto Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBad3AzckdOeEFtbHZlOVRBSnZqS19sSmM3UGxoNFFpbzBlV3NUcXFPZnY2VktHU29hcEVnbWo3TUpyRU1kMXRuWk1LSVRmcVY3SG10dUpLMUtCaG5Vb1I5bmdJa1B4cUNzZmdYOFZsT3diRjQ4d0FUS2pYNA?oc=5",
-     "source": "CNBC TV18"
+     "title": "Somnath Temple: The eternal flame of Bharat and the story of India\u2019s civilisational resilience - DD News",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGNiTGg4Q2ZtOVU4aEdUOVAxSGlvVzdpd0FZU2wxLUpvOGs0dGNfWGdUcWlOU2MyY2c3LXNfbFEtQm5YcUdtbzVZMlNpUGtWeS1ELW9DME9fclhsNmwtQ1lrRlVYa25BbDB5ZFpJc1RVZ1ZsdWMtZlo5ZEN0dkVoTHdmU3plUFUwVmszV2lfcWVyeVQwR0V2Qk1pODFnYXE1czBRelFEWFJDNUtyX1FOak9uTEhUVVlyLXc?oc=5",
+     "source": "DD News"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "TITAN",
-   "close": 4680.0,
-   "stop": 4524.0,
-   "target": 5116.48,
-   "score": 60,
+   "symbol": "INDIGO",
+   "close": 5720.0,
+   "stop": 5409.0,
+   "target": 6213.09,
+   "score": 65,
    "parts": [
     100,
-    26,
-    90,
-    26
+    68,
+    29,
+    62
    ],
-   "pattern": "Pullback to 50-day average",
+   "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 49, volume 0.9x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 69, volume 1.6x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "Titan Company Share Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLaEdJb1pERXM5Z3lpRHpvd0FueUNpN2V0VGsxc2p6bkhJVmpaaEFHUklFc1dOSUJiMkVBd1RkcmVXQW03aThSdktIMjgwaGtPUGRrWGJDMVN6c0tldTlSc09USm1sRjR0dFE1Ng?oc=5",
+     "title": "InterGlobe Aviation Ltd. Share Price Today - InterGlobe Aviation Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUg5SDViaXF2eUc1clliY1VzQmI0cFN2ZlBBX244aHpINVFibW9QMlRfcUNwNC1UWmxJSGFNM1dpNmg5N3FuT1R2LUlTRlJXNnJTZGd5NWVnd28xN2dNeWZZU0I1eG9JbDlyWWdhQ3NCTEtDcjZnOXpwSUxzY2YwM3JOLVBNbE0?oc=5",
+     "source": "CNBC TV18"
+    },
+    {
+     "title": "INTERGLOBE AVIATION LTD Option Chain - Live INTERGLOBE AVIATION LTD Option Chain Data, OI & Price - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RTHEwdDZXT0Z5endManBzaTV4ckV2QXp5YTByZWlsVnh3cXFEQkN2STZMdVpkRlhMRjM3SE80VzFpdUticTBWTnpDY0xYdFlqNlhTeEJGNGlmNm5RQXhRSzNld2xZSlU?oc=5",
      "source": "Upstox"
     },
     {
-     "title": "Titan Company Ltd falls 5.30% in Wednesday's session - Global Banking & Finance Review",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZE1wZGlIRDU4QmUtQ0hJdWV4aW1nUlFXOEFkWXlHT1pseFRiNzJuZlZRMnNZcEl2dFAyUXZSTXJheHdCb1pPZTZCQTFDWVRGV0dySXFseG03SEl0Zy1FMWhxZEtQU0JBOFFjWC1sR1NTSVZqNXpvOXFHLW1tQ3ZDOFpBUWFFQ2dDXzB1cA?oc=5",
-     "source": "Global Banking & Finance Review"
-    },
-    {
-     "title": "Jewellery Stocks Under Pressure as Gold Falls Below $3,800, Silver Nears 13-Month Low; Titan Leads Nifty Losers - Kotak Neo",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd3lVTkVScE5TbWRVVFNNQ3JyQmJlS2tDX21TX1I2TlZHWk5fbHBPekhabHUyZFJxTndJU1lSNnpFcVJQSXRGR1Z6ZjhxWnIxNWFOTHRSaXlqdWozNFZqUUNlSGpsS0FBckhCWjZZSkxLejlvRU94RnNNZkNuelQ4RXZScll0eFJ1d2RYRG9qRFdIQ2JXcU5uVFd3TTVPYkE0b2tCVlBVeEdBT0QtclkxVjQ1b1hFeTBTb0EtSU1tY1N4b1ZQdDFUdTBlZE1aUVlTYklqNEJtNHljUUZJd3I1cXdNYndtUUk?oc=5",
+     "title": "Closing Bell 25 November 2026: Sensex and Nifty 50 Rebound as FII Inflows and Lower Crude Support Markets - Kotak Neo",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTA3NUhnTHpORm9PckNaTGJlOG5Menl0bS15cFlHZEF4blNHRngyck13N0Zha2hQYkFfY0pYWDh0OHFEZktRZlV2dFFYMmhUTm1wV0lmeThFcUY4ck45WGJjMkJ6STktSktzMnZJZE9nMS1IZEZ3dGozeTF1a0JpcHdIVkYtZmk1V05rdVdWLXhxaHpsSmRwOTNydnRnMGs1MUE?oc=5",
      "source": "Kotak Neo"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "TORNTPHARM",
-   "close": 4763.7,
-   "stop": 4592.6,
-   "target": 5036.53,
-   "score": 58,
+   "symbol": "TITAN",
+   "close": 4686.6,
+   "stop": 4524.0,
+   "target": 5121.86,
+   "score": 64,
    "parts": [
     100,
-    74,
-    30,
-    26
+    22,
+    84,
+    50
    ],
    "pattern": "Pullback to 50-day average",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 56, volume 1.7x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 50, volume 0.8x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "TITAN Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PbjhQWXR1SHZGcG1kVGtRa3p0clEwbG5oTUM5TDdtazZTa2FOMDVPMS1uWk1SempoZGFPbmU0cnh5VEJGZHUyU2NIbGY5OXBMSXZJT2xlLVZ6U0lQdW1wVmpGMVc0UE0?oc=5",
+     "source": "Equitypandit"
+    },
+    {
+     "title": "Titan Company\u2019s Rating Reaffirmed, ICRA Raises Rated Amount - Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGVfTTA4S2xINHBBNF82ZDVqZFA4UmVrOHVaSG5UOEdVTWN4QjA2RGg1WDhtSEkxLUE0TnlZZHpCTFRXWHZObXlDN3JKb091OWpQZGh6ajhiQVJ6TDNZMUpFN3lzUXhCaEhVQjhsOWMzZzM1TUl3cWdnMUZWSXg4RU1tUnN5X2hfR0pTTm5tZUxoQQ?oc=5",
+     "source": "Traders Union"
+    },
+    {
+     "title": "Titan looks to ramp up watch retail network to 500 stores - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFNEQXM1VGgxdk9YWVo5SUJlWDNzSGFVTmljT19BSElWMmV1VHpfTk9ueExnLUZEaVZUaUF0Q19tSnZONHdmbzRRbElHNENUbmZscW9MLVZBU25HXzNfMk1tcU5ZdEpPb3NPRUJWYmdEUzF5RkRrUVp0blVqQ2p3ZUNRMTNuTGNfc2I0Z0ZPekltNXpaSzRDY0poTGkwV0x3elZqRGoza2ZicWNNcXVUYjd3ak0?oc=5",
+     "source": "TradingView"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "IDFCFIRSTB",
+   "close": 87.47,
+   "stop": 82.47,
+   "target": 94.97,
+   "score": 64,
+   "parts": [
+    100,
+    71,
+    25,
+    62
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 67, volume 1.6x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "IDFC FIRST Bank Goes Live On ICEGATE 2.0 Portal - https://www.fintechbiznews.com/",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUWZTaVNFdmRqX3gwOUs2TXBieVhmQ0hLQm9NRkZuQjJTRC1mamg1OU5LZl9DMF94TXZZaWpKX2I1ZWdjOUc2UktyM1A1Um5xWEd0OXcxUndWTDNpXzJ6YnZMNFBaSHBlNUR1ajFhUFp5TWlmOGNhenVHbUxOcG1CLWJUeDZqUEhtZjl6U3JCcVB3MkpLOUVj?oc=5",
+     "source": "https://www.fintechbiznews.com/"
+    },
+    {
+     "title": "IDFC FIRST Bank App Tops Forrester Mobile Banking Review - Elets BFSI",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOaHNfaUpMZURrZzE2QmJYTEZpVTRlQmpEUGxxUFFDbFJUSDR1T2lxUnRYaXc0SW16MW1LTEd6ZXczeGltTG5UdDE3cU83ekxkbWZZYWtHWUVBb3VaWDhlUDM3Y1o5OGNObHlN?oc=5",
+     "source": "Elets BFSI"
+    },
+    {
+     "title": "Harshad Jain to exit IDFC FIRST Bank after over seven years - IMPACT Magazine",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnB3cEYtbnV3MjZKWGN6Q2NiWFY2a3dKQzdNNVZHOGRoQTgtQXRIV0FGWi03dEVVYVJYQmM3Y0NGbm1tUnU3ZTBhak1HNXhrdmtBUkRfM0pHVFVxN0YzeDJOcVJ2MkRzaEIwdHk0VlZTOG5xS3Y2cmxBQ1RmVTFzZkY5R21neGs2OG5Pd2tZM291cmxlTEhvX1RyQ1B2RmZYaFNVN05mSE1tbUNIcGhXN3piT2R0dw?oc=5",
+     "source": "IMPACT Magazine"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "BAJAJ-AUTO",
+   "close": 10868.0,
+   "stop": 10433.0,
+   "target": 11539.36,
+   "score": 62,
+   "parts": [
+    100,
+    46,
+    27,
+    74
+   ],
+   "pattern": "Pullback to 50-day average",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 56, volume 1.0x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "Bajaj Auto upgrades Pulsar RS200 with ride modes, traction control, 5-inch TFT display - ET Auto",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPclR6dGVxVHNFNllVMHNFYkRBYkdhQzBQSFY3dTRjWjN2eVROTkM5UnZQOGxuN2JRalBJRWxwSXBtMnRfMDQ0UDNWdUU4SFNzMm1tRllQYk1fbmk5Y2NWeXlHbnBzeVhQM2M2aWpWd1RVdHlCV3FJRVdzanJVZzJpQ1FvSy16MXFxcjV4cWtCSm5TRldqci1uVExpZzMxSlNLZmM5SThOTzZOZU9mTGpSTzZkaUxIV1NHVjVzZHQ5eGNzT0M5eUtiWkdIRFJTaGgtQlRpMEZkdzNxUFpiWFdrc3ZYZDZCVHVWdWfSAe8BQVVfeXFMTTFxa2tYT2VZZnNjUnltQk9iUW45cWNoVEplbjhrWHgyVGpGX0JheXZpTjhkRkNTb25CcmZtbll3REswcGpCUDBZa2xPUkNIRFVpMTZ5M3hpbXo2XzV6aVdKQTFZLUFMNHBCNC1ZWVlVZ2dnM3ZacHUxV05VU2xURTZVOWdNbUdZQS1uX2IzVmU4V2pTajZTenlaalpCRDBpQ1JNMDF1dHBtTm82di1VN3dFSlk3NVEzVmxidnNOeG5jdWRDejBMelhqdE4xUVBXSlRSNGhHdFBRWWFuSmhkeU5TZnozT1dWa2U5aDQ5Mlk?oc=5",
+     "source": "ET Auto"
+    },
+    {
+     "title": "Bajaj Auto Ltd. Share Price Today - Bajaj Auto Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBad3AzckdOeEFtbHZlOVRBSnZqS19sSmM3UGxoNFFpbzBlV3NUcXFPZnY2VktHU29hcEVnbWo3TUpyRU1kMXRuWk1LSVRmcVY3SG10dUpLMUtCaG5Vb1I5bmdJa1B4cUNzZmdYOFZsT3diRjQ4d0FUS2pYNA?oc=5",
+     "source": "CNBC TV18"
+    },
+    {
+     "title": "Bajaj Auto Sales October 2026: Chetak Surges 84%, Total Dispatches Rise 10% to 2.93 Lakh Units - Autopunditz",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kNVUzSlotRTFOcDU1a1ZoNW9FdHp0YU56VHNwOFpqaWtqR2V5MmoxS2RvcnZwLU5mVzN4YWJCaFRENmlEWHhmWnVMM2hKc0xQQ2pBWGZTUlNybHVXYUlJT2lhUUl6Zzhx?oc=5",
+     "source": "Autopunditz"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "HINDUNILVR",
+   "close": 2141.8,
+   "stop": 2046.89,
+   "target": 2284.17,
+   "score": 57,
+   "parts": [
+    70,
+    82,
+    25,
+    50
+   ],
+   "pattern": "Breakout with volume",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 70, volume 2.7x its 20-day average.",
+   "verified": true,
+   "headlines": [
+    {
+     "title": "HINDUNILVR Share Price Today - Hindustan Unilever on NSE/BSE - scanx.trade",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dVFxdDhwZlY4ejgxamtBbTFJRWpQVk83RGl2UG1iaFdwSjVIRlNDNllqUnhvTzZnY1Y4dlU1ZlhaTVJ5cHd1NTB2bHJNamRuMnplSU5yOXBTaWZ5OXRN?oc=5",
+     "source": "scanx.trade"
+    },
+    {
+     "title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart - Upstox",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bURGcnlweERKTnRINldLZmR6b09TWm9SMDUzTkdvUlh3VDVoVGEtdkdFb1JYc2NtWEc1aExJUXJWZmZNc3NCVVhDNHJBNUxLdmVsMTJwZ1NLZWtZR3ZSd0Nhd2h6ZEk2UnJnMXFn?oc=5",
+     "source": "Upstox"
+    },
+    {
+     "title": "HINDUNILVR Outlook for the Week - Equitypandit",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rWm5mOE5XYkVwZ0txU1BseHdsQ0dZckZKVzdJcl90MkI1Vmx6X2g5eUpHM1U0VS1iV2pjM2RLUGtfeHZib0RORXZiR0J4U1FDTkRWNEM2MUtYeGhUZUc5TURVOVVNc0R4dS1sQVZR?oc=5",
+     "source": "Equitypandit"
+    }
+   ],
+   "flags": []
+  },
+  {
+   "symbol": "TORNTPHARM",
+   "close": 4895.5,
+   "stop": 4705.31,
+   "target": 5180.78,
+   "score": 56,
+   "parts": [
+    100,
+    61,
+    25,
+    38
+   ],
+   "pattern": "Near 20-day high",
+   "timeframe": "2-4 weeks",
+   "why": "Above 50 and 200-day averages, RSI 65, volume 1.2x its 20-day average.",
    "verified": true,
    "headlines": [
     {
@@ -148,166 +304,49 @@
      "source": "BusinessLine"
     },
     {
-     "title": "AUROPHARMA Share Price Today - Aurobindo Pharma on NSE/BSE - scanx.trade",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiQnJ4d2RVNERQTFY5NU9XS2dVZkkzQnl4SzFoNmQ0d2dXTUJDZHpPU2VNQWNEbHVUeFBQcUJsZktLQWxnQjdvZ1g5MVBCbWp6cnZlb2RtR2JQUkRv?oc=5",
-     "source": "scanx.trade"
-    },
-    {
-     "title": "Piramal Pharma Share Price Today Down 2.44%: What It Shows - Univest",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96WTludnRDLS1TMkkxVHNwaHNFRlBQYWNrSzdOd0R4dGhvWjQwelp1SWZGRmNaVUZ1cXV2S2ZCZUpSdFdmeDhXOWowQmotVmhoNnExdUd3RHZwXzZmcUo5eGp2T1hxZS1nUWlOMG1ya0t2V0FqQVhkUjRVbw?oc=5",
+     "title": "Torrent Pharmaceuticals Ltd. Share Price Rise Streak Today - Univest",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0ZQSHYtcldCNTk2b01iX3V0NEx4S2Ewai1TbXdvSWY4MEdYeDdETjdCcmFtdnI2TmpZN3FMdnNnSlBtOU9DeEFpdXN2SU9KdXZuTjhVNzk1b3E3RzN4d19mbWZ5MXJLTTJheUZXX2FPSXJ1VDFYSjBoWks3aEdxWWk0RVpwSHZMY1o0NHZSQW1TM0c1?oc=5",
      "source": "Univest"
+    },
+    {
+     "title": "Torrent Pharmaceuticals Stock: Trading, Earnings and Momentum - Kalkine India",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbGlRQU0tUXFydUYxTzdReVJSbUFQeXVXOGlGNWxUWFJKcmtITTlWX3Z2aEFrMWtmUlNsUDNsSjRvVDdoLWpIUGhJRGNOM2RDaXViZGZHektIa081VnB2Z3FZY2xqUWxPZ29uSHBRTUVuVlVFOHJjR0xnamtrVHlZb19CZk9HUV9fRjhtZXJqSVA4ZmFBRENod3pCb3FydTlEdm1OeVdMM0xNQjdGLXFuZVRrbDMyZGtXeGVMcHZ1WlVkN1p6dzlKT1dhRm1neEd4Q2wwSUJrRElobzcwYjJvdFhiRHJmcm1NUVo0Q0Fn?oc=5",
+     "source": "Kalkine India"
     }
    ],
    "flags": []
   },
   {
-   "symbol": "PAYTM",
-   "close": 1730.6,
-   "stop": 1664.3,
-   "target": 1955.79,
-   "score": 58,
-   "parts": [
-    60,
-    20,
-    100,
-    50
-   ],
-   "pattern": "Pullback to 50-day average",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 47, volume 0.9x its 20-day average.",
-   "verified": true,
-   "headlines": [],
-   "flags": []
-  },
-  {
-   "symbol": "MARICO",
-   "close": 919.5,
-   "stop": 891.1,
-   "target": 985.32,
+   "symbol": "AUBANK",
+   "close": 1006.05,
+   "stop": 945.19,
+   "target": 1097.34,
    "score": 56,
-   "parts": [
-    100,
-    36,
-    66,
-    20
-   ],
-   "pattern": "Near 20-day high",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 68, volume 0.8x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Marico Share Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lNWtHUUR0ZWM0TlNFVTVBaW1aSnZIeDBYUXY2OWY0TkRBQVRYaGpiaTFPR3dBZXd0ZW54NlhUX1R2VEVfODlUSVp3TU9HUWlxd1dkZHN1VVdFQXYwOVE3b001UQ?oc=5",
-     "source": "Upstox"
-    },
-    {
-     "title": "VERTICES PARTNERS advises Marico on \u20b9113 crore stake acquisition in Cosmix - Bar and Bench",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS2k5YXZrYlVPSXJOcVNRRW1kdEhwUFdLMjZSVlRUbmw4QkxQcFJ2UTgxMGx4M0VvZ2pocXE0OUFyVTFFVmhGWVRXdk1DS2ZXSXBNQmNzcDVZaEc3RDY0ekpySDVzVmRPckFlTWkxU2NOeFdpR1pXTEx0ODBKc01mRXdtNGZscjRPSWh3U3VKWU1ORGJpX1lWTzBXRmlPOTNwVEppRWNmbE1GMTl6ODJpQ0JrWUxPU2xucFdCc3B2d9IBzAFBVV95cUxNbVd2TVFid0N1TjJETy1xdTFCdFpmR0c1UDNEOE4wNlV2NG5vWGY4UEh1RDd2bzBlRFgwUHQ5a3B1RnRNNFlpTnJVLXpYeFhVdXp2dFV1SER2VlFNcWVFeFZleUMwX0k1eWhGaGVxWVh5TDNMQVl2b2pkRmNPZmlBS3c1M3dfaWpHNjBsT1kwVUhHRHd6QVpta1BSbUFMNE0wYV9ycmNzem5qQ3p2RHpobHgxSVNoY25CYm0wWDZfcVFETFlGSFpHTmE3ZnY?oc=5",
-     "source": "Bar and Bench"
-    },
-    {
-     "title": "Marico launches new Livon campaign around on-the-go hair care - Indian Television Dot Com",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmI5YVQzbHA5bmNZQm1GSW9qLW5odmRjbGZ2Q1dCcndQMkxOUDhORXlCN3RKOV9LR0RQajBfR3hNUk1YTERrMzQ4UDIyWkRrdHdGNHd6UFlHd2JVYXhIVEhvRjMwM2xFZnJ2UDZaZG1UNmRZcHNza2RyTFFBcHl6NzNQOUp2QmcyVjJDRkZjYVc4UUI1Qkk4V3ZvZw?oc=5",
-     "source": "Indian Television Dot Com"
-    }
-   ],
-   "flags": [
-    "Marico imposes \u20b93 lakh penalty on director over wife's share purchase | He joined Marico as Independent Director in 2025 | Inshorts - Inshorts",
-    "Marico imposes \u20b93 lakh penalty on director's spouse for prohibited period trade - scanx.trade"
-   ]
-  },
-  {
-   "symbol": "COFORGE",
-   "close": 2142.3,
-   "stop": 2007.7,
-   "target": 2344.2,
-   "score": 56,
-   "parts": [
-    100,
-    63,
-    25,
-    38
-   ],
-   "pattern": "Breakout with volume",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 69, volume 1.5x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "Coforge Share Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9US3I1X0pBV2VvWTdZSE90dWhvY1FES1VvMnZ4b1JITGgzSk5KQUFtalBuX1VqT0F5cGtuRFhsbjRHSHlTR2t5Z3cxQktKRE1yUFREVWhmRVJiU2lwZ1BiZTI0YnY?oc=5",
-     "source": "Upstox"
-    },
-    {
-     "title": "F&O Strategy: Go long on Coforge - BusinessLine",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTM4SHJ1Z1FiQWcxOHZMN0xfVHFCSVQ4WDFTNjg2RFJZTUVPOVZjVWVHVWNZRzBUU2hGald4RXNhWUdvcHk1NXZ6VDVTanNTbGdNSldWZkIweWtZNXo2N05sZkFhM1NNMHZaUm92LXRVc09nRlZkUS02Mmk3MlR0MzhNUE5IbWd4eUFJdVVPTEI1Q1BEVjhDRzlYTGROeS1iSDNSYm5zVHUyYm5XTGhqNjlPbEx5NF9kZVhr0gHCAUFVX3lxTE4tVVhwMGlZTUdHUDNXNldJMm54aWdycGtHNUFiNjFPV2hkQXp5djR1bG9yVUd6TFFFaERWQk1mZ000S2ZnTXZobm5iMjZJcVpzQTV2RGpCeVNTSmpkd25CZkh3UUlhRW9nMEI2akY5WGx5d19nalUxZ25aODBocEozWm9aNWVFeGt6cnFZTHZXaXNTb1BFWVc0VXEzTVg4cW5hTm93ejhGQzNWdEFvaEcxaGtZUDB6LS1YTHdHRGhyTUtn?oc=5",
-     "source": "BusinessLine"
-    },
-    {
-     "title": "Coforge Ltd Breaks Consolidation, Reaches Rs 2,153 High - Multibagg AI",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeFZLYjE1YV8zQ1FjZEhIeUVQdEF3T3lhbl9mZ1h1Zjdzcy05bkhpWG51S2xEaEZhd2t2MmdIMnhYS1lOaEhCRHY2UkNTNWY2ekNBQl9qdERocmVSVzN0LTJqQlFra3gtS0VjUHE3WmJ5Q2NVU3N2eDJaMkVTRGNveERmdjYxaTVOWUYyMmw2TldvQU16R01hbUNtUlNNcTNwRWVwMG1kaEViTy03WVQ4c1RCRmthZw?oc=5",
-     "source": "Multibagg AI"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "APOLLOHOSP",
-   "close": 9257.0,
-   "stop": 8833.64,
-   "target": 9892.04,
-   "score": 56,
-   "parts": [
-    100,
-    51,
-    25,
-    50
-   ],
-   "pattern": "Breakout with volume",
-   "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 71, volume 1.3x its 20-day average.",
-   "verified": true,
-   "headlines": [
-    {
-     "title": "BMW VENTURES LIMITED Share Price - Upstox",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiU09ySjBXeVoyc0FPX2ZmelN0SHltaHpoTlJPODRDd3dUazdLSm1jbW15SDU0dW1teE51Y2xRaGRYcHotYlF2akNBNXAwRXkyM3ZUNkdCUGhlWEd5TnJNSmw4QlFtdkZENkgw?oc=5",
-     "source": "Upstox"
-    }
-   ],
-   "flags": []
-  },
-  {
-   "symbol": "HEROMOTOCO",
-   "close": 5535.0,
-   "stop": 5265.93,
-   "target": 5938.61,
-   "score": 54,
    "parts": [
     70,
-    61,
+    80,
     25,
-    62
+    50
    ],
-   "pattern": "Near 20-day high",
+   "pattern": "Breakout with volume",
    "timeframe": "2-4 weeks",
-   "why": "Above 50 and 200-day averages, RSI 61, volume 1.1x its 20-day average.",
+   "why": "Above 50 and 200-day averages, RSI 61, volume 1.6x its 20-day average.",
    "verified": true,
    "headlines": [
     {
-     "title": "HEROMOTOCO Outlook for the Week - Equitypandit",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JaE9zTmwzYzZEQV9tVy1sb043c2J6WTVGWW1fcC1MMFkxdmltS2w4ZWcxTExfVkZtWF9NZFpHaFlYYzVuTFJIcVcxM1QxLVpjeVBzNy10UEJ3S1k1T2RleE1PX2RGcEhCQXpraExR?oc=5",
-     "source": "Equitypandit"
+     "title": "AU Small Finance Bank kickstarts prep for around Rs 5,000 crore QIP; picks 3 i-banks - Moneycontrol.com",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaTUxYVhLbnB6aXJrU1Rxa0gtMTZkU0lBN3p4QXF5alRHbXlhWXBWRGljTUN4cXhPNUhZZmhIYXIwazB1VkRRMUVPMEhDTVFvY2xGSVNjQVFVQkVfbTk5NTlaQkJ3b1VzLTdaZm9xY1FUeUtjalRCZDdHaEVoZEtiR29FdW4wdnFheUxfUzd6T3FDSENDbXpGRkhMaURLUkdaOUpUaEZ4Wm80eUozdjV1X3FlQ2dkQ2dQSUZKTWg0QlB2T3F2eGxyQjhMZmt6c210LXRLTU45S1VMd9IB3wFBVV95cUxOUlIzQ3h0bXhHMU10aThIM3l5blA4amJnT1M5a0dCOHZnNE50NkhfM2tOTG1YZWZfOTd6azQwSTM1a2JXUjRoc0NncGw1ZHlfYjJIbUFsRzEtN0d4OHJ0VWNVOHNqU0RWQlZyV1RWZWc3LUpFYmY3YkRkYkY0c0RlcDFoSkpIUHV6U0NuazlHbWRUSVlpUXNuUGVDc1dZNGJJYUJEODdYaGJDMDVvQ3pfNy00SG5yZW93OEdwaWROcFdrejU4SHlibktqM3BpRnA0VVBNdzJ1OGdPeE1CY3Jn?oc=5",
+     "source": "Moneycontrol.com"
     },
     {
-     "title": "ITAT Grants Hero MotoCorp Relief Against \u20b927 Crore Tax Demand Spanning Six Assessment Years - Kotak Neo",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmdiVHl1UzF6QjcyTWpjMl9jaFVHM0lYY1pLQmdYTk1Ga3lkaDFnN0dtdWpOelJFbVBzd0pzR3RWaFJ2OV9UMzgzNGpOb3RKWC10aUtJVWh4SS1BNm5LM0FnNm85ZlJtMlhZaWpsVHljZndLUTR2RHZZdU16NGRNZllaemh5Q3MwVGxESzJyd0ZzODlTbS04aXJuMG9XRmtzUkxLU0dVVVEzb28?oc=5",
-     "source": "Kotak Neo"
+     "title": "Fortune India Best Banks & NBFCs 2026: AU Small Finance Bank\u2019s 10-year innings - Fortune India",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcnFRVFhaSmR5VlpRNEF5WVIwRnRhWFg4OGw5UVJQVEdGanFsZ3psRFh0ZTNneUtUTmtPVTgtTmFOY0JFSzloY3pGdmtEY1haTzVNR21LcUhrTWg3WTVEWktVRzBxb2k5eXE1LUpLRFVrTmljQmVJVFZWVUE1UFJRNTZPX0djZzNZcjh2Y1lDYnEzNHVidEs1MzR4OVAzYkVOSlV6ZjgwMk1GOUhMc1JLS1NBOHN5TGVrbUFrMkJR0gHLAUFVX3lxTE16TzBGdE52NkpVOHdIa1A4T1YyT0JpV2V5ak5tU0tuMVJEV3ZJMFJpeld1ZEo3RUlxeDRLTHZaeDg0ZU42MzgySWJSUFBmWjR1MHVxbjdNYVpVQUdLa3RZd0x5TEFGRXYwNWREQTllM1VXUV83TW1KWngyUWdlUFNhYU9KaU02Tm90czJwTGdRSVVLQVYtSnBiWVFkZ1VBc3hReXcwYUIzWGR5elVvT3UxRVFqNzBoSnVIaExocFpyV3JXamk3MDhEbGow?oc=5",
+     "source": "Fortune India"
     },
     {
-     "title": "Hero MotoCorp Sales October 2026: Volumes Rise 17% to 7.05 Lakh Units; Splendor Leads, Vida Surges 114% - Autopunditz",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yODg1M2hqbDB5LXMwNXpURngydHJMc016cDE3OGo1elgtOFpveThQVDRvT2FXZFg5ZW1CVjRJZmlvY3VDUXJKaGJFSkZ6OENfQ0t2X0ZzcnJEbXZNR2pSa1h5YnVFM3E5MGI2MXczazliSXM?oc=5",
-     "source": "Autopunditz"
+     "title": "Au Small Finance Bank Ltd. Share Price Live Today - CNBC TV18",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUVQVVp4VWQzdTNKOHR5ZzdGa1ljSFgwMlREbVMzQkpwT1JYSGNRQUxRTElwVEE3a2VWRGRzQzNVSUQybEl6RFYxeWRWcWF6NU5JRXV0djd2MFF1bnlkRUpDWDUxcWtJLW5rY3hqalhfXy1rV3BZc0RUMlU0RWl6MFBTVHdyUTlSYmRr?oc=5",
+     "source": "CNBC TV18"
     }
    ],
    "flags": []
@@ -316,230 +355,230 @@
  "etf": [
   {
    "symbol": "JUNIORBEES",
-   "close": 784.55,
+   "close": 788.33,
    "stop": 772.02,
-   "target": 826.73,
-   "score": 76,
+   "target": 830.97,
+   "score": 72,
    "parts": [
     100,
-    54,
-    100,
+    57,
+    81,
     50
    ],
    "pattern": "Uptrend, above both averages",
    "timeframe": "1-3 months",
-   "why": "Uptrend, above both averages, RSI 59.",
+   "why": "Uptrend, above both averages, RSI 61.",
    "verified": true
   },
   {
    "symbol": "ITBEES",
-   "close": 35.48,
+   "close": 35.75,
    "stop": 33.94,
-   "target": 39.24,
-   "score": 68,
+   "target": 39.55,
+   "score": 62,
    "parts": [
     100,
-    51,
-    72,
+    44,
+    55,
     50
    ],
    "pattern": "Uptrend, above both averages",
    "timeframe": "1-3 months",
-   "why": "Uptrend, above both averages, RSI 55.",
+   "why": "Uptrend, above both averages, RSI 57.",
    "verified": true
   },
   {
    "symbol": "NIFTYBEES",
-   "close": 289.43,
-   "stop": 283.05,
-   "target": 304.02,
-   "score": 58,
+   "close": 294.07,
+   "stop": 284.63,
+   "target": 309.01,
+   "score": 49,
    "parts": [
     70,
-    49,
-    64,
+    46,
+    29,
     50
    ],
    "pattern": "Pullback inside a long-term uptrend",
    "timeframe": "1-3 months",
-   "why": "Pullback inside a long-term uptrend, RSI 68.",
+   "why": "Pullback inside a long-term uptrend, RSI 72.",
    "verified": true
   }
  ],
  "long": [
   {
    "symbol": "COFORGE",
-   "close": 2142.3,
-   "stop": 1756.69,
-   "target": 2784.99,
+   "close": 2060.0,
+   "stop": 1689.2,
+   "target": 2678.0,
    "score": 68,
    "parts": [
     100,
-    92,
-    31,
+    93,
+    30,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 56% in 6 months, above its 200-day average, worst fall 23%, volatility 37%. Fundamentals not checked.",
+   "why": "Up 49% in 6 months, above its 200-day average, worst fall 23%, volatility 37%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "PAYTM",
-   "close": 1730.6,
-   "stop": 1419.09,
-   "target": 2249.78,
-   "score": 68,
+   "close": 1719.0,
+   "stop": 1409.58,
+   "target": 2234.7,
+   "score": 67,
    "parts": [
     100,
     91,
-    29,
+    28,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 50% in 6 months, above its 200-day average, worst fall 20%, volatility 43%. Fundamentals not checked.",
+   "why": "Up 49% in 6 months, above its 200-day average, worst fall 20%, volatility 43%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "ETERNAL",
-   "close": 362.1,
-   "stop": 296.92,
-   "target": 439.99,
-   "score": 64,
+   "close": 371.7,
+   "stop": 304.79,
+   "target": 483.21,
+   "score": 65,
    "parts": [
     100,
-    68,
+    75,
     36,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 50% in 6 months, above its 200-day average, worst fall 25%, volatility 29%. Fundamentals not checked.",
-   "verified": true
-  },
-  {
-   "symbol": "FEDERALBNK",
-   "close": 359.8,
-   "stop": 307.24,
-   "target": 445.63,
-   "score": 64,
-   "parts": [
-    100,
-    50,
-    54,
-    50
-   ],
-   "pattern": "Steady uptrend, shallow pullbacks",
-   "timeframe": "1-3 years",
-   "why": "Up 24% in 6 months, above its 200-day average, worst fall 15%, volatility 25%. Fundamentals not checked.",
+   "why": "Up 54% in 6 months, above its 200-day average, worst fall 25%, volatility 29%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "KOTAKBANK",
-   "close": 502.85,
-   "stop": 412.34,
-   "target": 593.22,
-   "score": 64,
+   "close": 509.0,
+   "stop": 417.38,
+   "target": 615.91,
+   "score": 65,
    "parts": [
     100,
-    55,
+    58,
     52,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 32% in 6 months, above its 200-day average, worst fall 18%, volatility 22%. Fundamentals not checked.",
+   "why": "Up 33% in 6 months, above its 200-day average, worst fall 18%, volatility 22%. Fundamentals not checked.",
+   "verified": true
+  },
+  {
+   "symbol": "FEDERALBNK",
+   "close": 356.2,
+   "stop": 307.58,
+   "target": 441.93,
+   "score": 64,
+   "parts": [
+    100,
+    52,
+    54,
+    50
+   ],
+   "pattern": "Steady uptrend, shallow pullbacks",
+   "timeframe": "1-3 years",
+   "why": "Up 26% in 6 months, above its 200-day average, worst fall 15%, volatility 25%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "ICICIBANK",
-   "close": 1585.5,
-   "stop": 1325.95,
-   "target": 1757.91,
-   "score": 63,
+   "close": 1640.0,
+   "stop": 1344.8,
+   "target": 1901.31,
+   "score": 64,
    "parts": [
     100,
-    44,
+    50,
     58,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 28% in 6 months, above its 200-day average, worst fall 15%, volatility 21%. Fundamentals not checked.",
+   "why": "Up 30% in 6 months, above its 200-day average, worst fall 15%, volatility 21%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "TECHM",
-   "close": 1777.5,
-   "stop": 1488.07,
-   "target": 2056.17,
+   "close": 1801.2,
+   "stop": 1488.36,
+   "target": 2114.39,
    "score": 62,
    "parts": [
     100,
-    45,
+    48,
     51,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 25% in 6 months, above its 200-day average, worst fall 13%, volatility 30%. Fundamentals not checked.",
+   "why": "Up 27% in 6 months, above its 200-day average, worst fall 13%, volatility 30%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "MARICO",
-   "close": 919.5,
-   "stop": 784.33,
-   "target": 1130.4,
-   "score": 60,
+   "close": 935.2,
+   "stop": 785.09,
+   "target": 1163.42,
+   "score": 61,
    "parts": [
     100,
-    31,
+    36,
     57,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 9% in 6 months, above its 200-day average, worst fall 13%, volatility 24%. Fundamentals not checked.",
+   "why": "Up 13% in 6 months, above its 200-day average, worst fall 13%, volatility 24%. Fundamentals not checked.",
    "verified": true
   },
   {
-   "symbol": "APOLLOHOSP",
-   "close": 9257.0,
-   "stop": 7970.15,
-   "target": 11366.5,
-   "score": 59,
+   "symbol": "INDIGO",
+   "close": 5720.0,
+   "stop": 4705.38,
+   "target": 6637.67,
+   "score": 60,
    "parts": [
     100,
-    33,
-    53,
+    49,
+    39,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 11% in 6 months, above its 200-day average, worst fall 16%, volatility 24%. Fundamentals not checked.",
+   "why": "Up 29% in 6 months, above its 200-day average, worst fall 21%, volatility 31%. Fundamentals not checked.",
    "verified": true
   },
   {
    "symbol": "TORNTPHARM",
-   "close": 4763.7,
-   "stop": 4413.78,
-   "target": 5640.07,
-   "score": 59,
+   "close": 4895.5,
+   "stop": 4418.21,
+   "target": 6027.04,
+   "score": 60,
    "parts": [
     100,
-    24,
-    61,
+    32,
+    60,
     50
    ],
    "pattern": "Steady uptrend, shallow pullbacks",
    "timeframe": "1-3 years",
-   "why": "Up 7% in 6 months, above its 200-day average, worst fall 12%, volatility 23%. Fundamentals not checked.",
+   "why": "Up 11% in 6 months, above its 200-day average, worst fall 12%, volatility 23%. Fundamentals not checked.",
    "verified": true
   }
  ],
  "notes": [
   "Checked against BSE: 23 match, 0 not tagged, 0 removed.",
-  "News: headlines found for 8 of 10 picks (simple keyword check, not a full reading)."
+  "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
  ]
 }

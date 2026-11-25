@@ -1,5 +1,53 @@
 [
  {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "New pick",
+  "m": "JSWSTEEL entered your swing picks (score 68, Pullback to 50-day average)."
+ },
+ {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "New pick",
+  "m": "ETERNAL entered your swing picks (score 65, Near 20-day high)."
+ },
+ {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "New pick",
+  "m": "INDIGO entered your swing picks (score 65, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "New pick",
+  "m": "IDFCFIRSTB entered your swing picks (score 64, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "New pick",
+  "m": "HINDUNILVR entered your swing picks (score 57, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "New pick",
+  "m": "AUBANK entered your swing picks (score 56, Breakout with volume)."
+ },
+ {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "Data check",
+  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
+ },
+ {
+  "t": "2026-11-26T03:35+05:30",
+  "d": "2026-11-25",
+  "k": "News",
+  "m": "News: headlines found for 10 of 10 picks (simple keyword check, not a full reading)."
+ },
+ {
   "t": "2026-11-24T06:02+05:30",
   "d": "2026-11-23",
   "k": "New pick",
@@ -190,53 +238,5 @@
   "d": "2026-11-17",
   "k": "News",
   "m": "News: headlines found for 0 of 10 picks (simple keyword check, not a full reading)."
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "New pick",
-  "m": "IDFCFIRSTB entered your swing picks (score 56, Near 20-day high)."
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "New pick",
-  "m": "ETERNAL entered your swing picks (score 51, Near 20-day high)."
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "New pick",
-  "m": "MARICO entered your swing picks (score 51, Near 20-day high)."
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "Warning",
-  "m": "FEDERALBNK: Federal Bank Says Tax Demand And Penalty Of 1.5 Million Rupees Set Aside; Appeal Disposed Off - TradingView"
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "New pick",
-  "m": "ICICIBANK entered your swing picks (score 48, Near 20-day high)."
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "New pick",
-  "m": "HEROMOTOCO entered your swing picks (score 47, Pullback to 50-day average)."
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "Data check",
-  "m": "Checked against BSE: 23 match, 0 not tagged, 0 removed."
- },
- {
-  "t": "2026-11-17T04:11+05:30",
-  "d": "2026-11-16",
-  "k": "News",
-  "m": "News: headlines found for 5 of 10 picks (simple keyword check, not a full reading)."
  }
 ]
